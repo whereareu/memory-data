@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-26T20:42:48.678395",
+  "last_updated": "2026-03-26T21:38:53.191542",
   "sources": [
     {
       "name": "掘金",
@@ -8,5 +8,30 @@
       "url": "https://juejin.cn"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "12da27d56786",
+      "title": "Flutter ngspice 插件",
+      "summary": "Flutter FFI 绑定 ngspice C 接口，实现一个 plugin 库： 可通过 pubspec.yaml 引入、上层提供 Dart API 接口、底层通过 FFI 调用 C 代码",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7620728823731814406",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7fb2d482061e4927808abdb2f479bfac~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR29Db2Rpbmc=:q75.awebp?rk3s=f64ab15b&x-expires=1775165932&x-signature=Rty%2B84ANv87261u5hVZNruY0PX8%3D",
+      "tags": [],
+      "published_at": "2026-03-25T01:59:57",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "580c1921098c",
+      "title": "Compose 中 CompositionLocalProvider 到底是干啥的",
+      "summary": "看完这篇文章，你不仅能彻底搞懂 CompositionLocalProvider，甚至还能把它讲得明明白白。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7620663088018931712",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ababb75a81384fe0b52dd6e8f4e8fe08~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1775165932&x-signature=2aMH%2F7iUqxk79U5RXdjDaeR7vQw%3D",
+      "tags": [],
+      "published_at": "2026-03-25T00:17:50",
+      "read_time_minutes": 5
+    }
+  ]
 }
