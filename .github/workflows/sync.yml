@@ -8,6 +8,10 @@ on:
   # 允许手动触发
   workflow_dispatch:
 
+# 显式设置权限
+permissions:
+  contents: write
+
 jobs:
   sync-articles:
     runs-on: ubuntu-latest
