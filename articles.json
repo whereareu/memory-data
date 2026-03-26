@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-26T17:13:09.433806",
+  "last_updated": "2026-03-26T19:19:03.266098",
   "sources": [
     {
       "name": "掘金",
@@ -8,30 +8,5 @@
       "url": "https://juejin.cn"
     }
   ],
-  "articles": [
-    {
-      "id": "967244fff044",
-      "title": "优雅解决Android app后台悬浮窗权限问题",
-      "summary": "背景 2025年10月起，小米将对悬浮窗权限（SYSTEM_ALERT_WINDOW）的使用场景进行调整，调整方案为： 当应用从前台切换到后台时，将仅支持以下业务功能需求下继续使用悬浮窗 1.视频聊天",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7620758316310790190",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ad613558f4504acd84eff3b01ee8ca19~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6LSn5ouJ5ouJ5oqA5pyv:q75.awebp?rk3s=f64ab15b&x-expires=1775149989&x-signature=C9SYlZ1zJz1AcIyplVhXPZ1u280%3D",
-      "tags": [],
-      "published_at": "2026-03-25T09:54:59",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "580c1921098c",
-      "title": "Compose 中 CompositionLocalProvider 到底是干啥的",
-      "summary": "看完这篇文章，你不仅能彻底搞懂 CompositionLocalProvider，甚至还能把它讲得明明白白。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7620663088018931712",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ababb75a81384fe0b52dd6e8f4e8fe08~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1775149989&x-signature=S2WTDtMkGtzhnHokeZ72dvGT0iM%3D",
-      "tags": [],
-      "published_at": "2026-03-25T00:17:50",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
