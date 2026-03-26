@@ -8,20 +8,14 @@ on:
   # 允许手动触发
   workflow_dispatch:
 
-  # 当 memory 仓库的 workflow 完成后触发
-  workflow_run:
-    workflows: ["Update Articles"]
-    types:
-      - completed
-
 jobs:
   sync-articles:
     runs-on: ubuntu-latest
 
-    # 只在 source workflow 成功时运行
-    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
-
     steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
       - name: Checkout memory repo
         uses: actions/checkout@v4
         with:
@@ -45,13 +39,12 @@ jobs:
           python main.py
 
       - name: Copy articles.json
-        run: |
-          cp memory/crawler/data/articles.json articles.json
+        run: cp memory/crawler/data/articles.json articles.json
 
       - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
           git add articles.json
           git diff --quiet && git diff --staged --quiet || git commit -m "🤖 更新文章数据 $(date '+%Y-%m-%d %H:%M:%S')"
           git push
