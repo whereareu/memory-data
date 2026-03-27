@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-27T07:19:49.868913",
+  "last_updated": "2026-03-27T09:02:52.922471",
   "sources": [
     {
       "name": "掘金",
@@ -10,13 +10,37 @@
   ],
   "articles": [
     {
+      "id": "c4bec2820854",
+      "title": "Flutter版本选择指南：3.41开始进入稳定区间 | 2026年3月",
+      "summary": "3.41.5已经具备进入生产评估池的条件，适合开始灰度升级。 3.38.10仍是稳健底座，适合追求确定性的团队继续持有。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7621744185659080756",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a7278e1aa2a242c2983b61f5119b97ef~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1775206972&x-signature=obibvq8dQxssYuZ9YBEJ0va%2BB%2B8%3D",
+      "tags": [],
+      "published_at": "2026-03-27T08:11:53",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "9bb6217de38b",
+      "title": "一套面向 Web、H5、小程序与 Flutter 的多端一致性技术方案",
+      "summary": "先以 Design Token 统一设计语言，再以组件 Contract、状态矩阵、页面 Pattern 和业务 Spec 统一实现边界，最后将规范结构化，供大模型进行受控生成、规则校验与辅助开发。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7621590075214856228",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-27T07:55:39",
+      "read_time_minutes": 5
+    },
+    {
       "id": "85210aff5e60",
       "title": "Android 17 新适配要求，各大权限进一步收紧，适配难度提升",
       "summary": "在之前的《Android 17 有什么需要适配的？》我们已经聊过了部分更新场景，而最近 Android 又进一步增加了权限部分的调整。 目前 Android 17 已经进入 Beta 后期阶段，而官方",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7621551215504228395",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4510d8251e494569b61e183ee11c24cf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775200789&x-signature=%2BpAAQw9semCGIbh0kwzKZu5rcO0%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4510d8251e494569b61e183ee11c24cf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775206972&x-signature=klzf1TnDFuSbPfXbq77fl6eQUhk%3D",
       "tags": [],
       "published_at": "2026-03-27T06:10:07",
       "read_time_minutes": 5
