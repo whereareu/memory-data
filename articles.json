@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-27T14:59:34.978791",
+  "last_updated": "2026-03-27T16:02:15.423496",
   "sources": [
     {
       "name": "掘金",
@@ -8,30 +8,5 @@
       "url": "https://juejin.cn"
     }
   ],
-  "articles": [
-    {
-      "id": "0c71202f73fc",
-      "title": "Jetpack Compose中的富文本输入",
-      "summary": "学会使用Jetpack Compose中的contentReceiver来为文本输入框添加图片等富文本媒体支持。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7621772907048779818",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b061422eb72a46b59526f06ef16eb7a9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1775228374&x-signature=li%2BUnX%2BG%2BUrTlLP2klwtj2pZl%2Bs%3D",
-      "tags": [],
-      "published_at": "2026-03-27T12:00:07",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "85210aff5e60",
-      "title": "Android 17 新适配要求，各大权限进一步收紧，适配难度提升",
-      "summary": "在之前的《Android 17 有什么需要适配的？》我们已经聊过了部分更新场景，而最近 Android 又进一步增加了权限部分的调整。 目前 Android 17 已经进入 Beta 后期阶段，而官方",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7621551215504228395",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4510d8251e494569b61e183ee11c24cf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775228374&x-signature=pZ57rviAQTelWFehUhQfwerNPWk%3D",
-      "tags": [],
-      "published_at": "2026-03-27T06:10:07",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
