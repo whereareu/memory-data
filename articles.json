@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-26T23:40:24.419311",
+  "last_updated": "2026-03-27T03:19:04.062100",
   "sources": [
     {
       "name": "掘金",
@@ -8,5 +8,18 @@
       "url": "https://juejin.cn"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "2c7fa0215ffd",
+      "title": "别在Android ViewModel里处理异常啦，真的很坑！",
+      "summary": "别在Android ViewModel里处理异常啦，真的很坑！ ViewModel 简介 在 Android 开发的 MVVM 架构中，ViewModel 扮演着举足轻重的角色。它就像是一个可靠的管家",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7621393797452824586",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-27T03:07:15",
+      "read_time_minutes": 5
+    }
+  ]
 }
