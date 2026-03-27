@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-27T21:44:13.010850",
+  "last_updated": "2026-03-27T22:41:22.615226",
   "sources": [
     {
       "name": "掘金",
@@ -8,5 +8,18 @@
       "url": "https://juejin.cn"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "85210aff5e60",
+      "title": "Android 17 新适配要求，各大权限进一步收紧，适配难度提升",
+      "summary": "在之前的《Android 17 有什么需要适配的？》我们已经聊过了部分更新场景，而最近 Android 又进一步增加了权限部分的调整。 目前 Android 17 已经进入 Beta 后期阶段，而官方",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7621551215504228395",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4510d8251e494569b61e183ee11c24cf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775256082&x-signature=c3YBd7JpGkQ9GFJl38gimVJWI7E%3D",
+      "tags": [],
+      "published_at": "2026-03-27T06:10:07",
+      "read_time_minutes": 5
+    }
+  ]
 }
