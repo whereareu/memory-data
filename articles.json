@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-28T14:39:16.676384",
+  "last_updated": "2026-03-28T15:38:43.406002",
   "sources": [
     {
       "name": "掘金",
@@ -8,5 +8,18 @@
       "url": "https://juejin.cn"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "9bb6217de38b",
+      "title": "一套面向 Web、H5、小程序与 Flutter 的多端一致性技术方案",
+      "summary": "先以 Design Token 统一设计语言，再以组件 Contract、状态矩阵、页面 Pattern 和业务 Spec 统一实现边界，最后将规范结构化，供大模型进行受控生成、规则校验与辅助开发。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7621590075214856228",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-27T07:55:39",
+      "read_time_minutes": 5
+    }
+  ]
 }
