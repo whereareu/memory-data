@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-28T07:08:30.468361",
+  "last_updated": "2026-03-28T08:51:13.493127",
   "sources": [
     {
       "name": "掘金",
@@ -8,5 +8,18 @@
       "url": "https://juejin.cn"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "cd29a0ba7660",
+      "title": "解锁Android权限申请新姿势：与前置说明弹窗共舞",
+      "summary": "解锁Android权限申请新姿势：与前置说明弹窗共舞 权限申请的痛点与需求 在 Android 应用开发中，权限申请是绕不开的重要环节。大家不妨回想一下日常使用 APP 的经历，当你满心欢喜打开一个新",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7621882183553908788",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-28T07:53:03",
+      "read_time_minutes": 5
+    }
+  ]
 }
