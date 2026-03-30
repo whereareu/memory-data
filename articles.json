@@ -1,37 +1,17 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-30T03:26:37.750607",
+  "last_updated": "2026-03-30T06:03:32.619331",
   "sources": [
     {
       "name": "掘金",
       "icon": "https://juejin.cn/favicon.ico",
       "url": "https://juejin.cn"
-    }
-  ],
-  "articles": [
-    {
-      "id": "b068994e1f10",
-      "title": "MVI with Jetpack Compose：让你的应用更简洁和整洁",
-      "summary": "你的应用在不断变大，代码变得杂乱无章。让我们来解决这个问题。 Jetpack Compose 让构建 Android UI 变得简单。但问题在于：当应用变大时，复杂度会快速飙升。按钮、加载动画、错误提",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7622336931721445422",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-03-30T02:59:03",
-      "read_time_minutes": 5
     },
     {
-      "id": "1bc1c79b4880",
-      "title": "Flutter 3.41.6 版本很重要，你大概率需要更新一下",
-      "summary": "--- theme: smartblue --- 最近 Flutter 更新了一个 hotfix 小版本 3.41.6 ，虽然这是一个小版本，但是它解决了一个长久以来的玄学 bug：**Andro",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7621948978659147810",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ebbef6f8d7e84aafbcb797c6a6709e18~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775445997&x-signature=XNpwb%2B%2F7ys7bFLztHpD0%2FcVHAgM%3D",
-      "tags": [],
-      "published_at": "2026-03-29T23:45:38",
-      "read_time_minutes": 5
+      "name": "CSDN",
+      "icon": "https://csdn.imgcdn.net/n/static/favicon.ico",
+      "url": "https://blog.csdn.net"
     }
-  ]
+  ],
+  "articles": []
 }
