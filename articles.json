@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-30T06:03:32.619331",
+  "last_updated": "2026-03-30T08:25:05.309801",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "b1445fb28ad9",
+      "title": "Swift 6.3  正式发布支持 Android ，它能在跨平台发挥什么优势？",
+      "summary": "最近 Swift 发布了 6.3 版本，而这个版本最特殊的地方在于：把 Android SDK 作为首个官方发布版本给加了进来，其实这个话题在去年的 《Swift 官方正式支持 Android》我们就",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7622335799020142598",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4543e3a527b24231bcc13c00d9257746~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775463902&x-signature=R5Xl5i%2Bi1d3f72CkDj429epVPWA%3D",
+      "tags": [],
+      "published_at": "2026-03-30T03:23:32",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "1bc1c79b4880",
+      "title": "Flutter 3.41.6 版本很重要，你大概率需要更新一下",
+      "summary": "--- theme: smartblue --- 最近 Flutter 更新了一个 hotfix 小版本 3.41.6 ，虽然这是一个小版本，但是它解决了一个长久以来的玄学 bug：**Andro",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7621948978659147810",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ebbef6f8d7e84aafbcb797c6a6709e18~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775463902&x-signature=qAbbFK4isdltGf07eEbbNgJbtCc%3D",
+      "tags": [],
+      "published_at": "2026-03-29T23:45:38",
+      "read_time_minutes": 5
+    }
+  ]
 }
