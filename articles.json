@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-30T10:23:47.824032",
+  "last_updated": "2026-03-30T11:58:59.879011",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "8a2dfbcde6f9",
+      "title": "Android 15音频子系统（五）：AudioPolicyService策略管理深度解析",
+      "summary": "深入解析Android 15 AudioPolicyService工作原理，包括音频策略配置、路由决策算法、ForceUse机制与设备优先级管理，以及Android 15中AIDL接口升级带来的新变化",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7622177349911986222",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2aaeceadb22f400fbb256a6ca93c82e7~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1775476733&x-signature=%2BDHcBoQSeaXmYPJdLCYnwWZ9%2BrM%3D",
+      "tags": [],
+      "published_at": "2026-03-29T12:32:33",
+      "read_time_minutes": 5
+    }
+  ]
 }
