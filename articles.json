@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-31T13:51:46.500909",
+  "last_updated": "2026-03-31T15:11:18.319188",
   "sources": [
     {
       "name": "掘金",
@@ -13,78 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "5ba576b9d5c7",
-      "title": "Android开发：精准捕获应用的前后台行踪",
-      "summary": "Android开发：精准捕获应用的前后台行踪 前后台判断：开启应用性能优化之门 在 Android 开发的广袤世界里，有一个看似基础却至关重要的技能 —— 准确判断应用处于前台（Foreground）",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623266346479501312",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-03-31T13:19:19",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "62e6210d6b86",
-      "title": "Android 15音频子系统（七）：音量控制系统深度解析",
-      "summary": "深入解析Android 15音量控制系统的三层架构，包括Stream音量、设备独立音量、音量曲线映射、绝对音量与DND机制，以及从音量键到硬件寄存器的完整调节链路",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623212907397136430",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/afb542d3380c4b8bac62347c6823e236~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1775569905&x-signature=avnaMT6B3mfsVQiS7VkH9z22DtA%3D",
-      "tags": [],
-      "published_at": "2026-03-31T12:49:41",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "b938e41e59a6",
-      "title": "Android Kotlin MVVM与MVI组合场景",
-      "summary": "Android Kotlin MVVM与MVI组合场景（多MVI应用场景详解） 一、MVI架构核心设计思想（精简版） MVI（Model-View-Intent）核心是三大原则+数据流思维，适配And",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623251359414878254",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-03-31T12:29:06",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "b1445fb28ad9",
-      "title": "Swift 6.3  正式发布支持 Android ，它能在跨平台发挥什么优势？",
-      "summary": "最近 Swift 发布了 6.3 版本，而这个版本最特殊的地方在于：把 Android SDK 作为首个官方发布版本给加了进来，其实这个话题在去年的 《Swift 官方正式支持 Android》我们就",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7622335799020142598",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4543e3a527b24231bcc13c00d9257746~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775569905&x-signature=%2Bxh0PuJwZeFQZXThL2U8CShArXU%3D",
-      "tags": [],
-      "published_at": "2026-03-30T03:23:32",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "331dd73c7539",
-      "title": "是时候告别业务层 Manager 了：Android 架构升级到 UseCase + Repository",
-      "summary": "在很多 Android 项目中，我们经常能看到各种 Manager： 这些类似乎什么都能做： 管理数据 协调业务 调用网络 操作数据库 维护状态 于是一个 Manager 很容易变成这样： 看起来似乎",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7622214939839807514",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/73ab113fdab34ced859bb2d282e42801~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&x-expires=1775569905&x-signature=PrtTsoSa58c9Iq9J4x3oa4WMxi8%3D",
-      "tags": [],
-      "published_at": "2026-03-29T23:58:27",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "1bc1c79b4880",
-      "title": "Flutter 3.41.6 版本很重要，你大概率需要更新一下",
-      "summary": "--- theme: smartblue --- 最近 Flutter 更新了一个 hotfix 小版本 3.41.6 ，虽然这是一个小版本，但是它解决了一个长久以来的玄学 bug：**Andro",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7621948978659147810",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ebbef6f8d7e84aafbcb797c6a6709e18~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775569905&x-signature=PLSYgZ81337pGFLRhvyt89nPjsM%3D",
-      "tags": [],
-      "published_at": "2026-03-29T23:45:38",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
