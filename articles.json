@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-31T03:18:04.492877",
+  "last_updated": "2026-03-31T05:48:10.133693",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "7de0b564315e",
+      "title": "9.  Android Shadow插件化如何解决资源冲突问题和实现tinker热修复资源（源码分析4）",
+      "summary": "**Q1: Shadow是如何实现tinker热修复动态修复资源文件？** > 不支持tinke",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7622696665741443122",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-31T03:59:55",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "0e04dfdd73bb",
+      "title": "Flutter面试九阳神功第六层：Platform Channels/三棵树/Key/动画，大白话+实操代码（2026版）",
+      "summary": "大家好，我是有14年Flutter开发经验的老鸟，从Flutter 1.0内测用到现在，面试过大批候选人，也踩过无数底层坑。今天严格对应Part6主题，用最接地气的大白话，把Flutter高级岗必懂的",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7622983244532252722",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-31T03:55:27",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "8d5a02383433",
+      "title": "AOSP Android13 新增Product实践",
+      "summary": "AOSP新增设备厂商Product，以及在lunch menu中显示。在源码中实践中总结和学习他人经验。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7623148018179866634",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-31T03:36:47",
+      "read_time_minutes": 5
+    }
+  ]
 }
