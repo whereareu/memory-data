@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-01T15:14:55.113920",
+  "last_updated": "2026-04-01T17:05:21.796062",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "7de0b564315e",
+      "title": "9.  Android Shadow插件化如何解决资源冲突问题和实现tinker热修复资源（源码分析4）",
+      "summary": "**Q1: Shadow是如何实现tinker热修复动态修复资源文件？** > 不支持tinke",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7622696665741443122",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-31T03:59:55",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "8d5a02383433",
+      "title": "AOSP Android13 新增Product实践",
+      "summary": "AOSP新增设备厂商Product，以及在lunch menu中显示。在源码中实践中总结和学习他人经验。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7623148018179866634",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-03-31T03:36:47",
+      "read_time_minutes": 5
+    }
+  ]
 }
