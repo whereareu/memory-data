@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-01T20:55:17.490932",
+  "last_updated": "2026-04-01T21:52:08.212620",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "1b0212cefaef",
-      "title": "我见过的最反直觉的 Android 架构问题：UseCase 越多，项目越烂",
-      "summary": "Clean Architecture 落地的坑：UseCase层到底值不值得写？Repository接口存在的真正理由是什么？Compose时代的分层架构实战。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623242804392247305",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3cee679626294389a8ba22bbe63708fb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1775681715&x-signature=pnJLOgGHMdUu76Ud0wkuxnYR8BA%3D",
-      "tags": [],
-      "published_at": "2026-03-31T09:39:53",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "8d5a02383433",
-      "title": "AOSP Android13 新增Product实践",
-      "summary": "AOSP新增设备厂商Product，以及在lunch menu中显示。在源码中实践中总结和学习他人经验。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623148018179866634",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-03-31T03:36:47",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
