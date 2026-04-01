@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-01T11:06:17.872190",
+  "last_updated": "2026-04-01T13:54:14.934358",
   "sources": [
     {
       "name": "掘金",
@@ -13,66 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "62e6210d6b86",
-      "title": "Android 15音频子系统（七）：音量控制系统深度解析",
-      "summary": "深入解析Android 15音量控制系统的三层架构，包括Stream音量、设备独立音量、音量曲线映射、绝对音量与DND机制，以及从音量键到硬件寄存器的完整调节链路",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623212907397136430",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/afb542d3380c4b8bac62347c6823e236~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1775646372&x-signature=Y6FuJHDQqaCIcK7tzRXLgEYu0jc%3D",
-      "tags": [],
-      "published_at": "2026-03-31T12:49:41",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "1b0212cefaef",
-      "title": "我见过的最反直觉的 Android 架构问题：UseCase 越多，项目越烂",
-      "summary": "Clean Architecture 落地的坑：UseCase层到底值不值得写？Repository接口存在的真正理由是什么？Compose时代的分层架构实战。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623242804392247305",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3cee679626294389a8ba22bbe63708fb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1775646372&x-signature=%2Bt%2B1PVZGJK5lMrBVjroOJQSCq6Q%3D",
-      "tags": [],
-      "published_at": "2026-03-31T09:39:53",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "7de0b564315e",
-      "title": "9.  Android Shadow插件化如何解决资源冲突问题和实现tinker热修复资源（源码分析4）",
-      "summary": "**Q1: Shadow是如何实现tinker热修复动态修复资源文件？** > 不支持tinke",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7622696665741443122",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-03-31T03:59:55",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "8d5a02383433",
-      "title": "AOSP Android13 新增Product实践",
-      "summary": "AOSP新增设备厂商Product，以及在lunch menu中显示。在源码中实践中总结和学习他人经验。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623148018179866634",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-03-31T03:36:47",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "fd569d0369fc",
-      "title": "Swift 杀进 Android，Google 和 Apple 都要失眠了？",
-      "summary": "Swift 终于正式杀进 Android 了。 不是社区 Demo，不是民间魔改，而是 Swift 官方第一次亲自发布 Android SDK。 这件事现在看起来像一条技术新闻，再往后看，很可能会变成",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7622935129707446298",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-03-31T00:49:48",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
