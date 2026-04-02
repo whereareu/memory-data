@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-02T05:10:12.758331",
+  "last_updated": "2026-04-02T07:24:28.815393",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "68129f2d16f5",
+      "title": "kotlin安卓项目配置app横屏等方式",
+      "summary": "大家好，我的开源项目PakePlus可以将网页/Vue/React项目打包为桌面/手机应用并且小于5M只需几分钟，官网地址：https://pakeplus.com",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7623748440834342922",
+      "cover_image": "https://p9-juejin-sign.byteimg.com/tos-cn-i-k3u1fbpfcp/9e386abbf04f485a822656dcaef7c231~tplv-k3u1fbpfcp-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgMTAyNOWwj-elng==:q75.awebp?rk3s=f64ab15b&x-expires=1775719466&x-signature=uppumZqpWbOz3l8FWedJNjq%2Bek0%3D",
+      "tags": [],
+      "published_at": "2026-04-02T06:59:14",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "3757ef0a6151",
+      "title": "2026 AI 时代下，Flutter 和 Dart 的机遇和未来发展，AI 一体化",
+      "summary": "相信大家都感受到了 2026 的 AI 浪潮和冲击，如果说一个开源项目，或者说一个技术框架，在 2026 没能和 AI 沾边，那么能拥抱的资源肯定会越来越有限，而在这方面，实际上很多人可能还没直观感知",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7623764341071069225",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f9a5d78bab234c73bd61d6e7feb4f4ad~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775719466&x-signature=q2MH6bTa4XRDtmSc4ZmAeoXJsjo%3D",
+      "tags": [],
+      "published_at": "2026-04-02T06:05:05",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "df7f47496fcf",
+      "title": "Kotlin 2.4.0 正式发布，快来看看有哪些更新",
+      "summary": "昨日，JetBrains 发布了 Kotlin 2.4.0-Beta1。 如果你管的是 Android 工具链、Kotlin 多平台，或者团队里已经开始碰 context receivers、注解处理",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7623316329240543278",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-01T00:58:23",
+      "read_time_minutes": 5
+    }
+  ]
 }
