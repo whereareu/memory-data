@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-01T23:43:37.942194",
+  "last_updated": "2026-04-02T02:55:44.974154",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "4812f8821668",
+      "title": "无奈妥协！六年账号被迫改名，Android 技术圈顺势升级 ！",
+      "summary": "前言 这两天，如果你发现我的公众号的名字变成了 Android技术圈HPro，不是我一时兴起，而是被逼无奈。 六年前，这个号正式更名“Android技术圈”。 当时用这个名字做了认证，认证类型为：互联",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7623681583883026441",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-02T01:25:49",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "e68e262cc23b",
+      "title": "关于docker-compose启动elasticsearch:7.17.29报\"permission denied\": unknown错误解决",
+      "summary": "关于docker-compose启动elasticsearch:7.17.29报\"permission denied\": unknown错误解决",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7623609603087482895",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/079ab414465449218d10efabb8b284a7~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbW9pY2Fs:q75.awebp?rk3s=f64ab15b&x-expires=1775703343&x-signature=HZXXHkfaldKjWgybkZwQV%2Bo7yn4%3D",
+      "tags": [],
+      "published_at": "2026-04-01T10:57:32",
+      "read_time_minutes": 5
+    }
+  ]
 }
