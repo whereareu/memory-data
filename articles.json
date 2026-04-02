@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-02T19:06:40.381287",
+  "last_updated": "2026-04-02T20:43:00.501649",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "e68e262cc23b",
-      "title": "关于docker-compose启动elasticsearch:7.17.29报\"permission denied\": unknown错误解决",
-      "summary": "关于docker-compose启动elasticsearch:7.17.29报\"permission denied\": unknown错误解决",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623609603087482895",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/079ab414465449218d10efabb8b284a7~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgbW9pY2Fs:q75.awebp?rk3s=f64ab15b&x-expires=1775761598&x-signature=gkOMaat6CPIATahoHFIRtin%2Bjlg%3D",
-      "tags": [],
-      "published_at": "2026-04-01T10:57:32",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
