@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-02T11:00:06.382414",
+  "last_updated": "2026-04-02T11:54:34.479401",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "df7f47496fcf",
-      "title": "Kotlin 2.4.0 正式发布，快来看看有哪些更新",
-      "summary": "昨日，JetBrains 发布了 Kotlin 2.4.0-Beta1。 如果你管的是 Android 工具链、Kotlin 多平台，或者团队里已经开始碰 context receivers、注解处理",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623316329240543278",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-01T00:58:23",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
