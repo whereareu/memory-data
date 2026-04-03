@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-03T16:52:40.201287",
+  "last_updated": "2026-04-03T17:41:37.061567",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "c47a91fb1e2b",
-      "title": "别让APP名字和图标毁了你的Toast！一招教你Android优化技巧",
-      "summary": "别让APP名字和图标毁了你的Toast！一招教你Android优化技巧 为啥要去掉 Toast 里的 APP 名字和图标 在如今这个看脸的时代，APP 的颜值也至关重要。统一、美观的 UI 设计，就像",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7624344925603250230",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-03T14:55:48",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "2985408cea9d",
-      "title": "Android 16：开发者需要关注的重要变化",
-      "summary": "Android 16：开发者需要关注的重要变化 1. 核心生成式 AI API Android 15 的 AI 组件将端侧模型推到了前台。Android 16 预计会在此基础上，提供标准化、高层级的",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7624184992538017827",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-03T07:02:42",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "3757ef0a6151",
-      "title": "2026 AI 时代下，Flutter 和 Dart 的机遇和未来发展，AI 一体化",
-      "summary": "相信大家都感受到了 2026 的 AI 浪潮和冲击，如果说一个开源项目，或者说一个技术框架，在 2026 没能和 AI 沾边，那么能拥抱的资源肯定会越来越有限，而在这方面，实际上很多人可能还没直观感知",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7623764341071069225",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f9a5d78bab234c73bd61d6e7feb4f4ad~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775839957&x-signature=ecWZri581w8893MLOmXRHM1JHFU%3D",
-      "tags": [],
-      "published_at": "2026-04-02T06:05:05",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
