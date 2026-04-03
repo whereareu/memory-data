@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-03T05:45:33.695796",
+  "last_updated": "2026-04-03T07:21:05.560837",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "4cff1ceaa053",
-      "title": "Android Compose Navigation3 详解",
-      "summary": "Android Compose Navigation3 详解 一、什么是 Navigation3 Navigation3 是 Google 推出的新一代 Compose 导航库，相比 Navigati",
+      "id": "39e5fdf65390",
+      "title": "Flutter autoDispose、keepAlive 和 ref.keepAlive 的区别",
+      "summary": "Flutter autoDispose、keepAlive 和 ref.keepAlive 的区别 注解方式是新的写法，Xxx.autoDispose 是传统的写法 @riverpod 默认就是传统的",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7624072137017917467",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f3dcad97719a4d83851e270b8e6113b8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQm9vbUhl:q75.awebp?rk3s=f64ab15b&x-expires=1775799921&x-signature=AXVQFIACoVc4%2BmvEEpVRoS5VECE%3D",
+      "url": "https://juejin.cn/post/7623940539134738473",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-03T03:39:11",
+      "published_at": "2026-04-02T13:09:22",
       "read_time_minutes": 5
     }
   ]
