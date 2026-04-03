@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-03T07:21:05.560837",
+  "last_updated": "2026-04-03T09:04:38.429924",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,39 @@
   ],
   "articles": [
     {
-      "id": "39e5fdf65390",
-      "title": "Flutter autoDispose、keepAlive 和 ref.keepAlive 的区别",
-      "summary": "Flutter autoDispose、keepAlive 和 ref.keepAlive 的区别 注解方式是新的写法，Xxx.autoDispose 是传统的写法 @riverpod 默认就是传统的",
+      "id": "65191c9fa827",
+      "title": "使用Compose Navigation3进行屏幕适配",
+      "summary": "这篇文章将介绍B站是怎么使用 Compose Navigation3 进行页面的宽屏适配，并解决其中遇到的问题的。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7623940539134738473",
+      "url": "https://juejin.cn/post/7624363823747776539",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/421939e9f593487bba582795d8d33918~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZOU5ZOp5ZOU5ZOp5oqA5pyv:q75.awebp?rk3s=f64ab15b&x-expires=1775811877&x-signature=Imy7xSLSOSU4pKv7CguKjgKKtqM%3D",
+      "tags": [],
+      "published_at": "2026-04-03T08:51:53",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "2ba3862447c7",
+      "title": "Android Studio Panda 3 发布，CMP 导致的 Gemini 输入问题",
+      "summary": "Android Studio Panda 3 发布了，主要是支持了 Agent skills 和 Agent 的权限管理，现在可以在项目根目录创建 .skills 目录来引用和创建技能，不算大的更新，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7624344925601710134",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5b086070448f451596f8476eba8ac112~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775811877&x-signature=UISTTGzDIg4cQK3cA7c3wXtlV9s%3D",
+      "tags": [],
+      "published_at": "2026-04-03T08:04:08",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "2985408cea9d",
+      "title": "Android 16：开发者需要关注的重要变化",
+      "summary": "Android 16：开发者需要关注的重要变化 1. 核心生成式 AI API Android 15 的 AI 组件将端侧模型推到了前台。Android 16 预计会在此基础上，提供标准化、高层级的",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7624184992538017827",
       "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-02T13:09:22",
+      "published_at": "2026-04-03T07:02:42",
       "read_time_minutes": 5
     }
   ]
