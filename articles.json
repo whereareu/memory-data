@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-04T16:46:21.877417",
+  "last_updated": "2026-04-04T17:39:04.211137",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "2ba3862447c7",
-      "title": "Android Studio Panda 3 发布，CMP 导致的 Gemini 输入问题",
-      "summary": "Android Studio Panda 3 发布了，主要是支持了 Agent skills 和 Agent 的权限管理，现在可以在项目根目录创建 .skills 目录来引用和创建技能，不算大的更新，",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7624344925601710134",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5b086070448f451596f8476eba8ac112~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1775925980&x-signature=x0L%2BtXC7mACdpj7k7RS61Hctqr0%3D",
-      "tags": [],
-      "published_at": "2026-04-03T08:04:08",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
