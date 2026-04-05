@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-05T15:40:21.377202",
+  "last_updated": "2026-04-05T16:46:35.200543",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "0a440aaac432",
+      "title": "AI 翻译代码会干掉跨平台框架吗？KMP、Flutter、RN 的真实处境",
+      "summary": "AI 代码翻译真的会终结 Flutter、RN、KMP 吗？从读者评论切入，分析跨平台框架的真实处境与2026年选型判断",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7624757025520975882",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/1dd3e4c432104215878930fc8e3bb3bd~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1776012390&x-signature=d7Q7clH2IQ9nrPeVBgkbGBN9PLs%3D",
+      "tags": [],
+      "published_at": "2026-04-05T14:46:39",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "d845374072c5",
+      "title": "解锁Kotlin：数据类与密封类的奇妙之旅",
+      "summary": "解锁Kotlin：数据类与密封类的奇妙之旅 开篇：代码的烦恼与 Kotlin 的曙光 在 Android 开发的漫长旅程中，相信不少开发者都在 Java 的世界里历经了 “千辛万苦”。就拿定义一个简单",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7624730002371526675",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-05T13:02:17",
+      "read_time_minutes": 5
+    }
+  ]
 }
