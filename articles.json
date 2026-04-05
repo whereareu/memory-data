@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-05T13:14:12.390291",
+  "last_updated": "2026-04-05T14:42:00.402124",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "7e46a2fe857c",
-      "title": "Nginx + Flutter Riverpod 简易高效的APP更新检测思路",
-      "summary": "源码推送到Github，走完 CI/CD，新版本上线了。但是需要在群里通知更新，这样很不优雅也很不高级， 本文将使用 Nginx 静态 JSON 方案，从零搭建一套轻量、可控的功能。",
+      "id": "d845374072c5",
+      "title": "解锁Kotlin：数据类与密封类的奇妙之旅",
+      "summary": "解锁Kotlin：数据类与密封类的奇妙之旅 开篇：代码的烦恼与 Kotlin 的曙光 在 Android 开发的漫长旅程中，相信不少开发者都在 Java 的世界里历经了 “千辛万苦”。就拿定义一个简单",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7624741570784886826",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a491ea769ac246b08984be60e9cdb320~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Lmd54u8:q75.awebp?rk3s=f64ab15b&x-expires=1775999650&x-signature=ObX3K%2FXNCVaLaJdOkK2xeMe%2FL3k%3D",
+      "url": "https://juejin.cn/post/7624730002371526675",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-05T07:58:43",
+      "published_at": "2026-04-05T13:02:17",
       "read_time_minutes": 5
     }
   ]
