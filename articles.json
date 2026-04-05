@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-05T07:18:23.171868",
+  "last_updated": "2026-04-05T08:54:54.234609",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "7e46a2fe857c",
+      "title": "Nginx + Flutter Riverpod 简易高效的APP更新检测思路",
+      "summary": "源码推送到Github，走完 CI/CD，新版本上线了。但是需要在群里通知更新，这样很不优雅也很不高级， 本文将使用 Nginx 静态 JSON 方案，从零搭建一套轻量、可控的功能。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7624741570784886826",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a491ea769ac246b08984be60e9cdb320~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Lmd54u8:q75.awebp?rk3s=f64ab15b&x-expires=1775984088&x-signature=JjS7HF0XeB9%2BzrkxPv5dEDAacJE%3D",
+      "tags": [],
+      "published_at": "2026-04-05T07:58:43",
+      "read_time_minutes": 5
+    }
+  ]
 }
