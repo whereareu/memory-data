@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-05T14:42:00.402124",
+  "last_updated": "2026-04-05T15:40:21.377202",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "d845374072c5",
-      "title": "解锁Kotlin：数据类与密封类的奇妙之旅",
-      "summary": "解锁Kotlin：数据类与密封类的奇妙之旅 开篇：代码的烦恼与 Kotlin 的曙光 在 Android 开发的漫长旅程中，相信不少开发者都在 Java 的世界里历经了 “千辛万苦”。就拿定义一个简单",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7624730002371526675",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-05T13:02:17",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
