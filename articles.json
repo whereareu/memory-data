@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-06T08:25:43.054546",
+  "last_updated": "2026-04-06T10:16:35.741816",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "9ae748039fd6",
-      "title": "在Compose中用Shader实现透明的粘稠元球效果",
-      "summary": "本文探讨在Compose中借助Shader，详细讲述如何通过两个圆形之间的简单交互创建粘稠元球效果。",
+      "id": "7fb897ad3281",
+      "title": "再见 PredictiveBackHandler：如何迁移到 Compose 中的新导航事件",
+      "summary": "如果你在 Compose 中使用预测性返回并已更新到 Compose Multiplatform 1.10.x，你的代码可能无法再编译。这不是 bug：PredictiveBackHandler()",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7625162585272713231",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/887ff5e1bb39415ca62e8e074ba97e41~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1776068728&x-signature=334mTn7qx24%2BxLnMhqqII6nKby0%3D",
+      "url": "https://juejin.cn/post/7625086673932369971",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-06T05:58:54",
+      "published_at": "2026-04-06T08:19:08",
       "read_time_minutes": 5
     }
   ]
