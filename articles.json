@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-06T03:28:47.332069",
+  "last_updated": "2026-04-06T06:03:34.470060",
   "sources": [
     {
       "name": "掘金",
@@ -24,6 +24,18 @@
       "cover_image": "",
       "tags": [],
       "published_at": "2026-04-05T10:46:00",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "12a26dc947dc",
+      "title": "Flutter Signals 学习与项目实践",
+      "summary": "Flutter Signals 学习与项目实践 前言： 最近抽了一些下班后的时间，把项目里原有的 Bloc/Cubit 状态管理完整迁到了 Signals。一开始学习 Signals 的时候，也看了不",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7624757644267585563",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-05T10:18:30",
       "read_time_minutes": 5
     }
   ]
