@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-06T06:03:34.470060",
+  "last_updated": "2026-04-06T08:25:43.054546",
   "sources": [
     {
       "name": "掘金",
@@ -15,27 +15,15 @@
   ],
   "articles": [
     {
-      "id": "64db545ee6ef",
-      "title": "Android项目UnknownPluginException报错，提示找不到com.android.application插件",
-      "summary": "org.gradle.api.plugins.UnknownPluginException: Plugin [id: 'com.android.application', version...",
+      "id": "9ae748039fd6",
+      "title": "在Compose中用Shader实现透明的粘稠元球效果",
+      "summary": "本文探讨在Compose中借助Shader，详细讲述如何通过两个圆形之间的简单交互创建粘稠元球效果。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7624757644267667483",
-      "cover_image": "",
+      "url": "https://juejin.cn/post/7625162585272713231",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/887ff5e1bb39415ca62e8e074ba97e41~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1776068728&x-signature=334mTn7qx24%2BxLnMhqqII6nKby0%3D",
       "tags": [],
-      "published_at": "2026-04-05T10:46:00",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "12a26dc947dc",
-      "title": "Flutter Signals 学习与项目实践",
-      "summary": "Flutter Signals 学习与项目实践 前言： 最近抽了一些下班后的时间，把项目里原有的 Bloc/Cubit 状态管理完整迁到了 Signals。一开始学习 Signals 的时候，也看了不",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7624757644267585563",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-05T10:18:30",
+      "published_at": "2026-04-06T05:58:54",
       "read_time_minutes": 5
     }
   ]
