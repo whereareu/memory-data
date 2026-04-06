@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-06T18:00:04.405350",
+  "last_updated": "2026-04-06T19:16:06.742551",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "436ed1e0e6c8",
+      "title": "你的 Android App 可能白白损失了 35% 的性能——R8 全模式配置详解",
+      "summary": "一行配置让Monzo启动性能提升35%，R8全模式究竟打开了哪些优化？附完整规则配置与避坑指南。性能优化最容易犯的错误，是把精力全放在业务代码层，忽视工具链和编译器能帮你做的事。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7625107538134827060",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/aa71e785ecf14e2dbb358081a55276d5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1776107764&x-signature=rdkG09e02SG1olVXzBf%2FNzwZOss%3D",
+      "tags": [],
+      "published_at": "2026-04-06T15:48:21",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "dd6ba55dfce8",
+      "title": "深入理解 Kotlin 协程 (二)：万剑归宗，揭秘 Kotlin 协程的精妙取舍",
+      "summary": "这篇文章用通俗的话解释了协程‘挂起与恢复’的基础概念，并简单梳理了有栈、无栈等分类。通过对比 Python、Lua 和 Go 的不同玩法，带你轻松看懂 Kotlin 协程底层巧妙的‘状态机’设计。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7624920375903584275",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/36a1a8205f1548fd8ab6184bca84c359~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo55m9:q75.awebp?rk3s=f64ab15b&x-expires=1776107764&x-signature=a3Urpfk1mLspqMSQK9qn46jXkRM%3D",
+      "tags": [],
+      "published_at": "2026-04-06T15:02:25",
+      "read_time_minutes": 5
+    }
+  ]
 }
