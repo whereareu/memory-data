@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-07T09:14:01.385918",
+  "last_updated": "2026-04-07T11:06:11.395360",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "87f72d1b4db8",
-      "title": "AI时代我们是否还需要学编程？丨《Flutter跨平台开发核心技巧与应用》新书上市啦",
-      "summary": "在AI高度发展的今天，很多不懂编程的人也可以使用AI在一两天内就完成一个简单的应用。 那么很多朋友会问：AI时代我们是否还需要学编程？",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7625364941263224838",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/da909a85a45a4b92953195c23307adfb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1776158039&x-signature=Xm8321ciJ8bJag0cwjQX2okXa1w%3D",
-      "tags": [],
-      "published_at": "2026-04-07T08:02:39",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
