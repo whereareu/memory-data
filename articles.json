@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-08T03:21:03.642892",
+  "last_updated": "2026-04-08T05:51:27.263250",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "bd968ad7d695",
+      "title": "解锁Android黑科技：动态加载Activity，让你的App秒变变形金刚",
+      "summary": "解锁Android黑科技：动态加载Activity，让你的App秒变变形金刚 一、开篇引入 在如今的移动应用开发领域，动态加载 Activity 技术在 Android 开发中占据着举足轻重的地位。想",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7625915990950658067",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-08T04:46:01",
+      "read_time_minutes": 5
+    }
+  ]
 }
