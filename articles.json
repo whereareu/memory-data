@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-08T21:52:16.272910",
+  "last_updated": "2026-04-08T22:52:00.474722",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "ee174e00060b",
+      "title": "Jetpack Compose Modifier 完全指南",
+      "summary": "目录 概述与核心概念 修饰符顺序与执行机制 九大内置修饰符分类 作用域限定修饰符 自定义修饰符实现 Modifier.Node 深度解析 高级布局修饰符 高级绘制修饰符 高级交互修饰符 性能优化策略",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7626253889876738082",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-08T12:14:37",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "83cf851fc686",
+      "title": "抖音“极客”适配 Android 5 ~ 9 等老机型技术解读，都是骚操作",
+      "summary": "想不到 2026 年，像抖音这种超级 App 居然还可以适配 Android 5 ，还能做到流畅运行，这在技术上确实很值得膜拜，因为老机型的运行环境有多艰辛大家应该也知道： ART 虚拟机 heap",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7625239770092797995",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c68db0b15f6e4e0b900f4d8ec41f6b76~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1776293518&x-signature=d%2FVGMvWAVxl%2FyAxQ6j7GuH6wrsw%3D",
+      "tags": [],
+      "published_at": "2026-04-07T01:05:15",
+      "read_time_minutes": 5
+    }
+  ]
 }
