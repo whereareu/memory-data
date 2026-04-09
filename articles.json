@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-09T07:49:36.712639",
+  "last_updated": "2026-04-09T09:19:18.452515",
   "sources": [
     {
       "name": "掘金",
@@ -14,6 +14,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "31b4d81660d1",
+      "title": "Android Kotlin 协程使用指南",
+      "summary": "1. Android 项目引入依赖 这些依赖的作用： kotlinx-coroutines-core：协程核心能力 kotlinx-coroutines-android：提供 Android 上的 D",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7626578013836148777",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d2a6beaab1c64144824fe4712e476033~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Ze3b-WXt28=:q75.awebp?rk3s=f64ab15b&x-expires=1776331156&x-signature=hw6c26cAZbBkPL%2B3t81CawjjaKU%3D",
+      "tags": [],
+      "published_at": "2026-04-09T08:38:54",
+      "read_time_minutes": 5
+    },
     {
       "id": "ee174e00060b",
       "title": "Jetpack Compose Modifier 完全指南",
@@ -33,7 +45,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7625936834464907327",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f362247d12a643dea0293da79f6df9ff~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgeGlhb3lhbjIwMTU=:q75.awebp?rk3s=f64ab15b&x-expires=1776325773&x-signature=uLyXcdnA7iPoWwmKO7uc749kx14%3D",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f362247d12a643dea0293da79f6df9ff~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgeGlhb3lhbjIwMTU=:q75.awebp?rk3s=f64ab15b&x-expires=1776331156&x-signature=YrEge37AkZLqFq6z9kWCZV4Cn6s%3D",
       "tags": [],
       "published_at": "2026-04-08T03:36:34",
       "read_time_minutes": 5
