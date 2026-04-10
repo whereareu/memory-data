@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-10T14:56:36.657079",
+  "last_updated": "2026-04-10T16:02:35.297411",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "03dbe6ae6423",
+      "title": "解锁系统设置新姿势：Activity嵌入全解析",
+      "summary": "解锁系统设置新姿势：Activity嵌入全解析 嵌入式 Activity：大屏设备的专属优化 嵌入式 Activity 可是安卓高版本专门为大屏设备准备的 “秘密武器”，是一种超厉害的显示模式。它能把",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7626960753633607726",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-10T14:51:02",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "3f88fdaf276a",
+      "title": "Camera HAL3 接口：Android 相机的真正底牌",
+      "summary": "深入解析 Camera HAL3 架构设计，涵盖 Pipeline 流水线模型、Request/Result 异步机制、Stream 流管理、Buffer 管理与 Gralloc 内存、HAL3 接口",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7626571229773561865",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f7d0c26b6ae3430a901c3df1b449d3fb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1776441749&x-signature=W46yKRkdNsUKb2IDzVq7OaQ1KSA%3D",
+      "tags": [],
+      "published_at": "2026-04-09T12:14:55",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "23885ed55cdc",
+      "title": "AGP 9.2 开始，Android 上协程启动和取消速度提升两倍",
+      "summary": "从 AGP 9.2 （9.2.0-alpha05）开始，针对 Kotlin 协程内部大量使用的 Atomic*FieldUpdater 场景，R8 会进行优化操作，把一部分原本较重的 Updater",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7626295537651105792",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9eeedda91b55410c85f5c96791fdab7a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1776441749&x-signature=vi%2FMCdZj%2BrmYstpe49QH3qxd9Kc%3D",
+      "tags": [],
+      "published_at": "2026-04-08T23:35:09",
+      "read_time_minutes": 5
+    }
+  ]
 }
