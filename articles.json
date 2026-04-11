@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-11T02:52:48.210490",
+  "last_updated": "2026-04-11T05:01:46.744907",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "3910c4271159",
-      "title": "Android 中Navigation的使用",
-      "summary": "一、Navigation 是什么 Jetpack Navigation Component 是官方用来管理 页面跳转（Fragment / Activity / Dialog） 的框架。核心作用： 统",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7626930429347790882",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-11T02:26:02",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "a9160e7c79aa",
-      "title": "中型Flutter 项目 Riverpod 2.x 迁移 3.0 避坑实录",
-      "summary": "现在提示词优化器以及是最新的Riverpod版本了,为啥我一定要做这个大迁移因为依赖已经是 3.x，但代码风格还停在 2.x",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7627136949710700582",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/08e5900d57b04bb09c4204b4531d49bc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Lmd54u8:q75.awebp?rk3s=f64ab15b&x-expires=1776480761&x-signature=YYAA1ED7QehuVgGIRmHqV9XHa5g%3D",
-      "tags": [],
-      "published_at": "2026-04-10T16:55:01",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
