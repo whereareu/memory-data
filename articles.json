@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-14T08:48:09.792980",
+  "last_updated": "2026-04-14T10:21:32.804097",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "14b19ad8cc97",
-      "title": "Jetpack Compose Modifier 深度解析：从链式调用到 Modifier.Node",
-      "summary": "深入讲解 Compose Modifier 机制：链式本质、顺序、约束传递、作用域，重点剖析 Modifier.Node 架构，附最佳实践。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7628132295192215588",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-14T06:27:08",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
