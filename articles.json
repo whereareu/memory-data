@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-14T06:05:28.150694",
+  "last_updated": "2026-04-14T08:48:09.792980",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "6cdb91a803c4",
-      "title": "Flutter PC 多窗口最新进展，底层原生窗口句柄支持已合并",
-      "summary": "不久前 Flutter 的多窗口在 WindowController 新增了 「底层原生窗口句柄」的支持，目前 PR 已经完成了合并，也就是现在 Flutter 多窗口的灵活度和可用性有了不错的提升：",
+      "id": "14b19ad8cc97",
+      "title": "Jetpack Compose Modifier 深度解析：从链式调用到 Modifier.Node",
+      "summary": "深入讲解 Compose Modifier 机制：链式本质、顺序、约束传递、作用域，重点剖析 Modifier.Node 架构，附最佳实践。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7628157773155827753",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/be48676dc0634f259b8411618c023037~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1776751525&x-signature=P%2FyvLVZsqVxYLA8nkK9362QHnR4%3D",
+      "url": "https://juejin.cn/post/7628132295192215588",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-14T03:41:53",
+      "published_at": "2026-04-14T06:27:08",
       "read_time_minutes": 5
     }
   ]
