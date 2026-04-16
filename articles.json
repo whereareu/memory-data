@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-16T19:26:00.968381",
+  "last_updated": "2026-04-16T20:58:08.512573",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "23ff10d4b1eb",
+      "title": "Get 这波之后，我把 Flutter 状态管理重新看了一遍：新项目到底该选谁？",
+      "summary": "前言 昨天 get 的删库跑路之后发，社区和公司部门内部基本可以说是原地炸了。（早上作者说是他的github账户被风控，但是get本身的问题已经很多了...） 问得最多的，不是“这个包现在还能不能装”",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7628797515802214434",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/76d49252397b4803aa083971cbce5b7b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5p6X55qE57yW56iL5byA5Y-R5pel6K6w:q75.awebp?rk3s=f64ab15b&x-expires=1776977886&x-signature=9VIlDAya9koVRDFHRrYJuyW%2F%2BPI%3D",
+      "tags": [],
+      "published_at": "2026-04-15T07:22:37",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "aa95cf3f7987",
+      "title": "compose_skill 和 android skills，对 Android 项目提升巨大的专家 AI Skills",
+      "summary": "最近发现了一个非常不错的 Compose AI Skills 项目 compose_skill ，这个 Skills 可以针对你的 compose 项目生成一份评分的报告，例如下面就是我的 Compo",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7628587639852630052",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8b9a5c6e03ba464197f458f166583a10~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1776977886&x-signature=CSa8HVTxkmKFEjQn83d8ScDA26o%3D",
+      "tags": [],
+      "published_at": "2026-04-15T05:02:18",
+      "read_time_minutes": 5
+    }
+  ]
 }
