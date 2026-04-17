@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-17T11:57:21.511530",
+  "last_updated": "2026-04-17T13:52:37.918100",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "90ef9e3468aa",
-      "title": "介绍一个新的 Compose 控件 — 浮动菜单",
-      "summary": "FloatingActionButtonMenu 允许我们在屏幕上展示 2 到 6 个相关操作，让用户在不牺牲界面空间的前提下访问一组相关动作。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7628894338689384463",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a10d3d99116a41f993ea28f1b44f421e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1777031839&x-signature=rmoJSWqqDC8WawnW5vHGR3jon0c%3D",
-      "tags": [],
-      "published_at": "2026-04-16T00:24:12",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
