@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-17T10:19:09.789479",
+  "last_updated": "2026-04-17T11:57:21.511530",
   "sources": [
     {
       "name": "掘金",
@@ -15,25 +15,13 @@
   ],
   "articles": [
     {
-      "id": "933c91edc139",
-      "title": "《被封印的六秒：大厂外包破解 Android 启动流之谜》",
-      "summary": "生死六秒：魔都大厂外包破解“白屏魔咒”的源码探案 一）徐家汇的 P0 级死亡通牒 28岁的陈默，感觉自己像个混进正规军的雇佣兵。 过去五年，他辗转于各种外包接包群，熟练掌握“CV（复制粘贴）大法",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7628906010455080995",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0567e4623c9d428090379613d78d50bb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2VtaW5pMDAx:q75.awebp?rk3s=f64ab15b&x-expires=1777025947&x-signature=2YkEyBXZxMdbXZ0acVeHehatVdg%3D",
-      "tags": [],
-      "published_at": "2026-04-16T08:18:33",
-      "read_time_minutes": 5
-    },
-    {
       "id": "90ef9e3468aa",
       "title": "介绍一个新的 Compose 控件 — 浮动菜单",
       "summary": "FloatingActionButtonMenu 允许我们在屏幕上展示 2 到 6 个相关操作，让用户在不牺牲界面空间的前提下访问一组相关动作。",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7628894338689384463",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a10d3d99116a41f993ea28f1b44f421e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1777025947&x-signature=RDA6znkk9ZB46bIuMRBKQYp%2BrYk%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a10d3d99116a41f993ea28f1b44f421e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1777031839&x-signature=rmoJSWqqDC8WawnW5vHGR3jon0c%3D",
       "tags": [],
       "published_at": "2026-04-16T00:24:12",
       "read_time_minutes": 5
