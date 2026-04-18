@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-18T03:18:38.725382",
+  "last_updated": "2026-04-18T05:44:55.034858",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "3ba3602858c5",
+      "title": "2.2026金三银四  Android Handler 完全指南：28道高频面试题 + 源码解析 + 图解   (一文通关)",
+      "summary": "--- ### Q1. Handler为什么可以切换线程？ **答案：** Handler",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7629617280557514803",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-18T02:59:33",
+      "read_time_minutes": 5
+    }
+  ]
 }
