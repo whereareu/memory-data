@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-17T23:49:44.022555",
+  "last_updated": "2026-04-18T03:18:38.725382",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "fb524ef83fb3",
-      "title": "Android CLI ，谷歌为 Android 开发者专研的 AI Agent，提速三倍",
-      "summary": "Android CLI ，虽然是 CLI ，但是不要误解，它不是一个全新的 AI CLI ，因为 Android CLI 不带模型，它更多是一个通用的 CLI 工具，负责被 Agent 调用的 age",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7629374592915128383",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f8cbe82198e9403a99326d480d3df7a4~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777074581&x-signature=fRqGsAsL%2FNNUXzppfFjbpI81tBE%3D",
-      "tags": [],
-      "published_at": "2026-04-17T03:28:46",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5da41edb4e84",
-      "title": "JetBrains Amper 0.10 ，期待它未来替代 Gradle",
-      "summary": "最近 JetBrains 发布了 Amper 0.10 ，做为一个面向 Kotlin / Java 的实验性构建和配置工具，他的目标是通过更简单的 YAML 配置去支撑 Kotlin Multipla",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7629261406288298020",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dc60dff43ac7409b8dafae23e76feb78~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777074581&x-signature=lG5QMc1MicQUnQ2sZG2RFK0e58E%3D",
-      "tags": [],
-      "published_at": "2026-04-17T01:00:03",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "aa95cf3f7987",
-      "title": "compose_skill 和 android skills，对 Android 项目提升巨大的专家 AI Skills",
-      "summary": "最近发现了一个非常不错的 Compose AI Skills 项目 compose_skill ，这个 Skills 可以针对你的 compose 项目生成一份评分的报告，例如下面就是我的 Compo",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7628587639852630052",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8b9a5c6e03ba464197f458f166583a10~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777074581&x-signature=KrQ%2F%2B1XqVVD%2FjiXo7laRzAKmBpQ%3D",
-      "tags": [],
-      "published_at": "2026-04-15T05:02:18",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
