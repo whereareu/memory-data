@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-19T03:37:43.009959",
+  "last_updated": "2026-04-19T06:03:55.442185",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "fec346c985df",
+      "title": "Compose中初始加载逻辑究竟应该放在哪里？",
+      "summary": "一份生产决策指南，源于 3 篇 LinkedIn 帖子、50 多位工程师的激烈争论，以及最终令人沮丧的发现——每个人都有道理。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7629920323256860710",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d7d792d0d37c413ba55772cce5e4d22c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1777183433&x-signature=ByxUJtPjC20uLsx6GeIo4FVleoU%3D",
+      "tags": [],
+      "published_at": "2026-04-18T15:46:31",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "478568602806",
+      "title": "Android启动全景图：一次冷启动背后到底发生了什么",
+      "summary": "从Zygote fork到首帧渲染，拆解冷启动七大阶段，搞懂TTID和TTFD度量标准，建立启动优化全景图",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7629708793547423790",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/daba6654938642ef9618db3fd854db4d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1777183433&x-signature=26JGhGbSORT%2FnhG7vh2J0WljUIY%3D",
+      "tags": [],
+      "published_at": "2026-04-18T10:22:28",
+      "read_time_minutes": 5
+    }
+  ]
 }
