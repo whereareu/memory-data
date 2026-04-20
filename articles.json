@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-20T22:54:12.775180",
+  "last_updated": "2026-04-20T23:52:46.494945",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "16951c8d9dc7",
+      "title": "Flutter 3.41.7 ，小版本但 iOS 大修复，看完只想说：这是人能写出来的 bug ？",
+      "summary": "我已经忘了，这是我第几篇聊 iOS 26 的 JIT 调试问题，自从 iOS 26 正式禁止 Debug 时 mprotect 的 RX 权限之后，Flutter 的在 iOS 真机的 JIT 运行和",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7630020855679057935",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b32e6389983c4c308470092aec43409d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777333964&x-signature=pCgM71N5nsDrlYsausYLMt%2BZqio%3D",
+      "tags": [],
+      "published_at": "2026-04-20T00:19:46",
+      "read_time_minutes": 5
+    }
+  ]
 }
