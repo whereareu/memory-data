@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-21T22:47:43.720852",
+  "last_updated": "2026-04-21T23:42:20.327978",
   "sources": [
     {
       "name": "掘金",
@@ -13,54 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "4b3656ecddf1",
-      "title": "使用Edge和ADB进行Android Webview远程调试的完整教程",
-      "summary": "本文介绍如何使用Edge浏览器和ADB工具调试Android Webview中的网页，解决前端开发调试难题，提高工作效率。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7630845278345986057",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-21T07:15:15",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "976bd2bf5e9d",
-      "title": "Android 开发快 3 倍！Google 说的",
-      "summary": "Google 提供了一套对大模型友好的命令行工具（CLI），并且配套下发了一组使用说明书（Skills）。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7630298684077391923",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/42cb6d0056cb4324baf6d7d29f989f7f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1777416462&x-signature=Hg60UaeVuE%2BKE2rULr1yZTdS%2BxQ%3D",
-      "tags": [],
-      "published_at": "2026-04-20T00:56:04",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "16951c8d9dc7",
-      "title": "Flutter 3.41.7 ，小版本但 iOS 大修复，看完只想说：这是人能写出来的 bug ？",
-      "summary": "我已经忘了，这是我第几篇聊 iOS 26 的 JIT 调试问题，自从 iOS 26 正式禁止 Debug 时 mprotect 的 RX 权限之后，Flutter 的在 iOS 真机的 JIT 运行和",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7630020855679057935",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b32e6389983c4c308470092aec43409d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777416462&x-signature=OGKgOEJcXjLOD2KMQvQUqaeybzg%3D",
-      "tags": [],
-      "published_at": "2026-04-20T00:19:46",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "fa6dfdd600cc",
-      "title": "告别 IDE？Android CLI 来了，开发进入 AI Agent 时代",
-      "summary": "近日，Google 悄然发布了一个工具——Android CLI。它是 Google 为即将到来的 Agent-first 开发时代而专门打造的 Android 开发\"前门\"。 在 Google 内部",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7630031645626826803",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ef05e9f0d324f43b2c8c38b380f21d5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1777416462&x-signature=%2BOqOFZFOVwyzIMOsb4tRxkrTb0Y%3D",
-      "tags": [],
-      "published_at": "2026-04-20T00:14:28",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
