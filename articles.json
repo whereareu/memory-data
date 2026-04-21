@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-21T20:08:57.308218",
+  "last_updated": "2026-04-21T21:52:59.403290",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "45d6f8dcb210",
-      "title": "Android 开发要变天了：Google 专为 Agent 重建工具链，Token 减少 70%、速度提升 3 倍",
-      "summary": "Google 发布了专为 AI Agent 设计的三大工具组件——Android CLI、Android Skills 与 Android Knowledge Base。",
+      "id": "4b3656ecddf1",
+      "title": "使用Edge和ADB进行Android Webview远程调试的完整教程",
+      "summary": "本文介绍如何使用Edge浏览器和ADB工具调试Android Webview中的网页，解决前端开发调试难题，提高工作效率。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7631037754638647359",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4ea170482e9540d8bfeba3428be1750b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=D7U%2BjtBTdNr7sTQhBoXYXCfiYZg%3D",
+      "url": "https://juejin.cn/post/7630845278345986057",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-21T13:47:57",
+      "published_at": "2026-04-21T07:15:15",
       "read_time_minutes": 5
     },
     {
@@ -33,7 +33,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7630298684077391923",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/42cb6d0056cb4324baf6d7d29f989f7f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=j02xbiyr9l7G%2F81wvgQHOHoZlfQ%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/42cb6d0056cb4324baf6d7d29f989f7f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1777413177&x-signature=U3S5Dw9p4klybZCRUAcn71ISXm8%3D",
       "tags": [],
       "published_at": "2026-04-20T00:56:04",
       "read_time_minutes": 5
@@ -45,7 +45,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7630020855679057935",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b32e6389983c4c308470092aec43409d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=oy9Mb6AG2VSyk3WF6uNDUxs5WQA%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b32e6389983c4c308470092aec43409d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777413177&x-signature=wsJWTE8a8ZFjv3VGmx1GBXAM8lE%3D",
       "tags": [],
       "published_at": "2026-04-20T00:19:46",
       "read_time_minutes": 5
@@ -57,7 +57,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7630031645626826803",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ef05e9f0d324f43b2c8c38b380f21d5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=jXe%2F35R9eimszllT8ACy5b2PGTQ%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ef05e9f0d324f43b2c8c38b380f21d5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1777413177&x-signature=CQPwwWoEQdJaDu0Yd2q46PCwRUo%3D",
       "tags": [],
       "published_at": "2026-04-20T00:14:28",
       "read_time_minutes": 5
