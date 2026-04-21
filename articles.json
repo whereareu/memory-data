@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-21T18:04:37.821741",
+  "last_updated": "2026-04-21T20:08:57.308218",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,54 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "45d6f8dcb210",
+      "title": "Android 开发要变天了：Google 专为 Agent 重建工具链，Token 减少 70%、速度提升 3 倍",
+      "summary": "Google 发布了专为 AI Agent 设计的三大工具组件——Android CLI、Android Skills 与 Android Knowledge Base。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7631037754638647359",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4ea170482e9540d8bfeba3428be1750b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=D7U%2BjtBTdNr7sTQhBoXYXCfiYZg%3D",
+      "tags": [],
+      "published_at": "2026-04-21T13:47:57",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "976bd2bf5e9d",
+      "title": "Android 开发快 3 倍！Google 说的",
+      "summary": "Google 提供了一套对大模型友好的命令行工具（CLI），并且配套下发了一组使用说明书（Skills）。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7630298684077391923",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/42cb6d0056cb4324baf6d7d29f989f7f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=j02xbiyr9l7G%2F81wvgQHOHoZlfQ%3D",
+      "tags": [],
+      "published_at": "2026-04-20T00:56:04",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "16951c8d9dc7",
+      "title": "Flutter 3.41.7 ，小版本但 iOS 大修复，看完只想说：这是人能写出来的 bug ？",
+      "summary": "我已经忘了，这是我第几篇聊 iOS 26 的 JIT 调试问题，自从 iOS 26 正式禁止 Debug 时 mprotect 的 RX 权限之后，Flutter 的在 iOS 真机的 JIT 运行和",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7630020855679057935",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b32e6389983c4c308470092aec43409d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=oy9Mb6AG2VSyk3WF6uNDUxs5WQA%3D",
+      "tags": [],
+      "published_at": "2026-04-20T00:19:46",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "fa6dfdd600cc",
+      "title": "告别 IDE？Android CLI 来了，开发进入 AI Agent 时代",
+      "summary": "近日，Google 悄然发布了一个工具——Android CLI。它是 Google 为即将到来的 Agent-first 开发时代而专门打造的 Android 开发\"前门\"。 在 Google 内部",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7630031645626826803",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ef05e9f0d324f43b2c8c38b380f21d5~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1777406935&x-signature=jXe%2F35R9eimszllT8ACy5b2PGTQ%3D",
+      "tags": [],
+      "published_at": "2026-04-20T00:14:28",
+      "read_time_minutes": 5
+    }
+  ]
 }
