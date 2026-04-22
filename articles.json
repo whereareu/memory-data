@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-22T08:52:27.560443",
+  "last_updated": "2026-04-22T10:24:18.134186",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "f20bd777fecb",
-      "title": "Android手把手编写儿童手机远程监控App之广播开机自启动",
-      "summary": "概述 上节内容是后台服务，后台服务是app后台默默运行，分为两类，一是后台服务，一是前台服务 后台服务，执行用户不会直接注意到的操作，如数据处理，日志清理等，资源不足可能会被系统终止 前台服务，执行用",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631457446263521314",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a129a898d98348f299aad3224b37ca60~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgYW5nZXJkcmVhbQ==:q75.awebp?rk3s=f64ab15b&x-expires=1777452744&x-signature=O2xqlEU37Sc0sb8W%2FEchXVEsKSo%3D",
-      "tags": [],
-      "published_at": "2026-04-22T08:27:40",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "e54d4cb76414",
-      "title": "Kotlin类型魔法：Any、Unit、Nothing 深度探秘",
-      "summary": "Kotlin类型魔法：Any、Unit、Nothing 深度探秘 Kotlin 类型体系中的独特存在 在 Kotlin 的编程世界里，有三位 “神秘嘉宾”——Any、Unit、Nothing，它们如同",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631037754638893119",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-21T14:24:20",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
