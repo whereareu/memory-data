@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-22T14:51:12.985480",
+  "last_updated": "2026-04-22T16:15:11.276863",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "524db392a445",
-      "title": "GetX — Flutter 的瑞士军刀，还是过度封装的陷阱？",
-      "summary": "GetX 是什么？ GetX 是 Flutter 生态中最受欢迎的第三方框架之一，由 Jonatas Law 创建。在 pub.dev 上的包名是 get，GitHub 上有 10k+ star。 它",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631498231742267433",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-22T14:36:57",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "1eaebe49f244",
-      "title": "Android开发神器：AndroidAutoSize，轻松搞定屏幕适配",
-      "summary": "Android开发神器：AndroidAutoSize，轻松搞定屏幕适配 屏幕适配之痛，你中招了吗？ 作为一名 Android 开发者，相信大家都有过被屏幕适配折磨的经历。在这个 Android 设备",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631419063719297030",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-22T13:56:07",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5a71f1a86141",
-      "title": "WasmGC 是什么？为什么它对 Dart 和 Kotlin 在 Web 领域很重要？",
-      "summary": "最近刚好和网友讨论了下 Wasm ，然后聊到了 WasmGC ，好像大家对它的存在还不太了解，觉得它是不是就是 JVM 上的 GC ？有什么特别意义？其实事实上还是不大一样。 最开始 WebAssem",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7630763887537078291",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b320a500e71342929dce1c0f63254182~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777474266&x-signature=TVwzAcHYcUA5n1BzXz6n%2BWtGojg%3D",
-      "tags": [],
-      "published_at": "2026-04-21T00:13:32",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
