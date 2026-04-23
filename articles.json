@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-23T08:58:04.939378",
+  "last_updated": "2026-04-23T10:41:43.601821",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "e8bc6175e90d",
-      "title": "Flutter路由演进路线（2026）",
-      "summary": "目前很多资料都还集中在navigator1.0版本（包括国内某些大模型还在推这个，估计训练的资料还是旧版）。初学者感到困惑，故整理之~ 🧭 结论 总的来说，路由方案经历了多次迭代，目前是Navigat",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631840490820943907",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-23T07:56:39",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "69d3d0f8b391",
-      "title": "在 Android 上用上原生的 xxHash，性能直接拉满",
-      "summary": "哈希计算在日常开发中太常见了——数据校验、缓存 key 生成、文件去重，哪哪都离不开。提到哈希，大家第一反应可能是 MD5 或者 SHA，但如果你只需要快速生成一个指纹，不需要密码学安全性，那 xxH",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631753968202235947",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-23T07:36:17",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
