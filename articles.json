@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-22T23:55:49.741867",
+  "last_updated": "2026-04-23T03:38:05.915573",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "f11f36e2f519",
+      "title": "AI提效Android开发全景图：从需求到上线的AI工具链",
+      "summary": "AI提效Android开发系列 · 第1/5篇 第1篇：AI提效Android开发全景图：从需求到上线的AI工具链（本篇） ⏳ 第2篇：AI驱动需求梳理与Spec编写：让PRD自动变成技术方案 ⏳ 第",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7631420166888112147",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/20f2edbe8e094e0eb71db4ea4793f609~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1777520283&x-signature=bgt8tdZypQoDZmiu1XQxoAilf%2Bw%3D",
+      "tags": [],
+      "published_at": "2026-04-23T01:53:12",
+      "read_time_minutes": 5
+    }
+  ]
 }
