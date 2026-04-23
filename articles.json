@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-23T17:39:31.062325",
+  "last_updated": "2026-04-23T19:24:00.029828",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "91ab1f5bfaa2",
+      "title": "《彻底搞懂 ViewModel：作用、原理与源码分析》",
+      "summary": "ViewModel官方介绍 ViewModel 是什么东西??? 实际开发中就稀里糊涂的用了起来,模糊的是知道什么关联生命周期,和解耦什么的,没深入研究过...现在深入研究一下这到底是一个什么东西.",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7631146134824140819",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-22T03:46:43",
+      "read_time_minutes": 5
+    }
+  ]
 }
