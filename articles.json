@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-23T06:11:45.951055",
+  "last_updated": "2026-04-23T08:58:04.939378",
   "sources": [
     {
       "name": "掘金",
@@ -15,27 +15,27 @@
   ],
   "articles": [
     {
-      "id": "5d2e2b1d45d4",
-      "title": "【Kotlin 协程修仙录 · 炼气境 · 初阶】 | 感受天地灵气，写出第一个挂起函数",
-      "summary": "从今天起，我们将以修仙进阶的方式，系统化地攻克 协程。你将获得的不是 API 的堆砌，而是一套从表及里、由浅入深的完整心智模型。每一讲都是一个独立的修炼关卡，配有可运行的代码和深度的原理剖析。",
+      "id": "e8bc6175e90d",
+      "title": "Flutter路由演进路线（2026）",
+      "summary": "目前很多资料都还集中在navigator1.0版本（包括国内某些大模型还在推这个，估计训练的资料还是旧版）。初学者感到困惑，故整理之~ 🧭 结论 总的来说，路由方案经历了多次迭代，目前是Navigat",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7631486527864340531",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cc7e96f3f1f34002b857016cce76940b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Zyw54ux5YuH5aOr:q75.awebp?rk3s=f64ab15b&x-expires=1777529503&x-signature=OZVykOW4db5GSGR31f%2BgFXV2oxM%3D",
+      "url": "https://juejin.cn/post/7631840490820943907",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-23T03:52:35",
+      "published_at": "2026-04-23T07:56:39",
       "read_time_minutes": 5
     },
     {
-      "id": "a6a34d0fbc8a",
-      "title": "Android CLI 与 Skills：提升 AI Coding 效率",
-      "summary": "随着 AI Agent 在软件开发领域的快速发展，Android 应用开发迎来了全新的“Agent-First”工作流。Google 推出的 Android CLI 和 Android Skills",
+      "id": "69d3d0f8b391",
+      "title": "在 Android 上用上原生的 xxHash，性能直接拉满",
+      "summary": "哈希计算在日常开发中太常见了——数据校验、缓存 key 生成、文件去重，哪哪都离不开。提到哈希，大家第一反应可能是 MD5 或者 SHA，但如果你只需要快速生成一个指纹，不需要密码学安全性，那 xxH",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7631554083217440831",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5d55ebfe279e418880306204fea1f98e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p6X5qCpbGluaw==:q75.awebp?rk3s=f64ab15b&x-expires=1777529503&x-signature=CCPHscRAc6cyD1lL1Skrla3Oi4o%3D",
+      "url": "https://juejin.cn/post/7631753968202235947",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-04-23T03:39:36",
+      "published_at": "2026-04-23T07:36:17",
       "read_time_minutes": 5
     }
   ]
