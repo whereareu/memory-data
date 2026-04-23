@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-23T03:38:05.915573",
+  "last_updated": "2026-04-23T06:11:45.951055",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,27 @@
   ],
   "articles": [
     {
-      "id": "f11f36e2f519",
-      "title": "AI提效Android开发全景图：从需求到上线的AI工具链",
-      "summary": "AI提效Android开发系列 · 第1/5篇 第1篇：AI提效Android开发全景图：从需求到上线的AI工具链（本篇） ⏳ 第2篇：AI驱动需求梳理与Spec编写：让PRD自动变成技术方案 ⏳ 第",
+      "id": "5d2e2b1d45d4",
+      "title": "【Kotlin 协程修仙录 · 炼气境 · 初阶】 | 感受天地灵气，写出第一个挂起函数",
+      "summary": "从今天起，我们将以修仙进阶的方式，系统化地攻克 协程。你将获得的不是 API 的堆砌，而是一套从表及里、由浅入深的完整心智模型。每一讲都是一个独立的修炼关卡，配有可运行的代码和深度的原理剖析。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7631420166888112147",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/20f2edbe8e094e0eb71db4ea4793f609~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1777520283&x-signature=bgt8tdZypQoDZmiu1XQxoAilf%2Bw%3D",
+      "url": "https://juejin.cn/post/7631486527864340531",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cc7e96f3f1f34002b857016cce76940b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Zyw54ux5YuH5aOr:q75.awebp?rk3s=f64ab15b&x-expires=1777529503&x-signature=OZVykOW4db5GSGR31f%2BgFXV2oxM%3D",
       "tags": [],
-      "published_at": "2026-04-23T01:53:12",
+      "published_at": "2026-04-23T03:52:35",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "a6a34d0fbc8a",
+      "title": "Android CLI 与 Skills：提升 AI Coding 效率",
+      "summary": "随着 AI Agent 在软件开发领域的快速发展，Android 应用开发迎来了全新的“Agent-First”工作流。Google 推出的 Android CLI 和 Android Skills",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7631554083217440831",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5d55ebfe279e418880306204fea1f98e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p6X5qCpbGluaw==:q75.awebp?rk3s=f64ab15b&x-expires=1777529503&x-signature=CCPHscRAc6cyD1lL1Skrla3Oi4o%3D",
+      "tags": [],
+      "published_at": "2026-04-23T03:39:36",
       "read_time_minutes": 5
     }
   ]
