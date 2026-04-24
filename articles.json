@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-23T23:57:22.055712",
+  "last_updated": "2026-04-24T03:41:51.282411",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "87092275e98f",
+      "title": "Jetpack Compose 1.11 正式版发布，下一代的全新控件和样式 API，你必须知道",
+      "summary": "我感觉这是 Jetpack Compose 今年更新最有意义的一个版本了，没有之一，因为它提供了一套全新路线方向，同时也补齐了 Compose 三个长期短板： 组件样式能力太依赖 modifier 和",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7631745987393224745",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/981f159c36b248a68764b8aad0e5dc5e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777606909&x-signature=NjSu%2BMWp5mAmzDLwQEqd5SRgPdI%3D",
+      "tags": [],
+      "published_at": "2026-04-24T00:46:09",
+      "read_time_minutes": 5
+    }
+  ]
 }
