@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-24T06:16:13.808611",
+  "last_updated": "2026-04-24T09:05:12.347305",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "5e5c06090128",
+      "title": "Kotlin高阶函数和Java 8 lambda的区别：",
+      "summary": "1、 Kotlin 集合（2016 年诞生） Kotlin 从第一天就支持： 高阶函数 Lambda 函数式编程 所以 Kotlin 标准库直接给 List 增加了 扩展函数： filter map",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7632158026095558707",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-24T08:44:26",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "7eacd0fe78b5",
+      "title": "Kotlin 高阶函数：",
+      "summary": "一、核心定义 1. 什么是高阶函数（Higher-order Function） 满足任意一条就是高阶函数： 参数是函数 返回值是函数 同时满足 1 + 2 2. 为什么要用高阶函数 简化回调、消除",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7632121859275685914",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-24T08:28:38",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "222f131e0cfb",
+      "title": "Kotlin之【init】——  新手须知",
+      "summary": "在 Kotlin 中，init 块是初始化块，用于在类实例创建时执行额外的初始化逻辑。它属于类的主构造函数的一部分，在属性初始化器和主构造函数的参数之后、次构造函数的主体之前执行。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7632141936347430918",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c3ea3571499c4a9497ddee2062c9c764~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUUlORzYxOA==:q75.awebp?rk3s=f64ab15b&x-expires=1777626309&x-signature=RfNioWcSsOSSsoY%2FO1JElTCGy8s%3D",
+      "tags": [],
+      "published_at": "2026-04-24T08:01:32",
+      "read_time_minutes": 5
+    }
+  ]
 }
