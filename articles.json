@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-25T21:45:09.874370",
+  "last_updated": "2026-04-25T22:47:46.829038",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "4fa94f64b127",
+      "title": "Compose中的CameraX二维码扫描器",
+      "summary": "本文将详细介绍使用最新的CameraX Compose API构建一个二维码扫描器屏幕，使用ML Kit分析Wi-Fi二维码，并在完全不修改AndroidView的情况下连接到网络。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7632523895627464714",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f02b74b08b4d4ec5969e3840e1eb85f0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1777762064&x-signature=dQpwpzndxZQliiHnYcYPy8dYGnU%3D",
+      "tags": [],
+      "published_at": "2026-04-25T14:44:36",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "ce7721635a6d",
+      "title": "解锁Android嵌入式照片选择器，让你的App体验丝滑起飞",
+      "summary": "解锁Android嵌入式照片选择器，让你的App体验丝滑起飞 传统照片选择器的痛点 在以往的 App 开发中，若要实现照片选择功能，常用方式是启动系统自带的照片选择器，或是借助第三方库。但这两种传统方",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7632298339149774888",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-04-25T14:25:43",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "87092275e98f",
+      "title": "Jetpack Compose 1.11 正式版发布，下一代的全新控件和样式 API，你必须知道",
+      "summary": "我感觉这是 Jetpack Compose 今年更新最有意义的一个版本了，没有之一，因为它提供了一套全新路线方向，同时也补齐了 Compose 三个长期短板： 组件样式能力太依赖 modifier 和",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7631745987393224745",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/981f159c36b248a68764b8aad0e5dc5e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777762064&x-signature=Vv%2FZYYIJlJDC%2BTELIS4DAyLyiGE%3D",
+      "tags": [],
+      "published_at": "2026-04-24T00:46:09",
+      "read_time_minutes": 5
+    }
+  ]
 }
