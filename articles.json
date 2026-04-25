@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-25T05:52:32.931330",
+  "last_updated": "2026-04-25T07:40:20.687504",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "0e3ef2c198c2",
-      "title": "Flutter GetX 核心坑及架构选型与可替换性方案",
-      "summary": "本文基于 GetX 4.6/5.0，分析其状态管理、依赖注入、路由三大核心坑点及规避方法；按项目规模给出架构选型建议，提出通过抽象封装实现框架可替换性，降低后期迁移成本，提升项目可维护性与可测试性。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632162180318855209",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-24T11:58:34",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
