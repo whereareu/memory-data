@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-25T11:44:23.112980",
+  "last_updated": "2026-04-25T13:21:12.305878",
   "sources": [
     {
       "name": "掘金",
@@ -13,54 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "83ae339780e4",
-      "title": "Android BLE 为什么连上了却收不到数据",
-      "summary": "BLE 里有一种情况特别烦。 设备能扫到，也能连上，onConnectionStateChange() 进了，discoverServices() 也成功了，日志一眼看过去甚至有种“都好了”的错觉。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632298339148660776",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c5b18ce8acef4b84ba42779126f5afb7~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Ze3b-WXt28=:q75.awebp?rk3s=f64ab15b&x-expires=1777722261&x-signature=6uDk3Fe%2BJ1wbVc9CZ6lRzP8WGYE%3D",
-      "tags": [],
-      "published_at": "2026-04-25T07:52:06",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "809fea96f6d1",
-      "title": "第1周：别小看 `TextView`，它其实是 Android 页面里最常被低估的组件",
-      "summary": "第1周：别小看 TextView，它其实是 Android 页面里最常被低估的组件 很多人刚学 Android 的时候，看到 TextView 会本能地觉得：这不就是“显示文字”吗？ 我一开始也是这么",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632229883725561898",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-25T07:37:42",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "73fdcc315ae4",
-      "title": "Android开发[5]:组件化之路由+注解",
-      "summary": "Android路由+注解 1.掌握ARouter路由框架的基础用法（页面跳转、参数传递、拦截器）。 2.理解Hilt依赖注入的核心原理，实现接口通信的依赖注入优化，替代手动注册接口的繁琐操作。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632183161373179930",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-25T07:27:48",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "87092275e98f",
-      "title": "Jetpack Compose 1.11 正式版发布，下一代的全新控件和样式 API，你必须知道",
-      "summary": "我感觉这是 Jetpack Compose 今年更新最有意义的一个版本了，没有之一，因为它提供了一套全新路线方向，同时也补齐了 Compose 三个长期短板： 组件样式能力太依赖 modifier 和",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631745987393224745",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/981f159c36b248a68764b8aad0e5dc5e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777722261&x-signature=j5YhToR4abUmvK%2F9fywFxu47WhA%3D",
-      "tags": [],
-      "published_at": "2026-04-24T00:46:09",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
