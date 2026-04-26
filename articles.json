@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-26T16:54:45.424984",
+  "last_updated": "2026-04-26T17:49:16.859111",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "a148d253c08c",
-      "title": "AI Bug修复与测试生成：从崩溃日志到修复PR的自动化 | AI提效Android开发(5)",
-      "summary": "AI提效Android开发系列 · 第5/5篇（完结篇） 从需求到上线，用AI重塑Android开发全流程 第1篇：AI提效Android开发全景图：从需求到上线的AI工具链 第2篇：AI驱动需求梳理",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632469423669690410",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c8038370ce164251b9c3146f22905731~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1777827284&x-signature=6g4EPIj47Rg8%2BnAd6HWl6atAYr0%3D",
-      "tags": [],
-      "published_at": "2026-04-26T14:39:58",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "87092275e98f",
-      "title": "Jetpack Compose 1.11 正式版发布，下一代的全新控件和样式 API，你必须知道",
-      "summary": "我感觉这是 Jetpack Compose 今年更新最有意义的一个版本了，没有之一，因为它提供了一套全新路线方向，同时也补齐了 Compose 三个长期短板： 组件样式能力太依赖 modifier 和",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7631745987393224745",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/981f159c36b248a68764b8aad0e5dc5e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777827284&x-signature=rjq3avCLUrDiESmOMQtZlkMW990%3D",
-      "tags": [],
-      "published_at": "2026-04-24T00:46:09",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
