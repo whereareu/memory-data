@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-27T14:14:20.500563",
+  "last_updated": "2026-04-27T16:47:46.067081",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "23bbe430db49",
-      "title": "安卓启动页Logo适配秘籍：告别“奇形怪状”的展示",
-      "summary": "安卓启动页Logo适配秘籍：告别“奇形怪状”的展示 启动页 Logo 适配有多重要 你是否曾在打开一个 APP 时，看到启动页上的 Logo 显示不全，或是被拉伸得奇形怪状？那种瞬间的不适感，是不是让",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7633242533977407523",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-27T12:30:03",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "2f4a1e581d23",
-      "title": "Android 12 (AOSP) 添加自定义系统服务",
-      "summary": "在 Android Framework 中添加自定义系统服务并将其完全暴露给第三方应用，需要打通从 AIDL 接口定义、SystemServer 注册、SELinux 权限配置到 ART 虚拟机 AP",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632621929040035866",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-26T07:17:10",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
