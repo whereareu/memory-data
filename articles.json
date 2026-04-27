@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-27T09:25:45.497740",
+  "last_updated": "2026-04-27T11:51:21.235352",
   "sources": [
     {
       "name": "掘金",
@@ -14,18 +14,6 @@
     }
   ],
   "articles": [
-    {
-      "id": "49ee62c3a68d",
-      "title": "Flutter版本选择指南：3.41.7进入稳态，生产环境升级窗口开启 | 2026年4月",
-      "summary": "2026年4月Flutter版本选型指南：深度解析3.41.7补丁带来的稳定性红利，探讨AI工具链深度绑定下的开发范式转移，助你锁定生产环境最佳基线。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632990833025744902",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e99e38a061b84778aed81f51fd842522~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1777886743&x-signature=XX6qUoruf9dZ%2FWey1Dfhmm56S5s%3D",
-      "tags": [],
-      "published_at": "2026-04-27T08:15:52",
-      "read_time_minutes": 5
-    },
     {
       "id": "2f4a1e581d23",
       "title": "Android 12 (AOSP) 添加自定义系统服务",
