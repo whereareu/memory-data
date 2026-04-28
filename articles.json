@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-27T23:04:56.051737",
+  "last_updated": "2026-04-28T03:53:09.826627",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "e4ea035d3c04",
-      "title": "Bun 官方将正式支持 Android，Claude Code 未来可以直接在手机上跑",
-      "summary": "最近 Bun 官方正式宣布，下个版本 Bun 将正式支持 Android ，当然官方也说了，不要别把「能在 Android 手机上跑 Bun」误解成「能用 Bun 开发 Android App」，用",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632776346619936787",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d30ee5e6935c4c48b585f3f29692470f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1777935893&x-signature=wzMwVzihAd7PJhaya168Tm6zG2w%3D",
-      "tags": [],
-      "published_at": "2026-04-27T00:52:41",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "2f4a1e581d23",
-      "title": "Android 12 (AOSP) 添加自定义系统服务",
-      "summary": "在 Android Framework 中添加自定义系统服务并将其完全暴露给第三方应用，需要打通从 AIDL 接口定义、SystemServer 注册、SELinux 权限配置到 ART 虚拟机 AP",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7632621929040035866",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-04-26T07:17:10",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
