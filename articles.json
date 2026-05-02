@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-02T13:37:45.873591",
+  "last_updated": "2026-05-02T14:56:16.837590",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "f0e1058e6359",
+      "title": "Android SparseArray",
+      "summary": "1. 为什么会有 SparseArray SparseArray<E> 是 Android 为 int -> Object 映射设计的轻量级容器。 它不是为了在所有场景替代 HashMap<Integ",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7634513142077734938",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-02T13:30:53",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "5a43ff745197",
+      "title": "Activity 启动流程扩展篇（一）—— startActivityInner 任务决策全解析",
+      "summary": "前言 本文是从Activity 启动流程（二）—— AMS 处理阶段中拆出的 扩展篇文章。 代码基于 android-14.0.0_r9。 1. 一句话先说结论 startActivityInner(",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7634480263965098011",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-02T12:50:42",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "33f1e68d5aaf",
+      "title": "Android View Tag",
+      "summary": "前言 在 Android UI 体系中，View Tag 属于 View 基础属性与数据存储机制。Tag 本质上是依附在 View 树节点上的“便签”，允许我们在不继承或修改原生 View 的情况下，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7634559407021244426",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-01T13:31:16",
+      "read_time_minutes": 5
+    }
+  ]
 }
