@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-02T16:59:51.337043",
+  "last_updated": "2026-05-02T17:57:55.045947",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "f0e1058e6359",
-      "title": "Android SparseArray",
-      "summary": "1. 为什么会有 SparseArray SparseArray<E> 是 Android 为 int -> Object 映射设计的轻量级容器。 它不是为了在所有场景替代 HashMap<Integ",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7634513142077734938",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-02T13:30:53",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5a43ff745197",
-      "title": "Activity 启动流程扩展篇（一）—— startActivityInner 任务决策全解析",
-      "summary": "前言 本文是从Activity 启动流程（二）—— AMS 处理阶段中拆出的 扩展篇文章。 代码基于 android-14.0.0_r9。 1. 一句话先说结论 startActivityInner(",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7634480263965098011",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-02T12:50:42",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
