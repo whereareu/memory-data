@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-03T15:55:58.603655",
+  "last_updated": "2026-05-03T17:01:09.684825",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "8dfa7b65b825",
+      "title": "第2周：`EditText` 不只是输入框，它是 Android 输入体验的第一道门",
+      "summary": "第 1 周做完 TextView 后，页面终于能把文字稳定地展示出来了。到了第 2 周，事情开始往前走一步：用户不只是看，还要开始输入",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7634814742017245203",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7eff57a2e54d4d919d8db23c4abc06b8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZqP6YGH5Li_6ICM5a6J:q75.awebp?rk3s=f64ab15b&x-expires=1778432468&x-signature=Yk%2Bhg6%2FjVzsGTAWaqGjMhyxt8tw%3D",
+      "tags": [],
+      "published_at": "2026-05-03T06:24:09",
+      "read_time_minutes": 5
+    }
+  ]
 }
