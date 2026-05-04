@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-04T06:50:04.148694",
+  "last_updated": "2026-05-04T09:27:56.970959",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "8eabfaaed0ef",
+      "title": "我做了个让 AI 看屏幕跑测试的工具,因为 Playwright 测不了我的 Flutter Web",
+      "summary": "我是 jeff,这两个月在做 RecompDaily(一个 Flutter应用 + Go 的健身记录 app)。 这篇讲一个我自己挠头三个月、最后写代码砸出来解决的事:Flutter Web 应用怎么",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7635510696695873546",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8fc9c31fa81845f982f3c29779162994~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgamVmZndhbmc=:q75.awebp?rk3s=f64ab15b&x-expires=1778491675&x-signature=6g6QT7zxNLWjXQSWHgduwZ6CpDg%3D",
+      "tags": [],
+      "published_at": "2026-05-04T08:06:48",
+      "read_time_minutes": 5
+    }
+  ]
 }
