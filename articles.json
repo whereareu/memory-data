@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-05T12:07:49.033383",
+  "last_updated": "2026-05-05T17:43:51.815537",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "2b8abf5ae664",
+      "title": "Android字体字重设置全攻略：XML黑科技+Kotlin动态实现，告别.ttf臃肿",
+      "summary": "Android字体字重设置全攻略：XML黑科技+Kotlin动态实现，告别.ttf臃肿 一、 引言：字重，Android UI 精致度的 “隐形推手” 1.1 为什么字体字重是 UI 设计的关键细节",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7635832321266384946",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-05T14:15:29",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "20de6fb8b82d",
+      "title": "揭密：Compose应用如何做到启动提升34%",
+      "summary": "本文讲述了作者如何通过重组分析，严格模式(StrictMode)以及基线性能分析来把一个Compose应用的启动性能提升了34%。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7636050861055672358",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4372961d544848a0a45c83a2232b3aca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1778607830&x-signature=uw6fFtQgydAJa3Sknhu9K7e6Psg%3D",
+      "tags": [],
+      "published_at": "2026-05-05T11:22:13",
+      "read_time_minutes": 5
+    }
+  ]
 }
