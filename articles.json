@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-05T19:45:34.940913",
+  "last_updated": "2026-05-05T21:09:33.034084",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "20de6fb8b82d",
-      "title": "揭密：Compose应用如何做到启动提升34%",
-      "summary": "本文讲述了作者如何通过重组分析，严格模式(StrictMode)以及基线性能分析来把一个Compose应用的启动性能提升了34%。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7636050861055672358",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4372961d544848a0a45c83a2232b3aca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1778615133&x-signature=JimxvUmVFN3Wop4IA7e6vcw6asA%3D",
-      "tags": [],
-      "published_at": "2026-05-05T11:22:13",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
