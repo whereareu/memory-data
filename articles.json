@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-05T00:01:07.463731",
+  "last_updated": "2026-05-05T04:19:46.241757",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "0d6fc6e8a2a4",
-      "title": "Android 窗口容器树（一）—— 窗口和窗口容器树",
-      "summary": "窗口容器树系列文章： Android 窗口容器树（一）—— 窗口和窗口容器树 Android 窗口容器树（二）—— 窗口容器树的构建 1. 什么是窗口？ 在 Android 中，窗口不是 View，也",
+      "id": "5cbb52bc1eaf",
+      "title": "Flutter 架构日记 —— 可演进的 Flutter Dialog 组件",
+      "summary": "基于一个真实的 Dialog 模块演进过程，从设计、使用到重构，尝试回答公共弹窗组件库设计问题；这不是一篇讲“如何实现弹窗”的文章，而是一篇关于**如何让基础组件在业务中更好用**的实践总结。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7635702552887410739",
+      "url": "https://juejin.cn/post/7635510696696725514",
       "cover_image": "",
       "tags": [],
-      "published_at": "2026-05-04T16:07:56",
+      "published_at": "2026-05-05T03:42:11",
       "read_time_minutes": 5
     }
   ]
