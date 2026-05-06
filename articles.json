@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-06T09:31:16.757583",
+  "last_updated": "2026-05-06T11:54:58.883277",
   "sources": [
     {
       "name": "掘金",
@@ -15,27 +15,15 @@
   ],
   "articles": [
     {
-      "id": "36183cc3f8cf",
-      "title": "Android 副屏（Virtual Display）创建与悬浮窗画中画显示实战",
-      "summary": "Android 副屏（Virtual Display）创建与悬浮窗画中画显示实战 前言 在 Android 自动化、多任务场景中，我们经常需要将目标 App 启动到一个独立的虚拟屏幕上运行，不干扰用户",
+      "id": "0d6fc6e8a2a4",
+      "title": "Android 窗口容器树（一）—— 窗口和窗口容器树",
+      "summary": "窗口容器树系列文章： Android 窗口容器树（一）—— 窗口和窗口容器树 Android 窗口容器树（二）—— 窗口容器树的构建 1. 什么是窗口？ 在 Android 中，窗口不是 View，也",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7636571009870757897",
+      "url": "https://juejin.cn/post/7635702552887410739",
       "cover_image": "",
       "tags": [],
-      "published_at": "2026-05-06T08:19:58",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "4b6e640306d1",
-      "title": "Android 无障碍服务实现美团/微信自动化：客户端开发实践",
-      "summary": "Android 无障碍服务实现美团/微信自动化：客户端开发实践 一、整体架构 客户端在整个自动化链路中的定位： 客户端不做决策，只做三件事： 感知：获取 UI 树、截图 执行：点击、滑动、输入、返回",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7636590443733680178",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-06T07:29:20",
+      "published_at": "2026-05-04T16:07:56",
       "read_time_minutes": 5
     }
   ]
