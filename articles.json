@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-07T03:55:53.249858",
+  "last_updated": "2026-05-07T06:45:48.820671",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "89af5556478d",
+      "title": "ReactNative 源码分析4——ReactActivity之加载JSBundle",
+      "summary": "接着ReactInstanceManager.createReactContext方法继续讲 最终会调用到如下 2 个方法进入C++层 jniLoadScriptFromFile是调用到instanc",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7636720126783946792",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-07T05:14:48",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "ab717e73a2e7",
+      "title": "Now In Android 精讲 10 - AGENTS.md：写给 AI Agent 的项目说明书",
+      "summary": "本文基于 agents.md 官方规范、Android Studio 官方文档，以及 android/nowinandroid 当前代码结构整理。相比单独介绍 AGENTS.md，这篇更想借 Now",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7636761209605423154",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ca22621f72f24295bde0ccb09b662b93~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2FwdGFpblo=:q75.awebp?rk3s=f64ab15b&x-expires=1778741147&x-signature=RKBrvJNQJcDmTkkhR1fglh2CbmY%3D",
+      "tags": [],
+      "published_at": "2026-05-07T04:01:05",
+      "read_time_minutes": 5
+    }
+  ]
 }
