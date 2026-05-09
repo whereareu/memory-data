@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-09T11:03:03.630277",
+  "last_updated": "2026-05-09T13:42:05.091524",
   "sources": [
     {
       "name": "掘金",
@@ -13,66 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "ef2b0b4b0b48",
-      "title": "让 AI 自己跑代码：Android Agent 闭环实践",
-      "summary": "TL;DR：这是一个 Android 团队让 AI 自己跑代码、自己抓 bug 的实践。本文从一个真实痛点切入：AI 写完代码、单测全过，但只要装到真机上立刻翻车。我们试过让 AI\"写更好的代码\"，发",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7637771001505251364",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-09T10:09:07",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "a26c043c91ab",
-      "title": "稳定性全面升级！Compose Multiplatform 1.11 RC 正式推送",
-      "summary": "前言 JetBrains 在 2026 年 5 月 5 日发布了 Compose Multiplatform 1.11.0-rc01。 这是一个预发布版本，变更范围不大，但修的点都贴近真实开发：焦点行",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7637018608116891674",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-08T00:59:08",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "f8c7ece6262c",
-      "title": "实用性 Max ，新  Flutter  &  Dart Agent  Skills  深度解读",
-      "summary": "虽然之前在刚发布那会，我们就在 《Flutter 发布官方 Skills 》 聊过 Flutter 的 Skills ，但是经过几轮测试之后，官方发现之前单纯文档型的 Skills 作用并不明显，所以",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7637046499474538559",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6c7d91316ed7476781869aa837c6617d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1778929381&x-signature=c9KhCyxOp%2FKXWJhM7l%2BfmoNGvNk%3D",
-      "tags": [],
-      "published_at": "2026-05-08T00:53:44",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "44fc4e470842",
-      "title": "Android 中的 MVVM 是如何构建起来的",
-      "summary": "ViewBinding 避免手动多次调用 findViewById()，并以更类型安全的方式获取视图，从而减少样板代码并降低运行时错误风险。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7637065398848684058",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d127978364d24997bba33fb6ad41aa8d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1778929381&x-signature=aYYAIjscufzWbVhO2QnPzYF6wD4%3D",
-      "tags": [],
-      "published_at": "2026-05-08T00:45:22",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "9c1c9b7fac76",
-      "title": "深入理解 Kotlin 协程 (六)：进退有度，解密协程取消响应与异常分发机制",
-      "summary": "本文深剖协程底层设计，详述如何通过状态机流转与 CancellableContinuation 实现协作式取消；并揭秘协程如何静默过滤取消事件，利用异常处理器精准完成崩溃的分发与兜底保障。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7636978905913671720",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/723b2f1234b044c1a7488df9f98ac8c1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo55m9:q75.awebp?rk3s=f64ab15b&x-expires=1778929381&x-signature=8F%2FqQF6fzSTCKr%2F6J5xtN2NIdaE%3D",
-      "tags": [],
-      "published_at": "2026-05-07T17:00:49",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
