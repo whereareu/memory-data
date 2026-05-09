@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-09T21:54:04.930902",
+  "last_updated": "2026-05-09T22:55:20.484809",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "f8c7ece6262c",
-      "title": "实用性 Max ，新  Flutter  &  Dart Agent  Skills  深度解读",
-      "summary": "虽然之前在刚发布那会，我们就在 《Flutter 发布官方 Skills 》 聊过 Flutter 的 Skills ，但是经过几轮测试之后，官方发现之前单纯文档型的 Skills 作用并不明显，所以",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7637046499474538559",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6c7d91316ed7476781869aa837c6617d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1778968442&x-signature=7wGkdD86LI8H4d7Wy4WwprAN6KU%3D",
-      "tags": [],
-      "published_at": "2026-05-08T00:53:44",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
