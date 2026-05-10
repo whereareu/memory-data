@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-10T20:57:23.700083",
+  "last_updated": "2026-05-10T21:57:23.232117",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "3c80adb2e424",
+      "title": "经典，Flutter iOS 又修复了一个构建问题，还是很抽象",
+      "summary": "最近， Flutter 合并了 #185868 这个 PR ，这个 PR 的作用是将 Flutter iOS 工具链二进制文件升级为 Fat Binary，从而同时支持 x86_64 和 arm64",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7637433660883714090",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ba04bacf53b14e1396ab2bcab4af82c9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779055040&x-signature=3qTQgS79p%2FN09brP38RQknM0mLI%3D",
+      "tags": [],
+      "published_at": "2026-05-09T00:57:10",
+      "read_time_minutes": 5
+    }
+  ]
 }
