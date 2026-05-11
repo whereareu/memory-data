@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-11T05:01:50.422107",
+  "last_updated": "2026-05-11T09:55:04.121794",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "528f192d1565",
+      "title": "Shorebird 之外，Flutter Android 热更新还有什么选择",
+      "summary": "我更新了 flutter_patcher 0.1.2，这一版主要解决“怎么低成本试用”的问题。 新增： dart run flutter_patcher:mock_server 本地 checkUpd",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7637797087795298340",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-10T05:03:52",
+      "read_time_minutes": 5
+    }
+  ]
 }
