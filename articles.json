@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-11T23:01:54.023526",
+  "last_updated": "2026-05-12T03:54:17.579923",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "a4f09e87f573",
+      "title": "viewModel",
+      "summary": "1、ViewModel 作用 答案 管理页面业务数据、处理业务逻辑；生命周期独立于 Activity/Fragment，屏幕旋转、配置变更数据不丢失； 配合viewModelScope管理协程，自动取",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7638465964880576546",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-12T03:09:49",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "3d02a90f5390",
+      "title": "AndroidX 将引入有全新 AppState ，用于管理 Compose 状态",
+      "summary": "最近 AndroidX 给「跨组件 Compose 状态托管场景」引入了 AppState ，目前还没完全落地，但是从代码骨架可以看出来，AppState 的核心目的是： 这次新增的是 android",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7638535912314929206",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e255022eceb94a76965236cfc46eb84c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779162854&x-signature=kN9k%2FBInmr%2FpCBLOzfFpsevPTMg%3D",
+      "tags": [],
+      "published_at": "2026-05-12T00:50:52",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "01f3ea5168af",
+      "title": "Android 沉浸式（Edge-to-Edge）的介绍与应用",
+      "summary": "沉浸式是应用界面开发的不可避免要考虑的内容，Google 从 Android 15 开始，强制所有 App 启用 Edge-to-Edge（边缘到边缘）。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7638465046218244130",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d8ef13dc9ec749a0b0a8a80a48224784~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p2O5pav57u0:q75.awebp?rk3s=f64ab15b&x-expires=1779162854&x-signature=OHIQIDjuf5EcxTyfEgKKX%2BN4LcA%3D",
+      "tags": [],
+      "published_at": "2026-05-11T12:05:31",
+      "read_time_minutes": 5
+    }
+  ]
 }
