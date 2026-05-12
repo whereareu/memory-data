@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-12T09:46:03.468974",
+  "last_updated": "2026-05-12T12:01:57.861978",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "bb0f50dfb547",
+      "title": "重磅更新！Kotlin协程1.11.0 发布，Flow/StateFlow 新 API 全面升级",
+      "summary": "前言 kotlinx.coroutines 1.11.0 发布了。 这一版最直接的变化是 Kotlin 升到 2.2.20，同时新增了一些 Flow / StateFlow API，并修复 Share",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7638176554507386889",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-11T00:57:08",
+      "read_time_minutes": 5
+    }
+  ]
 }
