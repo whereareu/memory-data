@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-13T23:12:22.253475",
+  "last_updated": "2026-05-14T04:01:18.416876",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "5d71fe08a8e0",
-      "title": "Flutter + Supabase 集成 Apple Sign-In 完整指南",
-      "summary": "如果你的 Flutter 应用在 iOS 上提供任何第三方登录——Google、Facebook 或者其他——苹果的 App Review 准则 4.8 会强制你也必须提供 Sign in with",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7638551655363100687",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-12T03:45:06",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "3d02a90f5390",
-      "title": "AndroidX 将引入有全新 AppState ，用于管理 Compose 状态",
-      "summary": "最近 AndroidX 给「跨组件 Compose 状态托管场景」引入了 AppState ，目前还没完全落地，但是从代码骨架可以看出来，AppState 的核心目的是： 这次新增的是 android",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7638535912314929206",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e255022eceb94a76965236cfc46eb84c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779318740&x-signature=LL2a2U7ANoSSiNUn78MTms6mDAk%3D",
-      "tags": [],
-      "published_at": "2026-05-12T00:50:52",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
