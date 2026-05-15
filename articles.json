@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-14T22:16:04.739649",
+  "last_updated": "2026-05-15T00:02:24.571750",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,54 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "0a618cda1652",
+      "title": "终于，Flutter 修复 Android 中文字体异常，但是很草台，不知怎么吐槽",
+      "summary": "半年了，Flutter 终于修复了 3.38 带来的一个奇葩问题，在某些 Android 设备上，如果对比会发现，中文字体和之前版本不一样了，当然不是说完全渲染不对，而是字体变了： 这个问题其实是因为",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7639006640004251667",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/846dd19d41ea4e79a6c052f9096483fa~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779408142&x-signature=vSkFPcF34ryU9rpfu8mispAZ0Sg%3D",
+      "tags": [],
+      "published_at": "2026-05-14T01:00:09",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "f38460a3c259",
+      "title": "Android Show I/O 2026：开发者该关注这几件事",
+      "summary": "2026 年 5 月 12 日，Google 在 The Android Show | I/O Edition 里提前放出了 Android 今年的主线。 它更像一次方向切换：Android 正在从“",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7638806086187270170",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-13T00:54:27",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "ae278dea7189",
+      "title": "为什么 Android 不用接口做 Activity 通信？",
+      "summary": "一、一个 iOS 开发者，把我问住了 上周，一个刚从 iOS 转过来的同事问我： 我下意识想回答：“因为生命周期不稳定”。 但话到嘴边，我停住了。 这个答案——是对的，但不够本质。 于是我们从 Act",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7638897090145075246",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a1232d5f81f548a1909b697bfc093255~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&x-expires=1779408142&x-signature=fElkiTQJ5vXVosGuCsVxJm1dnz0%3D",
+      "tags": [],
+      "published_at": "2026-05-13T00:03:47",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "3c34967db360",
+      "title": "2026 Android I/O ，全新 AI 手机、 Android PC 和车载驾驶",
+      "summary": "这次 「Android Show | I/O Edition 2026」 的主题还是围绕 AI ，被谷歌称为「Android 有史以来最大更新之一」，这次核心还是聚焦 Gemini 深度整合、跨设备",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7638601174863380516",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/895b5bb36656407d91ade48d4fc9116e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779408142&x-signature=2rL%2Fxs8kRxrYJJGbLEQQBFem%2F6o%3D",
+      "tags": [],
+      "published_at": "2026-05-12T23:53:05",
+      "read_time_minutes": 5
+    }
+  ]
 }
