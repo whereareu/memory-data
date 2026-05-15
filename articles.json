@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-15T14:24:48.597813",
+  "last_updated": "2026-05-15T16:55:07.096836",
   "sources": [
     {
       "name": "掘金",
@@ -15,13 +15,25 @@
   ],
   "articles": [
     {
+      "id": "6eebb4afe818",
+      "title": "两次Flutter全屏白踩坑复盘：Layout的静默失败，以及AI结对编程的认知盲区",
+      "summary": "三天内连撞两个Flutter白屏bug，表象一样根因完全不同。拆解silent layout failure和delegate-level fail-shut两种机制，以及AI结对编程的五个系统性盲区。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7639733278733353010",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c6abdb17069846f4a58cf380daa83c10~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1779468905&x-signature=6TRMKORWOlMpssJ4fOBRc8Axj%2BY%3D",
+      "tags": [],
+      "published_at": "2026-05-15T15:07:21",
+      "read_time_minutes": 5
+    },
+    {
       "id": "c08aef604952",
       "title": "Compose Strong Skipping Mode 的真相：它并不会让你的类型变 Stable",
       "summary": "开了Strong Skipping就不用管Stability了？这个误解可能让你的列表性能暴跌。今天我们就来彻底聊清楚：Strong Skipping Mode 到底做了什么，以及它没做什么。",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7639935923683393563",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b035d73246034a1fa332fb532549d493~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1779459886&x-signature=tCpI3HgMh3K%2Fb%2BWUo7cJngFFkBk%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b035d73246034a1fa332fb532549d493~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1779468905&x-signature=4ORFDagOoR02aQ6hhYbR3NzCbd0%3D",
       "tags": [],
       "published_at": "2026-05-15T13:36:54",
       "read_time_minutes": 5
