@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-16T22:59:50.226364",
+  "last_updated": "2026-05-17T00:03:12.630183",
   "sources": [
     {
       "name": "掘金",
@@ -13,66 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "9e4aba797ae6",
-      "title": "Android上的ZeroMQ：用发布/订阅模式连接Linux服务",
-      "summary": "在本文中，我将详细介绍我们如何使用 ZeroMQ 通过简单的 PUB/SUB 设置将 Linux 服务连接到 Android 应用。我们将探讨我们实际交付的客户端实现、其结构设计的原因以及我们在此过程",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7640289667233300499",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/441a08635dba477d93065fafd4f7dc13~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1779577188&x-signature=oXnXtS98L39kQl1zeJStrHIPBos%3D",
-      "tags": [],
-      "published_at": "2026-05-16T15:19:21",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "df7fd3013a6a",
-      "title": "我通过3个小改动将Compose重组减少了78%",
-      "summary": "起初，屏幕看起来很正常。没有崩溃。没有 ANR（应用程序无响应）。也没有明显的帧丢失。但是，每次我滚动、输入或更改滤镜时，我总感觉有些不对劲——就像 UI 在做更多的工作。我打开 Compose 布局",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7640077602280456207",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-16T13:19:38",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "a38e35e3a83c",
-      "title": "Android Studio 放着没怎么用，怎么也会越来越卡？",
-      "summary": "最近被 Android Studio 越来越卡的问题给绷住了，明明用的不多，大多数只是打开在后台放着，偶尔需要才过去做一些手动修改，但是经常是要用的是就发现这玩意变得贼卡，明明内存也没吃满，这就很奇葩",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7639631116610519082",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cd6230774da54a2b85ae2c879a099c06~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779577188&x-signature=7eHqns4mbYXDcZox3S21hQSfCnw%3D",
-      "tags": [],
-      "published_at": "2026-05-15T01:00:51",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "24e68eb2765b",
-      "title": "Compose 动画 — 显隐的艺术",
-      "summary": "AnimatedVisibility 真正的魅力在于如何将多个过渡效果巧妙组合，并通过时机、方向和原点的精细调控，塑造出流畅自然的动态体验。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7639644871033602099",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e3edaac99d4344ccb6a6a01795cbe302~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1779577188&x-signature=lH5RxJGQQ35SSHoLJsnNGbRFWyQ%3D",
-      "tags": [],
-      "published_at": "2026-05-15T00:51:03",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "6d54a50a96ac",
-      "title": "Android官方发布 AppFunctions，让系统AI直接调用你的APP",
-      "summary": "AppFunctions 是什么 AppFunctions 是 Android 平台 API，加上一组 Jetpack 库。 过去用户要完成一个任务，通常要打开 App，找到页面，输入内容，再点按钮。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7639808080502538250",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-15T00:50:32",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
