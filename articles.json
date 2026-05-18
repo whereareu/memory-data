@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-17T22:59:12.564575",
+  "last_updated": "2026-05-18T00:05:51.268313",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "df7fd3013a6a",
-      "title": "我通过3个小改动将Compose重组减少了78%",
-      "summary": "起初，屏幕看起来很正常。没有崩溃。没有 ANR（应用程序无响应）。也没有明显的帧丢失。但是，每次我滚动、输入或更改滤镜时，我总感觉有些不对劲——就像 UI 在做更多的工作。我打开 Compose 布局",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7640077602280456207",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-16T13:19:38",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "c1608c44fda8",
-      "title": "Android App 高效升级指南：OkDownload 多线程断点续传与全版本安装适配",
-      "summary": "一个优秀的升级体验需要具备两点：快（下载稳、速度高）、兼容性好（全系统版本流畅安装）。 本文将带你利用强大的 OkDownload 库实现多任务、多线程、分片断点续传下载，并全方位适配 Android",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7639963991251386374",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-16T11:27:10",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "1102920b4a9f",
-      "title": "Android Clean Architecture 中 Use Case 只能有一个方法吗？",
-      "summary": "很多人第一次接触 Clean Architecture 时，会产生一个非常典型的误解： 尤其在 Android + Kotlin 的语境下，这种印象会被进一步强化： 调用时： 看起来既优雅又\"标准\"。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7640016020847034420",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f1f4159022a145b19b3b6c969aa22a50~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&x-expires=1779663550&x-signature=9drF1oDOvx5FuytFgOYcIushmvw%3D",
-      "tags": [],
-      "published_at": "2026-05-15T23:26:43",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
