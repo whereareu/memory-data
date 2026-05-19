@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-19T19:08:01.588326",
+  "last_updated": "2026-05-19T21:26:41.976256",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "0f076cb58e55",
+      "title": "Flutter GenUI 0.9 和 A2UI 0.9 发布，全动动态 UI 支持，AI 在 App 里直出界面",
+      "summary": "在之前的 《Flutter 官方 LLM 动态 UI 库 flutter_genui 发布，让 App UI 自己生成 UI》 我们就聊过，Flutter 已经支持让 Agent 在 App 运行中动",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7640409934489010230",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2b80171713824edfb63524f6903f70d1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779830799&x-signature=R0%2FShGhvuEki70BG9Ky1wGoikdM%3D",
+      "tags": [],
+      "published_at": "2026-05-18T01:04:51",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "602b57842532",
+      "title": "Android Studio Quail 1 Canary 5 发布，Compose 截图测试 + R8 混淆 mapping 问题解决",
+      "summary": "5 月 15 日，Google 发布了 Android Studio Quail 1 Canary 5。 这次对应的 Android Gradle Plugin 是 9.3.0-alpha05。 本次",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7640677540941545522",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-18T01:02:40",
+      "read_time_minutes": 5
+    }
+  ]
 }
