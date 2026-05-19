@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-19T21:26:41.976256",
+  "last_updated": "2026-05-19T23:12:05.670091",
   "sources": [
     {
       "name": "掘金",
@@ -21,21 +21,9 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7640409934489010230",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2b80171713824edfb63524f6903f70d1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779830799&x-signature=R0%2FShGhvuEki70BG9Ky1wGoikdM%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2b80171713824edfb63524f6903f70d1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779837123&x-signature=bGbzRu032Fci%2F%2BltJfn00tV4BaI%3D",
       "tags": [],
       "published_at": "2026-05-18T01:04:51",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "602b57842532",
-      "title": "Android Studio Quail 1 Canary 5 发布，Compose 截图测试 + R8 混淆 mapping 问题解决",
-      "summary": "5 月 15 日，Google 发布了 Android Studio Quail 1 Canary 5。 这次对应的 Android Gradle Plugin 是 9.3.0-alpha05。 本次",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7640677540941545522",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-18T01:02:40",
       "read_time_minutes": 5
     }
   ]
