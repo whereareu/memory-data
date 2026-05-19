@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-18T23:12:00.769143",
+  "last_updated": "2026-05-19T04:14:24.345815",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "848dffbfac3e",
+      "title": "android常见的内存泄漏场景及检测工具",
+      "summary": "Android 应用的内存泄漏，简单来说就是不再需要的对象因被错误地持续引用，导致垃圾回收器无法回收，从而一步步蚕食应用内存。 这些问题通常是“温水煮青蛙”，不会导致应用立即崩溃，而是慢慢消耗掉手机内",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7641380041629532198",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-19T01:30:37",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "ad309676ff7f",
+      "title": "Flutter 二进制通信原理：从 ByteData 到 BinaryMessenger",
+      "summary": "本文深度剖析 Flutter 二进制通信底层机制。从 ByteBuffer 内存模型切入，揭秘跨端通信真实载体 ByteData 与核心总线 BinaryMessenger，探讨高频数据传输瓶颈与优化",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7641054984592031754",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b489efa57637416faa9b03bdfba70d7d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUmFpZGVuTGl1:q75.awebp?rk3s=f64ab15b&x-expires=1779768862&x-signature=sZRgcFA3q4R0nZvF9lgRWtj7Aq0%3D",
+      "tags": [],
+      "published_at": "2026-05-19T00:06:50",
+      "read_time_minutes": 5
+    }
+  ]
 }
