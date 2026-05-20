@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-20T04:15:19.967001",
+  "last_updated": "2026-05-20T08:31:47.028882",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "8d6b745a308a",
-      "title": "AndroidManifest.xml 配置速查手册",
-      "summary": "AndroidManifest元素与属性速查手册，覆盖 Android 5.0~15（API 21~35）。含速查模板、核心属性详解、版本里程碑、避坑指南与字母序索引，供日常开发与适配排错查阅。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7641482215004799012",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-19T11:15:45",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
