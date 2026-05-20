@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-19T23:12:05.670091",
+  "last_updated": "2026-05-20T04:15:19.967001",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "0f076cb58e55",
-      "title": "Flutter GenUI 0.9 和 A2UI 0.9 发布，全动动态 UI 支持，AI 在 App 里直出界面",
-      "summary": "在之前的 《Flutter 官方 LLM 动态 UI 库 flutter_genui 发布，让 App UI 自己生成 UI》 我们就聊过，Flutter 已经支持让 Agent 在 App 运行中动",
+      "id": "8d6b745a308a",
+      "title": "AndroidManifest.xml 配置速查手册",
+      "summary": "AndroidManifest元素与属性速查手册，覆盖 Android 5.0~15（API 21~35）。含速查模板、核心属性详解、版本里程碑、避坑指南与字母序索引，供日常开发与适配排错查阅。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7640409934489010230",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2b80171713824edfb63524f6903f70d1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1779837123&x-signature=bGbzRu032Fci%2F%2BltJfn00tV4BaI%3D",
+      "url": "https://juejin.cn/post/7641482215004799012",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-05-18T01:04:51",
+      "published_at": "2026-05-19T11:15:45",
       "read_time_minutes": 5
     }
   ]
