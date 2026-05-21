@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-21T21:42:09.844817",
+  "last_updated": "2026-05-21T23:09:26.114054",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "030f60d35168",
-      "title": "Android Skills",
-      "summary": "仓库地址 https://github.com/kongxiaoan/android-skills Android Skills 这是一个面向 Android 开发的 Codex/Claude Ski",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7642176685400424482",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-21T14:04:14",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "c471d578cd51",
-      "title": "Flutter 3.44 发布啦，超级大版本更新！！！",
-      "summary": "虽然 Flutter 3.44 的版本已经发布两天了，但是今天才是真正的官宣 Flutter 3.44 发布哦，3.44 虽然看起来版本号不大，但是这确实是一个超级大版本更新。 这次 3.44 核心包",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7641896054782672915",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e7a59a1fe88348028b91dd3a0c6326bf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780004528&x-signature=Duc1G0D38FSxXhYYIx2uBwXYh1I%3D",
-      "tags": [],
-      "published_at": "2026-05-21T01:05:30",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "8b2061ffc096",
-      "title": "Kotlin 的 SAM 到底解决了什么？",
-      "summary": "SAM 转换真正解决的问题，并不是“接口怎么写”，而是“如何把一段行为更自然地传给另一个函数”。了解了这个，你才会真的懂了 SAM。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7641485663819284526",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/11e61832e7814faca300fb588067d8dd~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1780004528&x-signature=MMu8e%2Fd6NFO%2FdWI3UgfJAyOBJ6s%3D",
-      "tags": [],
-      "published_at": "2026-05-20T00:46:07",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
