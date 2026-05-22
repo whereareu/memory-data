@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-22T14:53:43.518592",
+  "last_updated": "2026-05-22T17:13:53.521048",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "2d3a14834d42",
+      "title": "Flutter 3.44 & Dart 3.12重磅发布！这些新特性太香了",
+      "summary": "哈喽大家好，随着Google I/O的进行，Flutter 3.44不出意外地发布了，与之一同发布的还有Dart 3.12。这次Flutter的发布可以说是一个重要的里程碑了，核心的更新包括： 1.",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7641948215983013898",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-21T02:57:43",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "c471d578cd51",
+      "title": "Flutter 3.44 发布啦，超级大版本更新！！！",
+      "summary": "虽然 Flutter 3.44 的版本已经发布两天了，但是今天才是真正的官宣 Flutter 3.44 发布哦，3.44 虽然看起来版本号不大，但是这确实是一个超级大版本更新。 这次 3.44 核心包",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7641896054782672915",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e7a59a1fe88348028b91dd3a0c6326bf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780074831&x-signature=orTmtErLzDEWKsCFWpRXgGgAQW0%3D",
+      "tags": [],
+      "published_at": "2026-05-21T01:05:30",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "5d62cc89e7b9",
+      "title": "重磅官宣：Android UI 开发正式进入 Compose-first 时代",
+      "summary": "2026 年 5 月 19 日，Android 团队宣布 Android UI 开发进入 Compose-first。 这不是把 View 系统删掉，也不是让老项目马上重写。变化在于默认路线已经切到",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7641885995420844070",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-21T00:49:18",
+      "read_time_minutes": 5
+    }
+  ]
 }
