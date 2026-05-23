@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-23T13:53:17.972607",
+  "last_updated": "2026-05-23T15:08:30.836678",
   "sources": [
     {
       "name": "掘金",
@@ -15,13 +15,25 @@
   ],
   "articles": [
     {
+      "id": "05ff8e77a484",
+      "title": "从本地开发到生产部署：用 Docker Compose 跑通 NestJS、MySQL 与 Milvus",
+      "summary": "本文不是一篇只介绍 Docker 概念的笔记，而是一篇围绕真实项目展开的部署教程。我们会基于当前项目 nest-dockerfile-test 的实际源码，讲清楚如何用 Docker Compose",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7642590214289244201",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-23T14:53:10",
+      "read_time_minutes": 5
+    },
+    {
       "id": "78b27dc05189",
       "title": "Android 发布全新性能分析器，实用性和性能大升级",
       "summary": "Android Performance Analyzer (APA) 是 Android 新的 profiler 和 performance analysis 工具，主要是用在整个 Android 生",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7642158541735116854",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9ebccfab575243468e066ef7d4103111~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780149194&x-signature=Lc3VqbIml3kCF6unhCCTln3%2FJy0%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9ebccfab575243468e066ef7d4103111~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780153707&x-signature=NQFP%2Bivi4GXa3%2BJW5o%2BRm8opyIE%3D",
       "tags": [],
       "published_at": "2026-05-22T01:04:25",
       "read_time_minutes": 5
@@ -33,7 +45,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7641896054782672915",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e7a59a1fe88348028b91dd3a0c6326bf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780149194&x-signature=OuVI95Hzv3ii5fy992k7fViIiCU%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/e7a59a1fe88348028b91dd3a0c6326bf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780153707&x-signature=bwDPaMahqPgy0xQFJX0WzDbtCJU%3D",
       "tags": [],
       "published_at": "2026-05-21T01:05:30",
       "read_time_minutes": 5
