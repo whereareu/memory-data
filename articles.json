@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-23T03:56:48.901507",
+  "last_updated": "2026-05-23T06:40:30.496991",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,54 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "23d7fdb00668",
+      "title": "Android 程序入口与核心组件详解",
+      "summary": "## 引言 >本文将从一个更系统的视角出发，详细拆解 Android 应用从点击图标到界面呈现的完整启动流程，并逐一解释每个核心组件的作用与设计理念。同时，本文会持续引入 iOS 技术栈的对照，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7642285344873627689",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-22T04:37:29",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "2df6999325d6",
+      "title": "Kotlin inline 实战详解 —— 新手须知",
+      "summary": "【inline】是 Kotlin 中的一个关键字，用于告诉编译器在编译时将函数体直接嵌入到调用处，而不是像普通函数那样生成一次函数调用。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7642361345401700398",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/423ab7dc60e5456e8f7bac6946a90903~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUUlORzYxOA==:q75.awebp?rk3s=f64ab15b&x-expires=1780123228&x-signature=AoxN%2BidcgMci9ky5DR396%2Bt%2BZSQ%3D",
+      "tags": [],
+      "published_at": "2026-05-22T03:16:59",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "2ac6dfea7c3e",
+      "title": "Flutter runAppAsync() 详解：干净的异步应用启动",
+      "summary": "如果你已经写过一段时间 Flutter 应用，一定对 runApp() 非常熟悉。它是可靠的应用入口，通常也是 main() 函数里第一个真正让 widget 树“活起来”的调用。 但随着应用复杂度提",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7642285344872628265",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-22T02:59:04",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "78b27dc05189",
+      "title": "Android 发布全新性能分析器，实用性和性能大升级",
+      "summary": "Android Performance Analyzer (APA) 是 Android 新的 profiler 和 performance analysis 工具，主要是用在整个 Android 生",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7642158541735116854",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/9ebccfab575243468e066ef7d4103111~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780123228&x-signature=i%2FFEvB5Em0elDd31vzEPl2o6CF8%3D",
+      "tags": [],
+      "published_at": "2026-05-22T01:04:25",
+      "read_time_minutes": 5
+    }
+  ]
 }
