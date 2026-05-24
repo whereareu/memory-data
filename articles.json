@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T08:40:05.688670",
+  "last_updated": "2026-05-24T10:46:20.759370",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "05ff8e77a484",
-      "title": "从本地开发到生产部署：用 Docker Compose 跑通 NestJS、MySQL 与 Milvus",
-      "summary": "本文不是一篇只介绍 Docker 概念的笔记，而是一篇围绕真实项目展开的部署教程。我们会基于当前项目 nest-dockerfile-test 的实际源码，讲清楚如何用 Docker Compose",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7642590214289244201",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-23T14:53:10",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
