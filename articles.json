@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T05:07:05.660410",
+  "last_updated": "2026-05-24T08:40:05.688670",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "7f9b5695b0f9",
-      "title": "Android 手写渲染技术演进：前缓冲、Ink API 与 Compose 高级触控笔能力",
-      "summary": "在 Android 手写、批注与白板类应用中，决定体验上限的通常不是单一的绘制 API，而是整条输入与渲染链路的协同效率。过去，开发者往往需要自行处理 MotionEvent 采样、预测点插值、压感映",
+      "id": "05ff8e77a484",
+      "title": "从本地开发到生产部署：用 Docker Compose 跑通 NestJS、MySQL 与 Milvus",
+      "summary": "本文不是一篇只介绍 Docker 概念的笔记，而是一篇围绕真实项目展开的部署教程。我们会基于当前项目 nest-dockerfile-test 的实际源码，讲清楚如何用 Docker Compose",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7642626890507796531",
+      "url": "https://juejin.cn/post/7642590214289244201",
       "cover_image": "",
       "tags": [],
-      "published_at": "2026-05-24T01:58:45",
+      "published_at": "2026-05-23T14:53:10",
       "read_time_minutes": 5
     }
   ]
