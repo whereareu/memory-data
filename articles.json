@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T16:06:59.208108",
+  "last_updated": "2026-05-24T18:03:32.340982",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "7478aaa4aa1b",
-      "title": "RAG：给大模型装一个靠谱的「本地数据库」——Android工程师秒懂的检索增强生成",
-      "summary": "系列开篇：为什么Android老兵该学AI开发？不是教你从零学Python（你肯定会），而是用Android工程师的「母语」来翻译AI开发的核心概念，让你发现：你其实已经具备了80%的思维模型。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7642990458621673472",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7b3a99a7557d4f59b072a173e003d0e4~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1780243617&x-signature=aw4jGeSheIv6uCUs28oWoz1VTBE%3D",
-      "tags": [],
-      "published_at": "2026-05-24T15:32:19",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "9b81ac355359",
-      "title": "Agent智能体：让AI自己调API干活——从Android Service到AI Agent的思维跃迁",
-      "summary": "Agent就是一个能自己想、自己干的AI系统。普通的ChatGPT对话是\"你问一句它答一句\"，而Agent是\"你给它一个目标，它自己拆解步骤、调用工具、处理中间结果，最后给你一个完整的交付物。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7642753947456159784",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/fbe09b9231b54202b447af645fcf885b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6ZmG5Lia6IGq:q75.awebp?rk3s=f64ab15b&x-expires=1780243617&x-signature=tZixQDMVgRfmHZ2wpsilqCgW5h8%3D",
-      "tags": [],
-      "published_at": "2026-05-24T15:30:03",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "a932e1ee56b8",
-      "title": "Android 17 重磅重构！服役 20 年的 MessageQueue 迎来无锁改造，卡顿大幅优化！",
-      "summary": "0. Introduction 当我留意到 Android 17 将针对 MessageQueue 进行改动的时候，着实让我惊讶了番：这个 Android 系统核心的 MessageQueue 在 H",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7643280009974071305",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8bb438f039274dce9adcb2554a442ff3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgVGVjaE1lcmdlcg==:q75.awebp?rk3s=f64ab15b&x-expires=1780243617&x-signature=0f1QC8Ka%2F06R2RfX95tazhIE6BM%3D",
-      "tags": [],
-      "published_at": "2026-05-24T11:26:28",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
