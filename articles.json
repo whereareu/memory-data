@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T00:06:50.633940",
+  "last_updated": "2026-05-24T05:07:05.660410",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "7f9b5695b0f9",
+      "title": "Android 手写渲染技术演进：前缓冲、Ink API 与 Compose 高级触控笔能力",
+      "summary": "在 Android 手写、批注与白板类应用中，决定体验上限的通常不是单一的绘制 API，而是整条输入与渲染链路的协同效率。过去，开发者往往需要自行处理 MotionEvent 采样、预测点插值、压感映",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7642626890507796531",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-05-24T01:58:45",
+      "read_time_minutes": 5
+    }
+  ]
 }
