@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-25T05:25:28.212606",
+  "last_updated": "2026-05-25T10:23:48.008418",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "a3a0d4860d8e",
-      "title": "Android开发在线音频播放器之章节三核心PlayerService",
-      "summary": "本章小节主要讲述音频播放器的service相关内容。由于代码属于公司资产个人无权外发，而且代码牵扯的范围广泛也难以全部贴上来，所以只讲重点的细节实现和小段代码。 首先服务播放的权限不可少 1、先列举服",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7643210854389432354",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-25T03:29:36",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5c1817660d0e",
-      "title": "Google I/O 2026：Android 开发，Agent 时代来了",
-      "summary": "前言 刚刚结束的 Google I/O 2026，对 Android 开发者来说是这几年信息密度最高的一届。 今天 Carson 不抄议程，不写新闻稿。这篇文章只回答一个问题：作为一个 Android",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7643288575245811721",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/29db2806e49642a08d283fd1366402a6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1780291526&x-signature=Dw0KBuNllHeeMqD0nOXfIL8ucBc%3D",
-      "tags": [],
-      "published_at": "2026-05-25T02:31:50",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5a9d20bffabf",
-      "title": "Dart  大更新，新增语法糖和各种能力，真的难得了",
-      "summary": "私有命名参数 首先 Dart 3.12 新增加了 Private named parameters ，也就是私有命名参数，这个其实我们以前提过，就是在命名参数和私有字段结合使用时，形式化参数的初始化会",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7643311453511876650",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2923dd5d1fa648ada79053ea14901463~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780291526&x-signature=AULE9PNfYEuUN4vxSJJd4XGjc3k%3D",
-      "tags": [],
-      "published_at": "2026-05-25T01:01:23",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
