@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-26T08:37:16.638405",
+  "last_updated": "2026-05-26T16:48:25.124358",
   "sources": [
     {
       "name": "掘金",
@@ -13,54 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "ec2e3dbb302b",
-      "title": "Android CLI 1.0 稳定版发布！官方为 AI Agent 打造专属验证工具，改完自动校验",
-      "summary": "2026 年 5 月 20 日，Google 发布 Android CLI 1.0 稳定版。 从 IDE 到 CLI 过去让 AI 写 Android 代码，最容易卡住的地方不是“能不能生成 Kotl",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7643469288817295398",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-05-25T05:45:35",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5c1817660d0e",
-      "title": "Google I/O 2026：Android 开发，Agent 时代来了",
-      "summary": "前言 刚刚结束的 Google I/O 2026，对 Android 开发者来说是这几年信息密度最高的一届。 今天 Carson 不抄议程，不写新闻稿。这篇文章只回答一个问题：作为一个 Android",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7643288575245811721",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/29db2806e49642a08d283fd1366402a6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1780389434&x-signature=7eAw7skN%2BbGk%2BPymFvIE0mDvers%3D",
-      "tags": [],
-      "published_at": "2026-05-25T02:31:50",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "9ff7c5bdf457",
-      "title": "Android 官方开始拥抱 WebView",
-      "summary": "如果你是一名 Android 开发者，那么你大概率经历过这样一个时代：WebView 经常被看成“套壳”“H5 页面”“临时方案”。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7642917750827008027",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a679d01833bf426188a69d5d27942e1c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1780389434&x-signature=%2BZgA3wzWBMH0B3oivYaVrSU%2Fv%2FY%3D",
-      "tags": [],
-      "published_at": "2026-05-25T02:17:48",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5a9d20bffabf",
-      "title": "Dart  大更新，新增语法糖和各种能力，真的难得了",
-      "summary": "私有命名参数 首先 Dart 3.12 新增加了 Private named parameters ，也就是私有命名参数，这个其实我们以前提过，就是在命名参数和私有字段结合使用时，形式化参数的初始化会",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7643311453511876650",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2923dd5d1fa648ada79053ea14901463~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780389434&x-signature=f3c2xGVhkTpgD13kRbel1jGUGjw%3D",
-      "tags": [],
-      "published_at": "2026-05-25T01:01:23",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
