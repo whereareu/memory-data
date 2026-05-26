@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-25T23:13:16.042979",
+  "last_updated": "2026-05-26T04:14:10.907881",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "c0ac752436e8",
+      "title": "Kotlin 高阶函数别只会 map：从 Lambda 到实战封装",
+      "summary": "简介 Kotlin 高阶函数（Higher-order Function）一句话就能说清楚： 听起来像绕口令，实际开发里非常常见。 比如集合里的 map、filter、forEach，空值处理常用的",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7643750896052535305",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ca23393e4fe34aa897cb684ed8ab1e47~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZSQ6Z2S5p6r:q75.awebp?rk3s=f64ab15b&x-expires=1780373649&x-signature=VbNAxSl%2FdT7qzPddz3f%2FdaHeif4%3D",
+      "tags": [],
+      "published_at": "2026-05-26T03:09:07",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "aa7b884ad408",
+      "title": "docker compose 漏一个参数全失效",
+      "summary": "docker compose 漏一个参数全失效 compose 文件早就摆好了,镜像也拉过,我以为就差一行 up -d: 回车,容器起来了,健康检查也过了。打开管理后台一登 — 密码不对。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7643753392238395392",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/865be851500d43138460ffc73c551a0f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg54yr5ZKq5Y-q5Lya5Za15ZGc5Za1:q75.awebp?rk3s=f64ab15b&x-expires=1780373649&x-signature=P%2BU%2B6a7Pxba8iww%2FA%2BCqUCrYAiw%3D",
+      "tags": [],
+      "published_at": "2026-05-26T03:01:35",
+      "read_time_minutes": 5
+    }
+  ]
 }
