@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-26T16:48:25.124358",
+  "last_updated": "2026-05-26T19:23:19.321864",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "9ff7c5bdf457",
+      "title": "Android 官方开始拥抱 WebView",
+      "summary": "如果你是一名 Android 开发者，那么你大概率经历过这样一个时代：WebView 经常被看成“套壳”“H5 页面”“临时方案”。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7642917750827008027",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a679d01833bf426188a69d5d27942e1c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1780428197&x-signature=Q1UbkEJNUDV5tE6Ni2hNrMokhD0%3D",
+      "tags": [],
+      "published_at": "2026-05-25T02:17:48",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "5a9d20bffabf",
+      "title": "Dart  大更新，新增语法糖和各种能力，真的难得了",
+      "summary": "私有命名参数 首先 Dart 3.12 新增加了 Private named parameters ，也就是私有命名参数，这个其实我们以前提过，就是在命名参数和私有字段结合使用时，形式化参数的初始化会",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7643311453511876650",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2923dd5d1fa648ada79053ea14901463~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780428197&x-signature=DVjJdiq%2BmfWJSi3jk8fPI%2FJlXtY%3D",
+      "tags": [],
+      "published_at": "2026-05-25T01:01:23",
+      "read_time_minutes": 5
+    }
+  ]
 }
