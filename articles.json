@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-28T05:14:24.300750",
+  "last_updated": "2026-05-28T10:18:17.599959",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "b89d1d73da5a",
+      "title": "Flutter 多窗口最近进度，为什么 3.44 还不落地",
+      "summary": "本来以为 3.44 至少会发布 win 的多窗口，结果只宣布了个 Canonical 成为 Flutter Desktop 的主要维护者和战略合作伙伴 ，实际上很久前 Flutter 就把桌面端交给对",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7644026750097883179",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0471c6156f5e479a8c428532fbd445ba~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1780568295&x-signature=8uhufpJ8PmZC8x4%2BqC7M1SoKysU%3D",
+      "tags": [],
+      "published_at": "2026-05-27T01:02:13",
+      "read_time_minutes": 5
+    }
+  ]
 }
