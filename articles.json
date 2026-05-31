@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-31T11:04:55.188654",
+  "last_updated": "2026-05-31T14:01:19.219455",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "bd09d01a8433",
-      "title": "Kotlin let 详解：空安全、链式转换与实战示例",
-      "summary": "简介 let 是 Kotlin 标准库里的作用域函数。 作用域函数常见有 5 个： let run with apply also let 的使用频率很高，尤其是在处理可空对象、临时变量、链式转换时。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7645830893320519707",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ef067b1fb34046d6b758ae11b6554852~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZSQ6Z2S5p6r:q75.awebp?rk3s=f64ab15b&x-expires=1780830292&x-signature=BtSSn4zGcTO%2Bu%2BLlMXwseZSbGkw%3D",
-      "tags": [],
-      "published_at": "2026-05-31T09:35:03",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
