@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-01T06:10:01.372583",
+  "last_updated": "2026-06-01T12:43:35.497360",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "c1bced0d8d12",
-      "title": "【Compose】输入框(TextField)点击空白处失焦并关闭软键盘",
-      "summary": "本文介绍Jetpack Compose输入框点击空白处失焦并关闭软键盘的全局焦点请求器方案，解决Android 8以下兼容性问题，实现简单可靠的焦点管理。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7645982387156566059",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-06-01T05:46:25",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "87d6a0685cab",
-      "title": "Android 老设备存储空间展示：机身存储 + TF 卡容量获取完整实现",
-      "summary": "​ 在电视、机顶盒、工控机、嵌入式老安卓设备开发中，经常需要展示机身内部存储 + 外置 TF 卡存储空间，并通过进度条可视化已用 / 可用容量。 普通手机方案只适配内置存储，无法兼容外置 TF 卡路径",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7646002025646620687",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-06-01T03:51:30",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
