@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-01T12:43:35.497360",
+  "last_updated": "2026-06-01T18:43:19.148540",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "fb3b65526358",
+      "title": "# Vibe Coding 实战：Flutter 滑动列表上的花式动效",
+      "summary": "Vibe Coding 实战：Flutter 滑动列表上的花式动效 折叠面板收起时，除了透明度变一下，还能做什么？试了三种：沿 Y 轴翻牌、逐条手风琴折叠、右下角翻书。掌控原理，你便能随心所欲。 一、",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7645239491758030857",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5324d7b681df461aae83177140d700ce~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5bCP5bCP5bCP5bCP6bm_:q75.awebp?rk3s=f64ab15b&x-expires=1780944197&x-signature=1aHiN5olmWC22PWeNsDJCpWX7L0%3D",
+      "tags": [],
+      "published_at": "2026-05-31T00:42:42",
+      "read_time_minutes": 5
+    }
+  ]
 }
