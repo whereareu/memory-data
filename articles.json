@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-05T10:04:24.384010",
+  "last_updated": "2026-06-05T13:54:04.195826",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "477e821853b8",
+      "title": "Kotlin放大招！官方 Skills 直接喂出「专家级」代码",
+      "summary": "前言 Kotlin 官方刚发布的新东西，开始给 AI Agent 写\"操作手册\"了： kotlin-agent-skills。 目录 定义：kotlin-agent-skills是什么 作用：有什么用",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7647096140721340462",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/50e46bf5b0124641985dcaa98d2bf2da~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1781272439&x-signature=t9SuhkgrmMcbvIQPq9MjmEG3AUU%3D",
+      "tags": [],
+      "published_at": "2026-06-04T02:26:15",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "7807bf014030",
+      "title": "一个 Linux 调度器优化，让 Android 多耗 20% 的电，传音工程师如何发现问题？",
+      "summary": "一段代码之前是好的，但是经过多年迭代之后，虽然没动过，但是可能就变成了问题，这就是这次要聊的话题： 事情的起因是 Linux 调度器里的 cpu_util() boost 机制 ，最近传音控股的工程师",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7646955656403238966",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b79a032329c947c5915cbe646f1e2456~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1781272439&x-signature=XXnPDH1p2jqXCehp8MeTMGaz01Q%3D",
+      "tags": [],
+      "published_at": "2026-06-04T00:55:31",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "09f54b1a385f",
+      "title": "一个圆屏逼得我好好学习 Compose MeasurePolicy",
+      "summary": "Compose 到底是怎么决定“一个控件该画多大、放在哪里”的？ 答案就是 MeasurePolicy。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7646960545632272434",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4309b838706d409494f87cd9930fbb4a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1781272439&x-signature=Gq1B0G4PD0dsRcty3K1vFfPiYb4%3D",
+      "tags": [],
+      "published_at": "2026-06-04T00:44:00",
+      "read_time_minutes": 5
+    }
+  ]
 }
