@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-07T09:27:34.633618",
+  "last_updated": "2026-06-07T11:55:13.097960",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "8b390ae9fbda",
+      "title": "Gradle三阶段",
+      "summary": "Gradle 的生命周期是它最核心的设计灵魂。无论你的项目有多大、配置有多复杂，Gradle 每次执行时都雷打不动地走完三个阶段：初始化阶段（Initialization） 、配置阶段（Configu",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7648123417803669514",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-06-07T11:10:27",
+      "read_time_minutes": 5
+    }
+  ]
 }
