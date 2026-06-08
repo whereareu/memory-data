@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-08T16:08:48.409155",
+  "last_updated": "2026-06-08T19:26:23.521573",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "b6fad3cb4aed",
+      "title": "Android 官方给 Compose 搞了个不需要 UI 环境的 Composable",
+      "summary": "最近 Android 官方又新增了一个 androidx.transform 的 patch，它的作用是支持在没有界面的环境里跑 Composable 逻辑，然后产出一个持续更新的 State<R>",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7648174967504404522",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/05968a8b3a3b4e568cb337f56d134acc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1781551581&x-signature=65pbj%2B%2BxicuI9KyrO0D2J%2FajIa4%3D",
+      "tags": [],
+      "published_at": "2026-06-08T04:51:37",
+      "read_time_minutes": 5
+    }
+  ]
 }
