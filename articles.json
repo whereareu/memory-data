@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-11T18:21:47.815800",
+  "last_updated": "2026-06-11T21:26:37.361698",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "f2f7a8d6274f",
-      "title": "flutter_agent_lens 用 MCP 服务，将 Flutter DevTools 暴露给 AI",
-      "summary": "Flutter 的 DevTools 大家应该都用过吧？以前开发调试都会用到，但是 AI 时代来了之后，大家应该很少再打开它了吧？而这时候就有人想到了，为什么我不把 DevTool 也变成 AI 可见",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7649337767211515910",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8441fbfa909a40f09baed320d60b7ab3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1781806905&x-signature=YR4dMxgheaQknaT%2F1M7WbRBG1LI%3D",
-      "tags": [],
-      "published_at": "2026-06-10T01:01:06",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
