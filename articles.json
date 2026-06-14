@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-14T05:57:26.523847",
+  "last_updated": "2026-06-14T09:51:58.607769",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "8d40e084cdbd",
+      "title": "实战Android Framework: 新增一个系统服务",
+      "summary": "系统版本: Ubuntu 22.04 lts AOSP分支: android-16.0.0_r4 本文将介绍如何在AOSP16中新增一个Java层的系统服务 一 创建功能发布标志 在最新的AOSP开发",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7650675966520721446",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-06-13T14:58:09",
+      "read_time_minutes": 5
+    }
+  ]
 }
