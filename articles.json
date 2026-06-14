@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-14T21:21:05.981158",
+  "last_updated": "2026-06-14T23:16:51.826381",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "e654003ff6a8",
+      "title": "Android 17 新特性：ProfilingManager 新触发器",
+      "summary": "大家好，我是拭心。 线上性能问题有一个共同的难点：问题发生的那一刻，你往往不在现场。冷启动慢、线上 OOM、偶发 ANR，这些问题在开发机上复现困难，等你接到报警再去分析，现场已经消失了。 Andro",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7650825348397072384",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-06-14T06:19:31",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "8d40e084cdbd",
+      "title": "实战Android Framework: 新增一个系统服务",
+      "summary": "系统版本: Ubuntu 22.04 lts AOSP分支: android-16.0.0_r4 本文将介绍如何在AOSP16中新增一个Java层的系统服务 一 创建功能发布标志 在最新的AOSP开发",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7650675966520721446",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-06-13T14:58:09",
+      "read_time_minutes": 5
+    }
+  ]
 }
