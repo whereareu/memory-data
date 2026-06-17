@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-17T17:12:24.737700",
+  "last_updated": "2026-06-17T20:23:59.486364",
   "sources": [
     {
       "name": "掘金",
@@ -21,9 +21,21 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7651930056574517289",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f8bd864515c546f299b9bd16d14a568c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782321142&x-signature=Wd2aXHrEJ3mnre%2FPyauffcLTu1I%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f8bd864515c546f299b9bd16d14a568c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782332637&x-signature=wGeXBwKPQWtyRLZ5pRld2suGnVg%3D",
       "tags": [],
       "published_at": "2026-06-17T02:27:20",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "d69fbaa89184",
+      "title": "Android XR DP4 重磅发布：手机 App 直投眼镜，Compose 原生玩转 3D 内容",
+      "summary": "Android XR DP4 发布了，我们主要聚焦两个问题：手机 App 怎么投到眼镜，以及 Compose / SceneCore 怎么处理 3D 内容。 Projected DP4 里比较实用的是",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7651145221670486067",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-06-16T05:44:53",
       "read_time_minutes": 5
     },
     {
@@ -33,7 +45,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7651505036707512383",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/92b6babf3cb346b39a5dc85e9caf5b5a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782321142&x-signature=6Uw57nX044%2FQ%2FJd6vv5q5o0zFoY%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/92b6babf3cb346b39a5dc85e9caf5b5a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782332637&x-signature=gcNHXn2JflMuWeOG7B2Mas329Pg%3D",
       "tags": [],
       "published_at": "2026-06-16T01:16:39",
       "read_time_minutes": 5
