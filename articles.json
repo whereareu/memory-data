@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-18T06:01:29.383274",
+  "last_updated": "2026-06-18T11:12:18.906705",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "cf01362ca930",
-      "title": "Flutter最佳实践：IM聊天文字链接自动识别跳转",
-      "summary": "一、需求来源 最近遇到一个需求：IM模块聊天消息链接自动识别跳转，需要识别邮箱，识别网络连接等。同时可以长按选择文字，最终效果如下： 二、使用示例 1、封装 RichTextExt 静态函数 crea",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7652262025751166991",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-06-18T04:25:46",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
