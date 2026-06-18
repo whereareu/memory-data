@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-18T21:24:35.672039",
+  "last_updated": "2026-06-18T23:51:52.343030",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "ae365d3fc577",
-      "title": "Android 17 正式版发布，全新 AI 和各种破坏性更新",
-      "summary": "说了这么久的 Android 17 终于来正式版了，这也是 Android 系统上第一个 AI 升级，同时也是隐私又进一步收紧，需要各种适配的版本。 对开发者来说这次主要变化应该有： App 支持被",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7651930056574517289",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f8bd864515c546f299b9bd16d14a568c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782422673&x-signature=GoO3Bl43yZcS%2B6VMrod071Hy5gA%3D",
-      "tags": [],
-      "published_at": "2026-06-17T02:27:20",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
