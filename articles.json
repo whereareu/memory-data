@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-17T22:48:22.593946",
+  "last_updated": "2026-06-18T00:20:53.275094",
   "sources": [
     {
       "name": "掘金",
@@ -15,13 +15,25 @@
   ],
   "articles": [
     {
+      "id": "947f0cdc5a37",
+      "title": "Android 协程并发控制：别动线程池，控制好并发语义就够了",
+      "summary": "最近 review 代码，又看到一个很熟悉的写法： 问了一下原因：“任务有点多，怕一下子跑太猛，所以限制一下并发。” 这个思路本身没问题，只是它更像 Java 时代的条件反射——把“控制并发”直接等价",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7652257652502298662",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/907705640c1c4c2b831bd2e7ab7e0bdc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&x-expires=1782346851&x-signature=injfknB%2F700T1AirlD6EihA6lxA%3D",
+      "tags": [],
+      "published_at": "2026-06-18T00:02:02",
+      "read_time_minutes": 5
+    },
+    {
       "id": "ae365d3fc577",
       "title": "Android 17 正式版发布，全新 AI 和各种破坏性更新",
       "summary": "说了这么久的 Android 17 终于来正式版了，这也是 Android 系统上第一个 AI 升级，同时也是隐私又进一步收紧，需要各种适配的版本。 对开发者来说这次主要变化应该有： App 支持被",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7651930056574517289",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f8bd864515c546f299b9bd16d14a568c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782341300&x-signature=DukXGitO%2FXnuFcTPDzck9xNSoBA%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f8bd864515c546f299b9bd16d14a568c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782346851&x-signature=WlrFRm88TKaL0OdoN0t42q0MKXs%3D",
       "tags": [],
       "published_at": "2026-06-17T02:27:20",
       "read_time_minutes": 5
@@ -33,7 +45,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7651505036707512383",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/92b6babf3cb346b39a5dc85e9caf5b5a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782341300&x-signature=FgckCduCtCPBJ2fyqN3dTrkqCMQ%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/92b6babf3cb346b39a5dc85e9caf5b5a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782346851&x-signature=PDzvO5VZFtZ2ILUVx%2B8jLQJ2hdg%3D",
       "tags": [],
       "published_at": "2026-06-16T01:16:39",
       "read_time_minutes": 5
