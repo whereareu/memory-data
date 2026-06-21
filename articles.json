@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-21T13:11:59.092237",
+  "last_updated": "2026-06-21T15:59:59.725418",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "7389795a45f7",
-      "title": "解读 Android 17 全新内存限制，有没有“豁免”后门？",
-      "summary": "App 需要适配和做的基本在 Android 17 内存管理将严格管控，App 要注意适配都已经聊过了，这次 Android 17 正式版发布也就说明这个能力正式落地了。 简单说，它主要限制的是“进程",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7653533398468542473",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/eca995b15e3c45a8a2d78903121b70c9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782652317&x-signature=Go8hAANRyGYEIBSbJMkWA6y1lEY%3D",
-      "tags": [],
-      "published_at": "2026-06-21T11:07:06",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "def691921ece",
-      "title": "Android 限制侧载新进展，谷歌联合国内厂商推验证计划",
-      "summary": "在去年我们就提到《Android 禁止侧载将正式实施，需要等待 24 小时冷静期》，因为新的侧载限制开始后，Android 只能安装已经验证过开发者的应用，而为了验证身份，在 Google Play",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7653720174962868234",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/06398b32e75e4d1ba1bffb242645968e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782652317&x-signature=Rkgjh0jwHv9SUk0FuKNnCz3QJWI%3D",
-      "tags": [],
-      "published_at": "2026-06-21T11:02:57",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "088609a48d4e",
-      "title": "实战Android Framework: 新增一个系统权限",
-      "summary": "系统版本: Ubuntu 22.04 lts AOSP分支: android-16.0.0_r4 本文将介绍如何在AOSP16中新增并使用一个运行时系统权限。 注意: 本文章将基于 实战Android",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7653186491405647872",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-06-21T08:08:48",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
