@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-23T18:06:33.590414",
+  "last_updated": "2026-06-23T21:03:15.569304",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "5963538e598f",
-      "title": "Android文件读写和分享总结",
-      "summary": "在日志中看到好多警告和错误，是第三方SDK中的文件权限问题。想升级第三方库，又懒得升。有些已经停止维护了。整理一篇文件读写，等到真不行，只能下载他们的源码自己修改了。 Android文件读写和分享总结",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7654370220606373897",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/25de2fb7c9a04d33a3187890cb78eb50~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgX-mYv-WNl18=:q75.awebp?rk3s=f64ab15b&x-expires=1782842792&x-signature=TsN9H6Z%2FvBd1%2FfrWHfAlSpIrcxA%3D",
-      "tags": [],
-      "published_at": "2026-06-23T14:54:48",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "8b42eacf1e01",
-      "title": "5 分钟搞懂 Kotlin DSL",
-      "summary": "DSL（Domain-Specific Language，领域特定语言）是一种面向特定问题领域设计的表达方式。它不一定是一门全新的语言，也可以是一组经过设计的 API，让代码读起来更接近业务语义。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7653708807583498286",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2caa3cad8da149e2a7484ceeacea01bd~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1782842792&x-signature=QCPTFG40myx57e%2BNuH9Tykbg2xA%3D",
-      "tags": [],
-      "published_at": "2026-06-22T01:19:39",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "a8d6e3cb6d59",
-      "title": "Android 17 正式发布！target 37 一大批旧代码直接不能用了",
-      "summary": "Android 17 已经正式发布，对应 API level 37。 target SDK 37 以后，有几类旧假设会失效：大屏不能继续锁方向和比例，部分配置变化默认不再重建 Activity，本地网",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7653533398469820425",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-06-22T00:46:59",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
