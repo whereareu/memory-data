@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-25T20:12:10.603519",
+  "last_updated": "2026-06-25T22:25:33.652558",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "1545f7fe2774",
-      "title": "苹果 AirPods 协议，Android 也可以使用完整版 AirPods 能力",
-      "summary": "最近刚好在想，怎么在 Android 上接入 AirPods 的全部能力，刚好就看到了 librepods 这个项目，它是一个能让 Android 使用 AirPods 的专属功能的开源项目，比如:",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7654471531117379590",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ba00e5d51d144dfda2a70d8bca0c7372~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1783023129&x-signature=oqZc722npSE7r%2B5nu10KWzFHDT4%3D",
-      "tags": [],
-      "published_at": "2026-06-24T01:01:15",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "521a734c27f8",
-      "title": "告别无效重建：Gradle 9.6.0 解决 CI 构建缓存失效痛点告别无效重建:Gradle 9.6.0 解决 CI 建筑缓存失效痛点",
-      "summary": "前言 CI 上经常会给 Gradle 传一些临时参数，比如版本号、渠道号、构建开关。 CI 上经常会授予 Gradle 传输一些临时参数、比如版本号、渠道号、建设开关。 这些参数如果只是 task 执",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7654479136493633546",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-06-24T00:57:07",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "fe3cf6e68fcb",
-      "title": "Flutter 类库大揭秘#01 | path_provider架构与设计",
-      "summary": "引言： 想象你开了一家国际快递公司。客户只需要说\"帮我寄到文档仓库\"，至于这个仓库在俄国的 /var/documents 还是英国的 ~/Documents 还是法国的 AppData\\Roaming",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7654488162467266595",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0975fad6b276477f9940375be7b148f9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5byg6aOO5o2354m554OI:q75.awebp?rk3s=f64ab15b&x-expires=1783023129&x-signature=KDRNFYk6gNY%2BtJmsbO7P0zvD%2Fr4%3D",
-      "tags": [],
-      "published_at": "2026-06-23T23:26:20",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
