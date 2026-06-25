@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-24T23:13:10.193625",
+  "last_updated": "2026-06-25T04:12:46.918068",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "fd547aca18fa",
+      "title": "Flutter Patchwork，不用 Fork 改依赖包源码的第三方工具",
+      "summary": "其实这个在 JS 生态很常见，类似 Node.js 生态的 patch-package ，Patchwork 是一个专门为 Dart/Flutter 项目设计的依赖包补丁管理工具。 其实功能很简单：",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7654481202876301375",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a6cddb5b4eb4403f87dab45bea4bc844~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1782965564&x-signature=0yEWFxRWvmfsIpH1zisNr6jutWg%3D",
+      "tags": [],
+      "published_at": "2026-06-25T01:30:06",
+      "read_time_minutes": 5
+    }
+  ]
 }
