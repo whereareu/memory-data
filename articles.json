@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-26T17:57:07.202613",
+  "last_updated": "2026-06-26T20:02:58.881829",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "0fc7d4091fc4",
+      "title": "Flutter版本选择指南：3.44系列继续观望 | 2026年6月",
+      "summary": "2026年6月Flutter版本选型指南：Flutter 3.44连续发布三个补丁修复SwiftPM和渲染问题，但老刘坚持观望策略不变，生产环境继续推荐3.41.9。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7655613203956006962",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/697357eceaea4893947cd7a88e50ec62~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1783108976&x-signature=LDhulZSaII%2FuJWJ%2ByVX32Dn2sSQ%3D",
+      "tags": [],
+      "published_at": "2026-06-26T15:38:05",
+      "read_time_minutes": 5
+    }
+  ]
 }
