@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-26T20:02:58.881829",
+  "last_updated": "2026-06-26T22:19:20.460555",
   "sources": [
     {
       "name": "掘金",
@@ -21,9 +21,21 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7655613203956006962",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/697357eceaea4893947cd7a88e50ec62~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1783108976&x-signature=LDhulZSaII%2FuJWJ%2ByVX32Dn2sSQ%3D",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/697357eceaea4893947cd7a88e50ec62~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1783117158&x-signature=sP4pAr3gLpWjJA83kbzyyvL9N%2FI%3D",
       "tags": [],
       "published_at": "2026-06-26T15:38:05",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "1545f7fe2774",
+      "title": "苹果 AirPods 协议，Android 也可以使用完整版 AirPods 能力",
+      "summary": "最近刚好在想，怎么在 Android 上接入 AirPods 的全部能力，刚好就看到了 librepods 这个项目，它是一个能让 Android 使用 AirPods 的专属功能的开源项目，比如:",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7654471531117379590",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ba00e5d51d144dfda2a70d8bca0c7372~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1783117158&x-signature=M6D01B27vBarR8lxToNBWzLvaZU%3D",
+      "tags": [],
+      "published_at": "2026-06-24T01:01:15",
       "read_time_minutes": 5
     }
   ]
