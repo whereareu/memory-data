@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-27T04:58:01.554863",
+  "last_updated": "2026-06-27T07:54:26.535781",
   "sources": [
     {
       "name": "掘金",
@@ -15,27 +15,15 @@
   ],
   "articles": [
     {
-      "id": "d3498975051e",
-      "title": "Android 自定义HAL开发篇之 HIDL篇——从入门到实战（上）",
-      "summary": "Android 自定义 HAL 开发篇之 HIDL 篇 —— 从入门到实战，适合刚入手学习FW的人，工作上需要自定义服务的。",
+      "id": "eac6c863cc9b",
+      "title": "Flutter 开发必备：MVI 架构的高效实现指南",
+      "summary": "Flutter 里 MVI 架构实践：用单向数据流 + 不可变状态，拆成 Intent → Model → State → View 四层",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7655299301548867594",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/00207f7c5ee249c48a47193d735b646d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6JC96a2EQW5kcm9pZOWcqOe6v-eCkumlrQ==:q75.awebp?rk3s=f64ab15b&x-expires=1783141077&x-signature=mnHyOlVdNXU905Yp62QPHuUPFwo%3D",
+      "url": "https://juejin.cn/post/7655515848212824116",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-06-26T02:36:45",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "09a244ba4699",
-      "title": "学不动了，入门 Compose Styles API",
-      "summary": "Jetpack Compose 近期推出了全新的 Styles API，用于定制 UI 元素和组件的样式。 本文会先整理它的基本概念、使用方式，后续大概会有两三篇文章继续学习该 API。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7655245911813128238",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/44c43b770ed8490ea7e452a0c9ef842f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1783141077&x-signature=z%2FUjsjiHxPQQApXtWQgDsrvNOEE%3D",
-      "tags": [],
-      "published_at": "2026-06-26T00:45:02",
+      "published_at": "2026-06-27T07:02:25",
       "read_time_minutes": 5
     }
   ]
