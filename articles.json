@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-27T10:16:43.796173",
+  "last_updated": "2026-06-27T12:12:00.618875",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "eac6c863cc9b",
-      "title": "Flutter 开发必备：MVI 架构的高效实现指南",
-      "summary": "Flutter 里 MVI 架构实践：用单向数据流 + 不可变状态，拆成 Intent → Model → State → View 四层",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7655515848212824116",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-06-27T07:02:25",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
