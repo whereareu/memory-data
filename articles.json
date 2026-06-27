@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-27T12:12:00.618875",
+  "last_updated": "2026-06-27T14:48:29.630716",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "6e65d4791e12",
+      "title": "Android车载OS中的Remote Compose",
+      "summary": "本文由浅入深地讲解在Android车载系统上，如何利用Remote Compose实现轻松嵌入丰富的用户界面。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7655611059512262708",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/636b1c66cc9846a1a32196f3ce66dcc8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1783176505&x-signature=Zze2GbVp1Ix0X0RO5za%2Bmdak5qk%3D",
+      "tags": [],
+      "published_at": "2026-06-27T12:17:55",
+      "read_time_minutes": 5
+    }
+  ]
 }
