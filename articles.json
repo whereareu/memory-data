@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-28T14:04:33.940279",
+  "last_updated": "2026-06-28T16:18:53.680412",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "02de2887dbde",
+      "title": "深入解析 Android Performance Analyzer (APA) 底层架构与技术原理",
+      "summary": "随着Android应用和游戏的复杂度呈指数级上升，传统的性能分析工具（如已弃用的Systrace和早期的Android Studio Profilers）在面对多线程协同、底层图形API调用及复杂电源",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7656064169444950022",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/21a8d450519846b8b7fb78a943d33932~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5rKQ5oCh5pe4:q75.awebp?rk3s=f64ab15b&x-expires=1783268332&x-signature=Ot7wJp0Qygp7f3yadZ9FFTYJjtY%3D",
+      "tags": [],
+      "published_at": "2026-06-28T15:41:10",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "29b90738fa9e",
+      "title": "从历史的角度看 Android 软件架构",
+      "summary": "本文回顾了Android开发架构的演进历程，从早期的无架构状态到MVC、MVP、MVVM等架构模式。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7655971054038188041",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a1966d6fb38747a7973f01a382a18438~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5p2O5pav57u0:q75.awebp?rk3s=f64ab15b&x-expires=1783268332&x-signature=Jvc7cWRMTahXHcX3GHPn%2BpZPe2A%3D",
+      "tags": [],
+      "published_at": "2026-06-28T07:51:36",
+      "read_time_minutes": 5
+    }
+  ]
 }
