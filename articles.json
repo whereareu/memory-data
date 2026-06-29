@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-29T05:57:16.070697",
+  "last_updated": "2026-06-29T11:20:04.078968",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "bbcc94693b43",
+      "title": "PDF 预览与签名批注写回 支持安卓 iOS 鸿蒙 UTS插件",
+      "summary": "支持 `Android`、`iOS`、`HarmonyOS` 的 PDF 预览能力封装，可用于打开本地 PDF 文件、翻页、缩放、签名记录、批注记录以及将记录写回到新 PDF，支持手势缩放预览",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7643757385782509594",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ff805e99c25b493fa88b5606533a69a2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pWy5Luj56CB55qE6bG8:q75.awebp?rk3s=f64ab15b&x-expires=1783336800&x-signature=Wq0jwBntsOoGMyMMnrM9Y41ZZBY%3D",
+      "tags": [],
+      "published_at": "2026-05-26T02:57:11",
+      "read_time_minutes": 5
+    }
+  ]
 }
