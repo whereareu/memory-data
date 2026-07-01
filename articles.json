@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-01T21:41:51.664711",
+  "last_updated": "2026-07-01T23:21:36.338272",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "6b754ed0f3f5",
+      "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
+      "summary": "最近 Amper 发布了《Kotlin Toolchain 0.11: The Next Step for Amper》 ，核心就是 Amper has evolved into the Kotlin",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7656202263124082730",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6379e5dda5894cabab700ae0504f2846~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1783552894&x-signature=Xu5jkW4sbBWR%2BDHLRoVlfUJmIZs%3D",
+      "tags": [],
+      "published_at": "2026-06-30T00:59:02",
+      "read_time_minutes": 5
+    }
+  ]
 }
