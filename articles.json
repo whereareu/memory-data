@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-01T10:03:06.910739",
+  "last_updated": "2026-07-01T13:36:36.742870",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "6b754ed0f3f5",
-      "title": "Amper 正式转正 Kotlin Toolchain ，Gradle 未来何去何从",
-      "summary": "最近 Amper 发布了《Kotlin Toolchain 0.11: The Next Step for Amper》 ，核心就是 Amper has evolved into the Kotlin",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7656202263124082730",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/6379e5dda5894cabab700ae0504f2846~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1783504985&x-signature=0eFnBmw3VhfBtPuxpV4Kpd6xZmg%3D",
-      "tags": [],
-      "published_at": "2026-06-30T00:59:02",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "29993722db31",
-      "title": "Flutter 类库大揭秘#02 | path_provider 各平台实现",
-      "summary": "引言： 上一篇我们看了快递公司的整体架构：总调度台、服务协议、加盟审核。你已经知道了\"系统怎么运转\"。但有一个问题还没回答：各个分公司到底是怎么找到仓库地址的？ Android 分公司用 JNI 打电",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7656726047949881353",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/eb0f438b2d0d4ebd9278bda57827841f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5byg6aOO5o2354m554OI:q75.awebp?rk3s=f64ab15b&x-expires=1783504985&x-signature=ZHlae3b5gJ4HhHOrz4QUD8PMyzk%3D",
-      "tags": [],
-      "published_at": "2026-06-30T00:31:03",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
