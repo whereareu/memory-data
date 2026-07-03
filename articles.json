@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-03T04:48:49.904085",
+  "last_updated": "2026-07-03T08:14:51.203991",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "69f97aaa7ef1",
+      "title": "Kotlin Toolchain 0.11 发布：Amper 正式更名，统一 kotlin 命令",
+      "summary": "6 月 24 日，JetBrains 发布了 Kotlin Toolchain 0.11.0。 以后创建、构建、运行、测试、发布 Kotlin 项目，入口会逐步收敛到一个 kotlin 命令。 从 A",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7657560105181495347",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-07-02T05:45:10",
+      "read_time_minutes": 5
+    }
+  ]
 }
