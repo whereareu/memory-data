@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-03T20:18:31.838593",
+  "last_updated": "2026-07-03T22:10:10.840605",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "5a849cfb724d",
-      "title": "Kotlin 运算符重载详解：为什么 a += b 有时改对象，有时换对象？",
-      "summary": "运算符重载的价值不是把函数名变短，而是让类型的行为更接近它所表达的概念；符号无法准确表达业务动作时，普通命名函数反而更清楚。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7657873776143712299",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7a2cd1d3db564eb5b588cc53c029edb3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZSQ6Z2S5p6r:q75.awebp?rk3s=f64ab15b&x-expires=1783714709&x-signature=pyK1h8TNdqdEeYtTO1HCB63bu7Y%3D",
-      "tags": [],
-      "published_at": "2026-07-03T06:30:15",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "69f97aaa7ef1",
-      "title": "Kotlin Toolchain 0.11 发布：Amper 正式更名，统一 kotlin 命令",
-      "summary": "6 月 24 日，JetBrains 发布了 Kotlin Toolchain 0.11.0。 以后创建、构建、运行、测试、发布 Kotlin 项目，入口会逐步收敛到一个 kotlin 命令。 从 A",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7657560105181495347",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-07-02T05:45:10",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
