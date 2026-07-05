@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-05T21:10:09.768788",
+  "last_updated": "2026-07-05T23:08:16.655483",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "e5d6c56830a1",
+      "title": "Flutter 3.44 插件内置 Kotlin (KGP) 双向兼容适配指南",
+      "summary": "一、简述 最近升级到 Flutter 3.44.x 及以上版本的朋友，想必在编译项目时都被控制台这行显眼的警告刷过屏： 万恶的 KGP（Kotlin Gradle Plugin）要被“抛弃”了！ 原来",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7658603691033624582",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ee5c12acabb4476b87b9d99fd3f7491~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1783897695&x-signature=E0%2Ff0gSepQfETDmVA%2BZpQzP1gJI%3D",
+      "tags": [],
+      "published_at": "2026-07-05T13:55:47",
+      "read_time_minutes": 5
+    }
+  ]
 }
