@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-05T05:02:12.648406",
+  "last_updated": "2026-07-05T09:16:22.331052",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "a242ceeb55d9",
-      "title": "Android kotlin图片库Coil源码详解",
-      "summary": "Coil 源码分析 一、整体架构概览 Coil（Coroutine Image Loader）是 2019 年发布的 Kotlin 协程原生图片库，整体设计借鉴 OkHttp 的拦截器模式",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7658250650539032612",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-07-04T07:08:38",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
