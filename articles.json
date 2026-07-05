@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-05T11:40:11.332413",
+  "last_updated": "2026-07-05T13:56:15.231032",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "f5f0435fd3ac",
+      "title": "第11周：Activity 跳转与传值 + 跳转优化",
+      "summary": "第 11 周继续围绕 Activity，但重点从“页面自己怎么活着”，切到“页面之间怎么来回”。很多刚入门的 Demo 会把跳转写成一行：startActivity",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7658189424326459442",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-07-05T08:44:16",
+      "read_time_minutes": 5
+    }
+  ]
 }
