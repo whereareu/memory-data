@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-06T09:05:17.645610",
+  "last_updated": "2026-07-06T13:53:09.958150",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "2e4a51ee8064",
+      "title": "我基于 Kotlin Multiplatform 实现了一套跨平台的弱网离线同步引擎",
+      "summary": "Syncox 是一个专为 Kotlin Multiplatform 和 Android 打造的离线同步引擎,核心设计理念是 “零侵入” 和 “发后即忘”。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7659234687549915190",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-07-06T10:23:11",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "3f911b1a2aac",
+      "title": "Flutter 开发怎么做 Agent ？从工程实战详细给你解读下",
+      "summary": "之前发 Angent 文章的时候，有人提过几次说有没有工程实战的，这次就干脆通过 Flutter 的 Agent 实现来聊一聊实战实现。 Flutter 开发做 Agent 几乎绕不开 GenKit",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7658865284564926518",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5e47973f51ec49e6881acd1a5d9a7c8c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1783950787&x-signature=E4vivBI6%2FDnN%2BDBAws%2FkoMwraz0%3D",
+      "tags": [],
+      "published_at": "2026-07-06T00:53:33",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "e5d6c56830a1",
+      "title": "Flutter 3.44 插件内置 Kotlin (KGP) 双向兼容适配指南",
+      "summary": "一、简述 最近升级到 Flutter 3.44.x 及以上版本的朋友，想必在编译项目时都被控制台这行显眼的警告刷过屏： 万恶的 KGP（Kotlin Gradle Plugin）要被“抛弃”了！ 原来",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7658603691033624582",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ee5c12acabb4476b87b9d99fd3f7491~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1783950787&x-signature=Bn4dz6pvGGbDlrJkzKmTnv6QNxY%3D",
+      "tags": [],
+      "published_at": "2026-07-05T13:55:47",
+      "read_time_minutes": 5
+    }
+  ]
 }
