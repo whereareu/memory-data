@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-06T21:41:52.602491",
+  "last_updated": "2026-07-06T23:13:43.243998",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "3f911b1a2aac",
-      "title": "Flutter 开发怎么做 Agent ？从工程实战详细给你解读下",
-      "summary": "之前发 Angent 文章的时候，有人提过几次说有没有工程实战的，这次就干脆通过 Flutter 的 Agent 实现来聊一聊实战实现。 Flutter 开发做 Agent 几乎绕不开 GenKit",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7658865284564926518",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5e47973f51ec49e6881acd1a5d9a7c8c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1783978910&x-signature=znhTvZUX57%2B3yGMZ%2F90uJ4YC%2B8s%3D",
-      "tags": [],
-      "published_at": "2026-07-06T00:53:33",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "e5d6c56830a1",
-      "title": "Flutter 3.44 插件内置 Kotlin (KGP) 双向兼容适配指南",
-      "summary": "一、简述 最近升级到 Flutter 3.44.x 及以上版本的朋友，想必在编译项目时都被控制台这行显眼的警告刷过屏： 万恶的 KGP（Kotlin Gradle Plugin）要被“抛弃”了！ 原来",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7658603691033624582",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ee5c12acabb4476b87b9d99fd3f7491~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1783978910&x-signature=UyCK6m29oN8tIkVqL1ao79c4%2Bww%3D",
-      "tags": [],
-      "published_at": "2026-07-05T13:55:47",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
