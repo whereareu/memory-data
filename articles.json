@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-07T08:28:45.520503",
+  "last_updated": "2026-07-07T12:00:23.322103",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "605a4785beef",
-      "title": "从 Android 15 到 Android 17,谷歌猝不及防的音频改动",
-      "summary": "背景 说实话当初去适配targetSdk35的时候，真心没有注意到音频方面的改动，精力完全被16kb跟edge-to-edge占用了，直到这段时间，线上用户反馈里面，太多的骂声都是围绕在应用在切到后台",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7658917202316689443",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0019c86be93e410187f08bf99d142014~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ29mZmVlZWU=:q75.awebp?rk3s=f64ab15b&x-expires=1784017724&x-signature=FxBPsQkdzrSALs0ebvoFkTRNC50%3D",
-      "tags": [],
-      "published_at": "2026-07-06T02:18:21",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "3f911b1a2aac",
-      "title": "Flutter 开发怎么做 Agent ？从工程实战详细给你解读下",
-      "summary": "之前发 Angent 文章的时候，有人提过几次说有没有工程实战的，这次就干脆通过 Flutter 的 Agent 实现来聊一聊实战实现。 Flutter 开发做 Agent 几乎绕不开 GenKit",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7658865284564926518",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5e47973f51ec49e6881acd1a5d9a7c8c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1784017724&x-signature=4ETvWSpkopX1B86UQevSqUKEGGE%3D",
-      "tags": [],
-      "published_at": "2026-07-06T00:53:33",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "cd0e12eb496f",
-      "title": "Gradle 写法 → Kotlin DSL",
-      "summary": "老式 Gradle 写法 → Kotlin DSL 老写法（Groovy — build.gradle） 问题在哪里 Groovy 是动态语言，IDE 补全和语法检查都很弱",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7658658597825871908",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-07-05T23:23:58",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
