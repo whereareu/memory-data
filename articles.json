@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-11T03:25:51.339080",
+  "last_updated": "2026-07-11T06:20:56.299725",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "d1e248460921",
+      "title": "Kotlin DSL深度解析：从Gradle脚本到构建你自己的DSL",
+      "summary": "`.kts` 文件究竟是什么？为什么 Gradle 的 `dependencies { }` 实际上只是一个函数调用？以及如何从零开始构建一个可用的 HTML DSL？",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7660773999852732456",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cce791d327fe4b32903427c02040a8dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1784355654&x-signature=UdDxfK7VQxvOm3m4Rfj9CEhpN%2FY%3D",
+      "tags": [],
+      "published_at": "2026-07-10T14:12:12",
+      "read_time_minutes": 5
+    }
+  ]
 }
