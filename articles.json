@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-12T06:42:22.583801",
+  "last_updated": "2026-07-12T09:07:52.787665",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "1dde12d0ee17",
+      "title": "libs 目录 → Gradle 依赖管理",
+      "summary": "libs 目录 → Gradle 依赖管理 老写法（Java — 手动放 jar/aar） 问题在哪里 jar 文件放在 libs 目录里，没有版本可追溯性。团队协作时不知道这个 jar 是哪来的",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7660820926616649770",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-07-12T07:29:15",
+      "read_time_minutes": 5
+    }
+  ]
 }
