@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-14T09:09:42.036586",
+  "last_updated": "2026-07-14T11:36:47.504588",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "ba1951dc021f",
+      "title": "Flutter Windows 开始支持 Impeller ，还修复了多窗口 bug",
+      "summary": "因为这段时间一直在使用 Flutter 多窗口的原因，有一个 windows 多窗口的 bug 一直挺难受的，就是在切换到项目子窗口的时候，会默认激化主窗口，之后才能再次点击回到子窗口： 这个问题的诱",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7661123972889559046",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/56f23a87e36e47e7be7f9cae639e0fff~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1784633805&x-signature=L1Qq1b9gviredHR%2FvgG99K%2BH7NM%3D",
+      "tags": [],
+      "published_at": "2026-07-13T01:03:44",
+      "read_time_minutes": 5
+    }
+  ]
 }
