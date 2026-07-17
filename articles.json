@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-17T10:05:31.572011",
+  "last_updated": "2026-07-17T12:15:21.570262",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "3ef88340453c",
-      "title": "Android 17的10个AI功能，国内用户真正能用的有几个？",
-      "summary": "Android 17正式推送，带来Gemini Intelligence等10项AI功能。老刘逐一盘点，并分析哪些国内用户真正能用、哪些只能看不能用。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7663362295008198692",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4303c366e3f6459a95096e003cffdde6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1784887528&x-signature=h6jkLgUnH1%2FpyKdvBr3jQxeXbZg%3D",
-      "tags": [],
-      "published_at": "2026-07-17T09:33:38",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "e3d65d6bbfc5",
-      "title": "Android CLI 完全指南",
-      "summary": "最近这两年，开发方式正在发生改变，随着 AI 的快速发展，UI 类型的开发工具反而效率变得低了，相比较 CLI 的工具，AI 更加能够使用 CLI 完成复杂的任务......",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7662627075259924506",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4aa5ed1855034c9dbdfa98e6c2f42862~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1784887528&x-signature=d9P8ka5DGB6Bie9Z5ieBkZg%2BPn0%3D",
-      "tags": [],
-      "published_at": "2026-07-16T01:00:38",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
