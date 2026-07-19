@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-19T06:36:50.504104",
+  "last_updated": "2026-07-19T09:08:46.192441",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "6d80a97068f9",
-      "title": "Android Binder 驱动 - 内核驱动层源码初探",
-      "summary": "前言 前面几篇文章中涉及 Binder 内核方法，这篇文章统一做一下介绍和总结，包括：binder_init、binder_open、binder_mmap 和 binder_ioctl。 Binde",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7663708874659610660",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-07-19T04:39:58",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "2278e27d4243",
-      "title": "MVI模式的完整历史、误解和现代Android范式",
-      "summary": "欢迎阅读本文！我的目标是帮助你真正理解 MVI 模式的本质，解释我为何对我的观点充满信心，以及该模式的起源。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7663380647617839155",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/727b1fb622b94aee8d1d932b1b4bcaca~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1785047808&x-signature=w96uYeahCFaa%2FrjDXnmaUD8nNrQ%3D",
-      "tags": [],
-      "published_at": "2026-07-17T16:03:10",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
