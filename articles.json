@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-22T11:53:25.808880",
+  "last_updated": "2026-07-22T14:12:00.005406",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "eee7819b87a8",
-      "title": "Flutter 无障碍开发实战：玩转 Semantics 解决视障用户使用痛点",
-      "summary": "一、背景：为什么需要无障碍开发 很多开发者在写业务逻辑时，可能觉得无障碍开发（Accessibility）有点“可有可无”。但现实是，全球有数以亿计的视障用户每天都在使用这些 App。 如果你的 Ap",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7664866308396400667",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a52bd52d87794521a88ad211706059e9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1785326003&x-signature=AKz%2BNcDWVNlYb1Pk1kcEr4qZpYI%3D",
-      "tags": [],
-      "published_at": "2026-07-21T14:58:01",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
