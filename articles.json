@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-23T15:15:58.311564",
+  "last_updated": "2026-07-23T17:37:59.236045",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "c6b5f71b7fcd",
+      "title": "Flutter 全新真 3D 实现，用 flutter_scene 能开发一个「我的世界」",
+      "summary": "最近一个第三方实现的 bdero/flutter_scene 惊艳到我了，比如下面这个类似「我的世界」的游戏效果，就是作者用 Flutter Scene 做的，全部基于 Flutter GPU/Imp",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7665253291312316479",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a1572155762d4d9bbb3af9a0b486f887~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1785433076&x-signature=gbOhqTRchbxdHbXkvQ1N0R7VQkQ%3D",
+      "tags": [],
+      "published_at": "2026-07-23T00:55:01",
+      "read_time_minutes": 5
+    }
+  ]
 }
