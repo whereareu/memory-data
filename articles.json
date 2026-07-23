@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-23T07:38:03.279117",
+  "last_updated": "2026-07-23T10:30:24.278099",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "35488980782e",
+      "title": "玩转 WebSocket：从原理到 Flutter 实战",
+      "summary": "一、为什么需要 WebSocket 平时我们开发 App，绝大多数场景都在用 REST (HTTP) 协议。REST 的逻辑很简单：客户端发一个请求，服务器回一个响应，然后连接就断了。 但如果你要做的",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7665283036799762459",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f6be2b3d44e4e19a01cc87e5b8210b3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1785407422&x-signature=O71XK1jQaGrE33pWounmaiZzWy4%3D",
+      "tags": [],
+      "published_at": "2026-07-22T14:47:42",
+      "read_time_minutes": 5
+    }
+  ]
 }
