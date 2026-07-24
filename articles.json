@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-24T03:27:27.286028",
+  "last_updated": "2026-07-24T06:32:50.008649",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "0ad5014468af",
+      "title": "Android进阶之事件分发机制深度剖析",
+      "summary": "Android 事件分发机制不仅是日常面试高频考点，同时也是日常开发中滑动冲突、自定义控件、事件拦截、多指触控问题的根源。绝大多数开发者只看重结论：dispatchTouchEvent、onIn",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7665675932640870406",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c8d46c28349e40d2abfce71aadfcdea2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgSVTlsI_noIHlk6U=:q75.awebp?rk3s=f64ab15b&x-expires=1785479566&x-signature=lT8GtUjlE%2FTPkGKzNh2fWBTCAHE%3D",
+      "tags": [],
+      "published_at": "2026-07-24T05:19:40",
+      "read_time_minutes": 5
+    }
+  ]
 }
