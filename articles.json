@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-25T03:25:04.612774",
+  "last_updated": "2026-07-25T06:24:25.820091",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "ee01b4315ba9",
+      "title": "Flutter 3.44 性能飞跃：深度解析 Android Platform View 的 HCPP 新特性",
+      "summary": "一、背景：Android Platform View 的演进历程 如果你在 Flutter 项目里嵌入过 Google Map、WebView 或者原生的视频播放器，那你一定经历过 Platform",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7665920190531633192",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a75738bc207f4c1fa6a2e2b955606128~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1785565457&x-signature=kaur8ZR1i%2FvBsG5D5mFdORsPKzw%3D",
+      "tags": [],
+      "published_at": "2026-07-25T06:10:11",
+      "read_time_minutes": 5
+    }
+  ]
 }
