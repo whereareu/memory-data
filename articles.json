@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-26T10:06:52.610510",
+  "last_updated": "2026-07-26T12:09:41.139373",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "3cffccde8479",
+      "title": "给 Flutter 插件加上 Swift Package Manager 支持",
+      "summary": "chat_bottom_container 这个插件我发布也有段时间了，iOS 端一直只配了 CocoaPods，走的是「预编译 xcframework + podspec",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7666344458289397794",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/53c7ab7127b3417b877342baf8c51fae~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTGluWHVuRmVuZw==:q75.awebp?rk3s=f64ab15b&x-expires=1785672578&x-signature=%2FniI%2B0c4PQJl1dKrBKquoRZdCok%3D",
+      "tags": [],
+      "published_at": "2026-07-26T08:52:52",
+      "read_time_minutes": 5
+    }
+  ]
 }
