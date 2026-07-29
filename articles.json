@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-29T06:38:12.328612",
+  "last_updated": "2026-07-29T09:42:37.368521",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "6b2175a886f2",
+      "title": "谷歌的一个优化建议，让我重新学了一遍Android里面如何正确处理位图",
+      "summary": "背景 谷歌这位哥哥真的会整幺蛾子，好不容易把crash跟anr数据压下来一点，最近发现又给了我一条技术质量类型的整改建议，大致内容是 真的是一点不让我闲着，天天关心着我的kpi有没有达标，天天给我整技",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667097178154319912",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4911a0ed073e413c8c09b14029c9fcdc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ29mZmVlZWU=:q75.awebp?rk3s=f64ab15b&x-expires=1785922955&x-signature=l1MVq91CV6KuWIiJYSaTeIpuZgw%3D",
+      "tags": [],
+      "published_at": "2026-07-28T02:18:34",
+      "read_time_minutes": 5
+    }
+  ]
 }
