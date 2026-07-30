@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-30T05:49:28.839829",
+  "last_updated": "2026-07-30T08:40:00.905033",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "2cdfadc452ce",
+      "title": "Android Handler 机制完全解析：从源码到内存泄漏，一篇就够了",
+      "summary": "Android Handler 机制完全解析：从源码到内存泄漏，一篇就够了 一、为什么需要 Handler？ Android 的主线程（UI 线程）不允许执行耗时操作（否则 ANR），同时非主线程不能",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7668127355689287686",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-07-30T08:08:38",
+      "read_time_minutes": 5
+    }
+  ]
 }
