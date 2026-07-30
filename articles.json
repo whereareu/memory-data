@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-30T08:40:00.905033",
+  "last_updated": "2026-07-30T11:14:59.053063",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,51 @@
   ],
   "articles": [
     {
-      "id": "2cdfadc452ce",
-      "title": "Android Handler 机制完全解析：从源码到内存泄漏，一篇就够了",
-      "summary": "Android Handler 机制完全解析：从源码到内存泄漏，一篇就够了 一、为什么需要 Handler？ Android 的主线程（UI 线程）不允许执行耗时操作（否则 ANR），同时非主线程不能",
+      "id": "4ee7b982e116",
+      "title": "Android R8 为什么可以让 Kotlin 协程提速 2 倍？",
+      "summary": "这个问题其实我们之前 《AGP 9.2 开始，Android 上协程启动和取消速度提升两倍》就聊过了，因为 PR 终于被合并，所以现在从 Android Gradle Plugin 9.2.0 开始，",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7668127355689287686",
+      "url": "https://juejin.cn/post/7667459437695778870",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f9d565f69aa649459f151e8893d1ea42~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786014896&x-signature=izE1S6y%2FxD4c9jFWaZuqmAPOw7o%3D",
+      "tags": [],
+      "published_at": "2026-07-29T01:54:41",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "082519c555e3",
+      "title": "深入理解 Compose 副作用",
+      "summary": "各位 Compose 爱好者们，你们好。 如果你去打开任何一个 Compose 页面源码，几乎总能看到各种 Effect API。那你知道他们的内部逻辑吗......",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667502327419846702",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3c73c8f03bbb4c52ab10f42f3210f4a8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1786014896&x-signature=ObhToiB08gDfb9cNiFOVxW8jH6M%3D",
+      "tags": [],
+      "published_at": "2026-07-29T00:55:37",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "c56e5be3a46e",
+      "title": "你敢信吗？R8让 Compose 协程直接快 2 倍！你敢相信吗？R8 让合成程度直接协调快速 2 倍！",
+      "summary": "从 AGP 9.2.0 开始，R8 会优化大多数 Atomic*FieldUpdater 调用。这个改动看起来离业务代码很远，却让 Compose LaunchedEffect 的协程启动和取消微基准",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667468802852126746",
       "cover_image": "",
       "tags": [],
-      "published_at": "2026-07-30T08:08:38",
+      "published_at": "2026-07-29T00:54:14",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "641823af2051",
+      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
+      "summary": "一、一切从一个合理的决定开始 2017 年 5 月，Google I/O 大会上，Flutter 第一个 alpha 版本正式亮相。它的核心卖点是**\"一套代码，两个平台\"**。为了让开发者快速上手，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667440437864300544",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d55c0b8680b54b70830b41d4e4c791dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5byg6aOO5o2354m554OI:q75.awebp?rk3s=f64ab15b&x-expires=1786014896&x-signature=YHmxdGTbe7%2FOJYEAyMldMJdh%2BrI%3D",
+      "tags": [],
+      "published_at": "2026-07-29T00:13:04",
       "read_time_minutes": 5
     }
   ]
