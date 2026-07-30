@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-30T16:41:11.076427",
+  "last_updated": "2026-07-30T18:22:12.920774",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "4ee7b982e116",
+      "title": "Android R8 为什么可以让 Kotlin 协程提速 2 倍？",
+      "summary": "这个问题其实我们之前 《AGP 9.2 开始，Android 上协程启动和取消速度提升两倍》就聊过了，因为 PR 终于被合并，所以现在从 Android Gradle Plugin 9.2.0 开始，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667459437695778870",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f9d565f69aa649459f151e8893d1ea42~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786040531&x-signature=4MMGXWQWrLEuc2efrNvEqM2%2B30I%3D",
+      "tags": [],
+      "published_at": "2026-07-29T01:54:41",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "082519c555e3",
+      "title": "深入理解 Compose 副作用",
+      "summary": "各位 Compose 爱好者们，你们好。 如果你去打开任何一个 Compose 页面源码，几乎总能看到各种 Effect API。那你知道他们的内部逻辑吗......",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667502327419846702",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3c73c8f03bbb4c52ab10f42f3210f4a8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgUm9ja0J5dGU=:q75.awebp?rk3s=f64ab15b&x-expires=1786040531&x-signature=GW3i%2F21I%2FnwSpYrnyFDHIRgKunw%3D",
+      "tags": [],
+      "published_at": "2026-07-29T00:55:37",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "641823af2051",
+      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
+      "summary": "一、一切从一个合理的决定开始 2017 年 5 月，Google I/O 大会上，Flutter 第一个 alpha 版本正式亮相。它的核心卖点是**\"一套代码，两个平台\"**。为了让开发者快速上手，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667440437864300544",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d55c0b8680b54b70830b41d4e4c791dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5byg6aOO5o2354m554OI:q75.awebp?rk3s=f64ab15b&x-expires=1786040531&x-signature=lESWzUahg3MCZY1V0UPfKLloE44%3D",
+      "tags": [],
+      "published_at": "2026-07-29T00:13:04",
+      "read_time_minutes": 5
+    }
+  ]
 }
