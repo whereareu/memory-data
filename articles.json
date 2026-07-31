@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-31T20:23:40.203531",
+  "last_updated": "2026-07-31T22:10:51.862180",
   "sources": [
     {
       "name": "掘金",
@@ -21,7 +21,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7668494151793803305",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/faf6f560cec04cbdbac3ccbaea9b52ed~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1786134218&x-signature=NQj9Xa0IUNUH0inKG7shwHILZIg%3D",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/faf6f560cec04cbdbac3ccbaea9b52ed~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1786140648&x-signature=pV4u%2BxsZz%2B7SkO0DuVTcbqzaPu0%3D",
       "tags": [],
       "published_at": "2026-07-31T11:49:13",
       "read_time_minutes": 5
@@ -33,7 +33,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7668191994554073142",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4f7955f39c7341dd8588a84d318e6da8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786134218&x-signature=a4Um6b%2FWsFhDtwA7ptoHpRjcsPM%3D",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4f7955f39c7341dd8588a84d318e6da8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786140648&x-signature=%2BDq3LzyTTyCdVLag1EclsoUVNnU%3D",
       "tags": [],
       "published_at": "2026-07-31T01:00:00",
       "read_time_minutes": 5
@@ -45,9 +45,21 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7667863898348126271",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8396eba2752d4093b977490fcc424c5d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786134218&x-signature=v7u4M43eAyj%2BPwOkcqIBOJ7y4KU%3D",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8396eba2752d4093b977490fcc424c5d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786140648&x-signature=CZ%2Bb3g29fLur40pXsWk1fxO5ng8%3D",
       "tags": [],
       "published_at": "2026-07-30T01:16:02",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "641823af2051",
+      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
+      "summary": "一、一切从一个合理的决定开始 2017 年 5 月，Google I/O 大会上，Flutter 第一个 alpha 版本正式亮相。它的核心卖点是**\"一套代码，两个平台\"**。为了让开发者快速上手，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7667440437864300544",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d55c0b8680b54b70830b41d4e4c791dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5byg6aOO5o2354m554OI:q75.awebp?rk3s=f64ab15b&x-expires=1786140648&x-signature=MOgIccRqNV7wIbSum3cXqPdSg9s%3D",
+      "tags": [],
+      "published_at": "2026-07-29T00:13:04",
       "read_time_minutes": 5
     }
   ]
