@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-01T00:05:45.572615",
+  "last_updated": "2026-08-01T04:25:03.993638",
   "sources": [
     {
       "name": "掘金",
@@ -15,51 +15,15 @@
   ],
   "articles": [
     {
-      "id": "ee1215d3c76c",
-      "title": "投研智库 RAG Agent（二）：环境底座——Docker Compose 一键拉起向量库全家桶",
-      "summary": "投研智库 RAG Agent（二）：环境底座——Docker Compose 一键拉起向量库全家桶 一、这一步要达到的目标状态 项 期望 Python 环境 项目目录下 .venv（uv 管理），uv",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7668206734344683558",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-07-31T03:25:58",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "c2c43f4375b6",
-      "title": "Flutter Starling : 用 Swift和 Flutter 写了一个 Linux 桌面系统，震惊我一整年",
-      "summary": "这该死的即视感，又有一个用 Swift 和 Flutter Engine 组合的项目，不过 Starling 这个项目，除了把 Flutter 的 Dart Framework 直接重写移植成了 Sw",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7668191994554073142",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4f7955f39c7341dd8588a84d318e6da8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786147543&x-signature=PsFN8pKihmqhFQyo9nx1nZEfVfA%3D",
-      "tags": [],
-      "published_at": "2026-07-31T01:00:00",
-      "read_time_minutes": 5
-    },
-    {
       "id": "18236c147326",
       "title": "KotlinLLM 开源 ，一个可以在运行时自己生成永久 Kotlin 代码的 Agent 库",
       "summary": "JetBrains 这次还真搞出来一个有意思的东西，大概理解就是： 哎~这就很有意思了是不是？它居然想的是，把 LLM 从“每次运行都要调用的在线服务”，变成一种只有在程序遇到陌生场景时能够介入、然后",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7667863898348126271",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8396eba2752d4093b977490fcc424c5d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786147543&x-signature=Kz3mOGEZBXhH%2BB4H00Jf6kVyPWY%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8396eba2752d4093b977490fcc424c5d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786163101&x-signature=COL0G%2BH8UYr0jqifDLjy8J7RkKA%3D",
       "tags": [],
       "published_at": "2026-07-30T01:16:02",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "641823af2051",
-      "title": "Flutter UI 解耦 - 天下大势，合久必分， 分久必合",
-      "summary": "一、一切从一个合理的决定开始 2017 年 5 月，Google I/O 大会上，Flutter 第一个 alpha 版本正式亮相。它的核心卖点是**\"一套代码，两个平台\"**。为了让开发者快速上手，",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7667440437864300544",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d55c0b8680b54b70830b41d4e4c791dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5byg6aOO5o2354m554OI:q75.awebp?rk3s=f64ab15b&x-expires=1786147543&x-signature=dJgQGDkvTLOA2gLNVI7bsD%2B%2BRoI%3D",
-      "tags": [],
-      "published_at": "2026-07-29T00:13:04",
       "read_time_minutes": 5
     }
   ]
