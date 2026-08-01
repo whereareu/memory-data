@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-01T10:05:17.772149",
+  "last_updated": "2026-08-01T12:05:32.037519",
   "sources": [
     {
       "name": "掘金",
@@ -15,13 +15,25 @@
   ],
   "articles": [
     {
+      "id": "eff5990ef857",
+      "title": "Flutter进阶|最佳实践：组件内阴影实现",
+      "summary": "开发需求过程中遇到一个痛点问题：内阴影，需求是组件向内组件淡化的阴影效果。flutter默认不支持内阴影，之前都是通过图片实现此类需求。但是图片不是最佳实践。所以一直在研究如何用代码实现",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7668507449855442996",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-07-31T07:25:49",
+      "read_time_minutes": 5
+    },
+    {
       "id": "c2c43f4375b6",
       "title": "Flutter Starling : 用 Swift和 Flutter 写了一个 Linux 桌面系统，震惊我一整年",
       "summary": "这该死的即视感，又有一个用 Swift 和 Flutter Engine 组合的项目，不过 Starling 这个项目，除了把 Flutter 的 Dart Framework 直接重写移植成了 Sw",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7668191994554073142",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4f7955f39c7341dd8588a84d318e6da8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786183514&x-signature=IG9GpzG8rvarpV63FQ6B00o3BSg%3D",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4f7955f39c7341dd8588a84d318e6da8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786190728&x-signature=EF9b%2Fuz4DG5VHoGireSbtsRyoXc%3D",
       "tags": [],
       "published_at": "2026-07-31T01:00:00",
       "read_time_minutes": 5
