@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-02T12:09:07.642007",
+  "last_updated": "2026-08-02T14:39:59.083418",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "b29dc5c2477d",
-      "title": "Android：Hilt框架入门 · 在ViewUI和ComposeUI下的应用",
-      "summary": "太难了太难了，踩了一堆坑，AS重装了几遍，gradle缓存来回清空了几次，捣鼓了一整天才把最小Hilt Demo搭建起来。真TM不应该依赖AI，早点查阅官方文档： 使用Hilt实现依赖项注入 依赖引入",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7669036838767034387",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7da5080239fd417cbc0380e1a7af32dc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgTGVzaWxl:q75.awebp?rk3s=f64ab15b&x-expires=1786277327&x-signature=kPI%2B218aB%2BWZiccCK4%2F2dliv4%2B8%3D",
-      "tags": [],
-      "published_at": "2026-08-02T08:39:30",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "90e7f6464104",
-      "title": "Android 网络协议全解析：从 TCP 三次握手到 HTTPS 加密，一篇就够了",
-      "summary": "Android 网络协议全解析：从 TCP 三次握手到 HTTPS 加密，一篇就够了 引言 网络知识是分层嵌套的：不理解 TCP 三次握手，就不知道为什么 HTTP/2 的多路复用还有队头阻塞；不理解",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7668907936213008399",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-08-02T08:25:04",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5b2fbb2b67ec",
-      "title": "深度拆解 Dart 事件循环：从面试题看清 Microtask 与 Event Queue 的执行顺序",
-      "summary": "一个能测出水平的面试题 很多 Flutter 开发者天天在写 async/await，感觉上手很顺，但真要是碰到面试官抛出一个关于执行顺序的问题，估计不少人得懵。 假设面试官在白板上给你写下这么一",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7668977124872110130",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c4ecf0aa5250434d9ddd0e5c856beb5c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1786277327&x-signature=epIrLwIyEfWUgwAj3BBW7UG%2FO5Q%3D",
-      "tags": [],
-      "published_at": "2026-08-02T06:00:41",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
