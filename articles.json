@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-02T14:39:59.083418",
+  "last_updated": "2026-08-02T16:06:06.008435",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "7544b0629c5d",
+      "title": "探究Android Views、Flutter和Compose如何渲染你的UI",
+      "summary": "本文将通过一个简单的按扭状态计数来探究三种流行的UI框架的运行过程，并深入地 了解它们具体是如何做渲染的。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7669387448518819890",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/98af541c6cd24766bef85ebcd86f47a2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1786291562&x-signature=yZEV4%2Fn6k6cJqFyP21YqOqPgrwU%3D",
+      "tags": [],
+      "published_at": "2026-08-02T13:01:07",
+      "read_time_minutes": 5
+    }
+  ]
 }
