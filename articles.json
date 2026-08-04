@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-04T09:42:21.521934",
+  "last_updated": "2026-08-04T12:06:20.931142",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "80d0b2933b9b",
+      "title": "Flutter FocusNode 实战指南：玩转键盘焦点与用户输入体验",
+      "summary": "一、痛点：用户输入的“断层感” 在做 App 的表单界面时，你有没有遇到过这种尴尬的情况： 用户填完第一行，点击软键盘上的“下一步”，结果啥也没发生；或者用户填完表单准备提交，键盘却死死挡在屏幕中间，",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7669248665701089314",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/5fab78896b40414395184664ce9a7078~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1786449962&x-signature=16YBC4ZZcoG%2BaXotknmki3TCRNE%3D",
+      "tags": [],
+      "published_at": "2026-08-03T02:11:22",
+      "read_time_minutes": 5
+    }
+  ]
 }
