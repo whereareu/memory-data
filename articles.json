@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-06T06:37:22.738474",
+  "last_updated": "2026-08-06T09:44:08.085191",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "54c3ed0be360",
-      "title": "iOS 27 强制要求 UISceneDelegate：UIKit 和 Flutter 开发者该如何应对？",
-      "summary": "一、iOS 27 的变化与坑点 这些年 Apple 一直在“劝”咱们用 UIScene 的生命周期管理模式。虽然之前出了很多版本都在报 warning，但咱们很多项目为了图省事，一直赖着旧的 AppD",
+      "id": "7b5ad09ea2d2",
+      "title": "Flutter  hit，一个可以灵活控制溢出点击的第三方包",
+      "summary": "definev/hit 是一个支持点击效果可以灵活溢出控件大小的第三方包，离谱点甚至可以做到控件在原地，点击满天飞的效果，简单来说就是它的作用就是解决 \"控件视觉尺寸需要小，但点击热区需要大\" 的需求",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7670438539512381440",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/951c6079881845029bf29df5b639401c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1786603040&x-signature=avnvfub60PtOgZZZUtO%2BStG9Kdg%3D",
+      "url": "https://juejin.cn/post/7670078525111861254",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c9704828202645db93bbcf822d08990a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1786614241&x-signature=UM3goTVFl%2Bs%2BfpOd7MI0KRPLe%2F0%3D",
       "tags": [],
-      "published_at": "2026-08-06T03:02:48",
+      "published_at": "2026-08-05T01:01:44",
       "read_time_minutes": 5
     }
   ]
