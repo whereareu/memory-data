@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-08T15:36:14.716569",
+  "last_updated": "2026-08-08T16:41:54.551224",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "9c7518c03ae1",
+      "title": "Android XR 开发入门完全指南",
+      "summary": "本文是Android 开发者的实用路线图指南，将解释什么是 Android XR，你应该选择哪些工具，应该学习哪些概念以及学习顺序。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7671272226075033663",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/13cebf6d5cc2413a83ea5703e8ba4117~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iA5pyJ54y_6K-J:q75.awebp?rk3s=f64ab15b&x-expires=1786812111&x-signature=qq77%2FyvntCIsi4VxgiGJGnSpkdE%3D",
+      "tags": [],
+      "published_at": "2026-08-08T12:59:06",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "9bec35ed7db8",
+      "title": "玩转 Flutter 项目依赖：从 pubspec.yaml 到实战包管理",
+      "summary": "一、背景：为什么需要第三方包？ 玩 Flutter，基本离不开“折腾”各种第三方包。比起从零开始去写网络请求、状态管理或者本地存储，直接用社区成熟的方案效率要高得多。 在 Flutter 项目中，所有",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7671228837514362886",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3be58fc89e1c444ea459f696d7a4fdb1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1786812111&x-signature=vmpbzAg6ZJN4trePCrcSzQOl1Ec%3D",
+      "tags": [],
+      "published_at": "2026-08-08T10:50:31",
+      "read_time_minutes": 5
+    }
+  ]
 }
