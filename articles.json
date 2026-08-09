@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-09T17:37:14.345567",
+  "last_updated": "2026-08-09T18:51:02.923556",
   "sources": [
     {
       "name": "掘金",
@@ -24,6 +24,18 @@
       "cover_image": "",
       "tags": [],
       "published_at": "2026-08-09T14:30:36",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "694bc42d5442",
+      "title": "Android PR Review：Skill、Model 和交叉 Review 谁更重要？",
+      "summary": "本文探究 Vibe coding 时代 skill，model 对 review 的影响，希望有兴趣的读者一起分享",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7671709161768681478",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-09T13:02:18",
       "read_time_minutes": 5
     }
   ]
