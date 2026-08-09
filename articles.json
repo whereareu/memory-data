@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-09T20:40:32.051424",
+  "last_updated": "2026-08-09T21:39:02.991992",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "70c776807d1e",
-      "title": "受 go-zero 启发，我给 Flutter 写了一套 CLI 脚手架",
-      "summary": "受 go-zero 启发，给 Flutter 写了套 CLI 脚手架，拆解 MVI-BLoC 架构中四个 Mixin 的设计与 Effect 系统的架构实践。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7671525652933148712",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-08-09T14:30:36",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "694bc42d5442",
-      "title": "Android PR Review：Skill、Model 和交叉 Review 谁更重要？",
-      "summary": "本文探究 Vibe coding 时代 skill，model 对 review 的影响，希望有兴趣的读者一起分享",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7671709161768681478",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-08-09T13:02:18",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
