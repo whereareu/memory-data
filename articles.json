@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-08T23:35:10.468851",
+  "last_updated": "2026-08-09T02:14:25.138596",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "9bb9cf93bbba",
+      "title": "Rust与C++在Android Native下的跨进程通信：基于mmap的10MB图像数据共享",
+      "summary": "针对Android Native下Rust与C++传输10MB图像的I/O瓶颈，本文采用mmap共享内存结合stdin信号实现跨进程同步。该方案有效降低数据拷贝开销，写入耗时由96ms降至6ms",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7671488588597198875",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-08T11:03:24",
+      "read_time_minutes": 5
+    }
+  ]
 }
