@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-10T10:23:36.367400",
+  "last_updated": "2026-08-10T11:53:03.360735",
   "sources": [
     {
       "name": "掘金",
@@ -14,6 +14,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "674c1d47adba",
+      "title": "uni-app x 蒸汽模式 性能测试基准报告 Benchmark【Android版】",
+      "summary": "uni-app x 蒸汽模式Android 端的性能测试基准报告出炉了，补齐App三端的最后一份评测报告。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7671992319081316367",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c25dc597264540da9c0060f6825f3290~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ0hC:q75.awebp?rk3s=f64ab15b&x-expires=1786967580&x-signature=fVop6tSAd15crrY8g1oXdNHE8vA%3D",
+      "tags": [],
+      "published_at": "2026-08-10T10:20:10",
+      "read_time_minutes": 5
+    },
     {
       "id": "4b0365e4b741",
       "title": "还原一次用户等待：深度解析 Flutter RUM SDK 如何打通 Dart 到 Native 的观测链路",
