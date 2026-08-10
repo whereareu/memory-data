@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-10T08:44:34.047679",
+  "last_updated": "2026-08-10T10:23:36.367400",
   "sources": [
     {
       "name": "掘金",
@@ -15,27 +15,27 @@
   ],
   "articles": [
     {
-      "id": "13520e3521fa",
-      "title": "flutter 展示的字体突然奔放了",
-      "summary": "开始的时候好好的 突然就奔放起来了 没想到，没想到啊。Easyloading升级导致字体展示为_errorTextStyle的字体。",
+      "id": "4b0365e4b741",
+      "title": "还原一次用户等待：深度解析 Flutter RUM SDK 如何打通 Dart 到 Native 的观测链路",
+      "summary": "在 Flutter 应用里，用户反馈“页面一直在转圈”“点击按钮后没有反应”“内容加载到一半卡住了”，研发第一反应往往是去看接口耗时、错误日志或崩溃堆栈。但线上问题很少只停留在单点：一次等待可能跨越用",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7671941638550847526",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/25edf2252fcb4cc0bd00b1422e6d8046~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgX-mYv-WNl18=:q75.awebp?rk3s=f64ab15b&x-expires=1786956270&x-signature=F2NvViXvTzj%2FR2Z9XnGlcE4nqZ8%3D",
+      "url": "https://juejin.cn/post/7672224266071162914",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-08-10T07:58:54",
+      "published_at": "2026-08-10T10:07:35",
       "read_time_minutes": 5
     },
     {
-      "id": "2eb76b0892bb",
-      "title": "Kotlin interface 详解：别再把接口写成空壳和万能开关",
-      "summary": "简介 接口最容易被写成两种极端。 一种是空壳： 名字看起来很正规，里面没有任何契约。 另一种是万能开关： 所有能力都塞进一个接口，实现类被迫实现一堆并不关心的方法。 Kotlin interface",
+      "id": "70c776807d1e",
+      "title": "受 go-zero 启发，我给 Flutter 写了一套 CLI 脚手架",
+      "summary": "受 go-zero 启发，给 Flutter 写了套 CLI 脚手架，拆解 MVI-BLoC 架构中四个 Mixin 的设计与 Effect 系统的架构实践。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7672207624274182182",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/427d1f4689f049ceb55388d39c4d6660~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZSQ6Z2S5p6r:q75.awebp?rk3s=f64ab15b&x-expires=1786956270&x-signature=Gy2Svkgd5llz7ENeaNWWNlThpGA%3D",
+      "url": "https://juejin.cn/post/7671525652933148712",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-08-10T06:52:11",
+      "published_at": "2026-08-09T14:30:36",
       "read_time_minutes": 5
     }
   ]
