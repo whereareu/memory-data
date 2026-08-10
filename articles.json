@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-10T19:08:52.881488",
+  "last_updated": "2026-08-10T20:51:42.407824",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "70c776807d1e",
+      "title": "受 go-zero 启发，我给 Flutter 写了一套 CLI 脚手架",
+      "summary": "受 go-zero 启发，给 Flutter 写了套 CLI 脚手架，拆解 MVI-BLoC 架构中四个 Mixin 的设计与 Effect 系统的架构实践。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7671525652933148712",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-09T14:30:36",
+      "read_time_minutes": 5
+    }
+  ]
 }
