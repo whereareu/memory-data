@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-10T06:15:15.994299",
+  "last_updated": "2026-08-10T08:44:34.047679",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,27 @@
   ],
   "articles": [
     {
-      "id": "3cace807a97f",
-      "title": "玩转 Dart typedef：不仅是函数别名那么简单",
-      "summary": "一、什么是 typedef？ 在 Dart 开发中，如果你遇到那种嵌套了好几层的复杂类型，或者频繁出现的函数签名，代码写起来会非常痛苦。 举个最直观的例子，假设我们要写一个获取数据的回调函数： 每次写",
+      "id": "13520e3521fa",
+      "title": "flutter 展示的字体突然奔放了",
+      "summary": "开始的时候好好的 突然就奔放起来了 没想到，没想到啊。Easyloading升级导致字体展示为_errorTextStyle的字体。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7672008490308386866",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8a90b58fc42d401ca1cd60e43f9da182~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1786947312&x-signature=eR8%2BJUNwBVyoLzR%2FttL7Aza6M8E%3D",
+      "url": "https://juejin.cn/post/7671941638550847526",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/25edf2252fcb4cc0bd00b1422e6d8046~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgX-mYv-WNl18=:q75.awebp?rk3s=f64ab15b&x-expires=1786956270&x-signature=F2NvViXvTzj%2FR2Z9XnGlcE4nqZ8%3D",
       "tags": [],
-      "published_at": "2026-08-10T04:53:38",
+      "published_at": "2026-08-10T07:58:54",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "2eb76b0892bb",
+      "title": "Kotlin interface 详解：别再把接口写成空壳和万能开关",
+      "summary": "简介 接口最容易被写成两种极端。 一种是空壳： 名字看起来很正规，里面没有任何契约。 另一种是万能开关： 所有能力都塞进一个接口，实现类被迫实现一堆并不关心的方法。 Kotlin interface",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7672207624274182182",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/427d1f4689f049ceb55388d39c4d6660~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5ZSQ6Z2S5p6r:q75.awebp?rk3s=f64ab15b&x-expires=1786956270&x-signature=Gy2Svkgd5llz7ENeaNWWNlThpGA%3D",
+      "tags": [],
+      "published_at": "2026-08-10T06:52:11",
       "read_time_minutes": 5
     }
   ]
