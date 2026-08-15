@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-15T01:39:53.223775",
+  "last_updated": "2026-08-15T02:57:31.698783",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "bfc47d6e88fd",
+      "title": "Flutter 3.47 发布，快来看看有什么更新吧",
+      "summary": "随着 Google I/O China 的召开，Flutter 3.47 如约而至，这次更新的主要有 Material / Cupertino 正式从 Flutter SDK 解耦、Impeller",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7673029031966474292",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dd62ed2827f14b89a78ece18f7accda1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787367449&x-signature=dXwVAMeiH5hjwK%2BcUcO9ER%2F7IZg%3D",
+      "tags": [],
+      "published_at": "2026-08-13T00:10:50",
+      "read_time_minutes": 5
+    }
+  ]
 }
