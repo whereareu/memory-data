@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-15T07:35:27.548161",
+  "last_updated": "2026-08-15T08:36:31.198735",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "8a216b01a285",
+      "title": "Flutter最佳实践：Web项目中文字体首次加载乱码问题解决",
+      "summary": "一、问题本质（关键） 用flutter 开发 web项目时，中文字体先乱码再出现，根本原因是渲染流程导致的问题。 流程是这样的： 知道了问题来源，就知道了解决办法：预加载字体。 二、解决方案 Robo",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7673816823708893193",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-15T08:02:12",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "dac269e23945",
+      "title": "Flutter 3.47 更新要点：Material 正式分家，老项目先别急着更新",
+      "summary": "Flutter 3.47正式发布：material_ui独立包1.0、Impeller桌面端全量默认、iOS最低版本升到15、UIScene强制迁移。老刘带你拆解哪些变化必须现在处理，哪些可以再等等。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674038015737348148",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/455b964a3ad84aa7bec26b0ab1c363ba~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1787387788&x-signature=iE1uCSt6mQleF0r6nMEYkBw03g4%3D",
+      "tags": [],
+      "published_at": "2026-08-15T07:54:42",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "bfc47d6e88fd",
+      "title": "Flutter 3.47 发布，快来看看有什么更新吧",
+      "summary": "随着 Google I/O China 的召开，Flutter 3.47 如约而至，这次更新的主要有 Material / Cupertino 正式从 Flutter SDK 解耦、Impeller",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7673029031966474292",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/dd62ed2827f14b89a78ece18f7accda1~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787387788&x-signature=8x6Ct7HlDYz1IHXHGzEoueXCo90%3D",
+      "tags": [],
+      "published_at": "2026-08-13T00:10:50",
+      "read_time_minutes": 5
+    }
+  ]
 }
