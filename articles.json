@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-15T16:32:14.639171",
+  "last_updated": "2026-08-15T17:26:15.677147",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "80005c90c8bc",
-      "title": "Jetpack Compose 8 月版正式发布，核心模块 1.12",
-      "summary": "这次的版本没有什么特别大的架构变动，基本属于那种 “Compose 开始补齐 UI Framework 能力” 的版本，比如：图形管线、富文本编辑、程序化文本选择、手势驱动动画、Grid、Creden",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7673413097325559843",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/057c4b1361864619a2f452197d0c18c9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787416331&x-signature=Sr9Pr9PhP4byrX6n7T%2BD52R9rN0%3D",
-      "tags": [],
-      "published_at": "2026-08-14T00:36:53",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
