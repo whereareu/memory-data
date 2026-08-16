@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-16T16:33:00.752428",
+  "last_updated": "2026-08-16T17:25:12.915935",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "c449deba9d2e",
+      "title": "我的 UML 学习笔记：结合 Android 实例看懂 4 种常用图表",
+      "summary": "本文结合 Android 开发实战，以 RecyclerView 代码为例深度剖析 UML 类图六大关系，并通俗讲解序列图、用例图与活动图，带你轻松掌握 UML 核心建模技巧！",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674613585926078479",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/61e4736c6a0f414abf93be3a9acc7bdc~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo55m9:q75.awebp?rk3s=f64ab15b&x-expires=1787505908&x-signature=MWJBe4GCKFMYM2PLdx4vwDDW63Q%3D",
+      "tags": [],
+      "published_at": "2026-08-16T14:49:16",
+      "read_time_minutes": 5
+    }
+  ]
 }
