@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-16T06:50:54.895681",
+  "last_updated": "2026-08-16T07:36:41.935117",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "dac269e23945",
+      "title": "Flutter 3.47 更新要点：Material 正式分家，老项目先别急着更新",
+      "summary": "Flutter 3.47正式发布：material_ui独立包1.0、Impeller桌面端全量默认、iOS最低版本升到15、UIScene强制迁移。老刘带你拆解哪些变化必须现在处理，哪些可以再等等。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674038015737348148",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/455b964a3ad84aa7bec26b0ab1c363ba~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1787470598&x-signature=AKrCUQ74%2FJ78U7wkXeWLANdRNAs%3D",
+      "tags": [],
+      "published_at": "2026-08-15T07:54:42",
+      "read_time_minutes": 5
+    }
+  ]
 }
