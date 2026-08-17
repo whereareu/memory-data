@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-17T16:34:45.429877",
+  "last_updated": "2026-08-17T17:32:43.892030",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "0d3c58ec35ce",
+      "title": "Androidiot蓝牙配网简单封装",
+      "summary": "## Iot_ BLE配网流程: - APP扫描BLE设备，过滤名称前缀IPC_XX_ - 进入配网页，关闭tange、ali其他配网分支 - APP调用preAdd，云端生成会话，拿到add",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674805950424989732",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c835d13c62344b51a4940f55e178a6ff~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQW5kcm9pZOWwj-a4o-a4ow==:q75.awebp?rk3s=f64ab15b&x-expires=1787592760&x-signature=keJN%2Bc%2FK6QT8IdAbEziVKxIsk9Y%3D",
+      "tags": [],
+      "published_at": "2026-08-17T15:15:42",
+      "read_time_minutes": 5
+    }
+  ]
 }
