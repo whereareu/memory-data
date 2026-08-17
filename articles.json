@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-17T09:50:16.188374",
+  "last_updated": "2026-08-17T10:37:54.674589",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "2d6b2703274a",
+      "title": "[Android 从零到一] Compose LazyColumn 性能优化：key、稳定性与重组治理",
+      "summary": "本文深入剖析 LazyColumn 性能问题三大根源：key 配置错误、数据类型不稳定、重组作用域过大，结合实例详解 key 选型、@Immutable 应用、derivedStateOf 隔离、状态",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674870309703090191",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-17T10:02:55",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "ea80861759f9",
+      "title": "【Kotlin 协程修仙录 · 元婴境 · 中阶】 | 操作符真解：Flow 中间操作符与数据流变幻术",
+      "summary": "Flow操作符真解：map/filter/transform变幻数据形态，flatMap三兄弟扁平化流中流，catch与onCompletion管理异常与生命周期。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674818974897537066",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/45ab4c06ab1c476ebd5286e0622c0d12~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Zyw54ux5YuH5aOr:q75.awebp?rk3s=f64ab15b&x-expires=1787567872&x-signature=joFNo29sCrDIqaZgtgION3iT%2Fvc%3D",
+      "tags": [],
+      "published_at": "2026-08-17T09:38:39",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "51d10ee2eebc",
+      "title": "【Kotlin 协程修仙录 · 元婴境 · 初阶】 | 冷流初啼：Flow 的基础与响应式编程的入门",
+      "summary": "Flow冷流的初啼：数据如流水，收放要自如。理解冷流懒加载本质，掌握flow{}构建器与collect终端操作符，让连续数据流优雅地流淌在协程管道中。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674827790673559586",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4e18ebcc603b42bbbad8d912b103e20d~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Zyw54ux5YuH5aOr:q75.awebp?rk3s=f64ab15b&x-expires=1787567872&x-signature=%2FNHzzuQ2%2BVAh0nVm3BpeRFtyBcQ%3D",
+      "tags": [],
+      "published_at": "2026-08-17T09:15:14",
+      "read_time_minutes": 5
+    }
+  ]
 }
