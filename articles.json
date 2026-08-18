@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-18T17:33:27.570274",
+  "last_updated": "2026-08-18T18:48:00.895126",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "295b55cb402e",
+      "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
+      "summary": "小版本大更新，一开始以为 Dart 3.13 没什么大更新，结果一看直接应激了，我感觉这两个版本 Dart 都比 Flutter 团队靠谱多了。 Primary Constructors 比较有意思的",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674383173651824682",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f3574c374b24ea7a20bb8832335f041~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787683679&x-signature=u4PChxk1t1lYyYAJ%2BEaPScKdK0o%3D",
+      "tags": [],
+      "published_at": "2026-08-17T00:53:56",
+      "read_time_minutes": 5
+    }
+  ]
 }
