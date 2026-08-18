@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-18T10:35:21.801049",
+  "last_updated": "2026-08-18T11:31:15.694949",
   "sources": [
     {
       "name": "掘金",
@@ -15,25 +15,13 @@
   ],
   "articles": [
     {
-      "id": "a527aa79eee2",
-      "title": "Android 版 MCP 正式登场：AppFunctions",
-      "summary": "前言 今日，Google 在 Android Developers 上正式发布了 AppFunctions。 即Android 版的 MCP。今天 Carson 来带大家把这个 API 彻底讲透！ 一",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7674818950488932398",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/771012b0cf194e49946f811f2eec73c6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1787654120&x-signature=18Km%2BpSMmdBui%2Fx0z2sR4jaL6kQ%3D",
-      "tags": [],
-      "published_at": "2026-08-17T07:04:13",
-      "read_time_minutes": 5
-    },
-    {
       "id": "295b55cb402e",
       "title": "Dart 3.13 大更新，感觉比 Flutter 更带劲",
       "summary": "小版本大更新，一开始以为 Dart 3.13 没什么大更新，结果一看直接应激了，我感觉这两个版本 Dart 都比 Flutter 团队靠谱多了。 Primary Constructors 比较有意思的",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7674383173651824682",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f3574c374b24ea7a20bb8832335f041~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787654120&x-signature=KObpW3jKSCw9xX11DLyZiAAAmcA%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f3574c374b24ea7a20bb8832335f041~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787657474&x-signature=Upx7lynugk5W8%2BF4jYaGEfT7jo8%3D",
       "tags": [],
       "published_at": "2026-08-17T00:53:56",
       "read_time_minutes": 5
