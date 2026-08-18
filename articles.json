@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-18T03:01:46.006238",
+  "last_updated": "2026-08-18T04:41:36.643077",
   "sources": [
     {
       "name": "掘金",
@@ -21,21 +21,9 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7674878323555385387",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0c77155088da480988291647b122aa4c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787626904&x-signature=fNbnKYtzDB8lZZVueSKRx9WvXmk%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0c77155088da480988291647b122aa4c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787632892&x-signature=DeIf1gNB%2B7f9dJZmFn9K3cRppD4%3D",
       "tags": [],
       "published_at": "2026-08-18T00:55:37",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "9717ccbed4f1",
-      "title": "Android 系统启动机制（二）：init.rc 不是普通脚本，service、action 和 property 怎样驱动启动？",
-      "summary": "把 init.rc 从“脚本”还原为对象与事件模型，串起 rc 解析、trigger、Action 队列、Service fork/exec、进程回收与重启闭环。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7674881198007271459",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ae54db131d3e4fc9842f3eee5c67058f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5piO55qE6L-Q6KGM5pe2:q75.awebp?rk3s=f64ab15b&x-expires=1787626904&x-signature=GKPqMJ1SPANbGNjSl6W%2BOpF%2F5Yg%3D",
-      "tags": [],
-      "published_at": "2026-08-17T12:11:12",
       "read_time_minutes": 5
     }
   ]
