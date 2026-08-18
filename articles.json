@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-18T09:39:32.374035",
+  "last_updated": "2026-08-18T10:35:21.801049",
   "sources": [
     {
       "name": "掘金",
@@ -15,25 +15,13 @@
   ],
   "articles": [
     {
-      "id": "0d3c58ec35ce",
-      "title": "Androidiot蓝牙配网简单封装",
-      "summary": "## Iot_ BLE配网流程: - APP扫描BLE设备，过滤名称前缀IPC_XX_ - 进入配网页，关闭tange、ali其他配网分支 - APP调用preAdd，云端生成会话，拿到add",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7674805950424989732",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c835d13c62344b51a4940f55e178a6ff~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQW5kcm9pZOWwj-a4o-a4ow==:q75.awebp?rk3s=f64ab15b&x-expires=1787650770&x-signature=55xO2tAVYg4zRXQMp12YQiGXUUE%3D",
-      "tags": [],
-      "published_at": "2026-08-17T15:15:42",
-      "read_time_minutes": 5
-    },
-    {
       "id": "a527aa79eee2",
       "title": "Android 版 MCP 正式登场：AppFunctions",
       "summary": "前言 今日，Google 在 Android Developers 上正式发布了 AppFunctions。 即Android 版的 MCP。今天 Carson 来带大家把这个 API 彻底讲透！ 一",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7674818950488932398",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/771012b0cf194e49946f811f2eec73c6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1787650770&x-signature=GTOydFjbugUsriaViy7HLpMmt30%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/771012b0cf194e49946f811f2eec73c6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQ2Fyc29u5bim5L2g5a2mQW5kcm9pZA==:q75.awebp?rk3s=f64ab15b&x-expires=1787654120&x-signature=18Km%2BpSMmdBui%2Fx0z2sR4jaL6kQ%3D",
       "tags": [],
       "published_at": "2026-08-17T07:04:13",
       "read_time_minutes": 5
@@ -45,7 +33,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7674383173651824682",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f3574c374b24ea7a20bb8832335f041~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787650770&x-signature=VU7cA3g%2BLDzKDchZBl%2BkeT9hsHs%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f3574c374b24ea7a20bb8832335f041~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787654120&x-signature=KObpW3jKSCw9xX11DLyZiAAAmcA%3D",
       "tags": [],
       "published_at": "2026-08-17T00:53:56",
       "read_time_minutes": 5
