@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-19T15:37:23.921512",
+  "last_updated": "2026-08-19T16:37:47.826912",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "3db9cd49e0bc",
+      "title": "Flutter 3.47 首坑，analysis_options 问题连环回归",
+      "summary": "Flutter 3.47 刚发布出现 #191056 和 #191131 这两个卧龙凤雏的问题，刚好这个问题还和 Alex 在上海 Google 的 APAC Summit 聊到过，两个问题基本都来自",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7674878323555385387",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0c77155088da480988291647b122aa4c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787762265&x-signature=bPdDP72yuDBv%2Ba0k2WbO7qao0bE%3D",
+      "tags": [],
+      "published_at": "2026-08-18T00:55:37",
+      "read_time_minutes": 5
+    }
+  ]
 }
