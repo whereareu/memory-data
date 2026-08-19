@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-19T08:46:27.925306",
+  "last_updated": "2026-08-19T09:39:54.946573",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "9da06d67bf28",
+      "title": "写了一个某音自动刷视频，通过大模型分析视频主题的Android应用",
+      "summary": "开源地址 https://gitee.com/jeffcat/douyin 主要功能就是 在推荐模块，刷到符合条件的视频 就进行点赞或者收藏~ 目前我还想加的功能是：将浏览记录和点在、收藏记录存sql",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7675565949101981722",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-19T09:28:10",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "52603d8be580",
+      "title": "android12 InputManagerService分析之输入事件如何回到应用层",
+      "summary": "InputDispatcher 从 InputReader 接收事件后，并不会立即盲目发送。它内部维护了一个由 WMS",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7675540232993751059",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-19T08:49:16",
+      "read_time_minutes": 5
+    }
+  ]
 }
