@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-19T04:43:07.562112",
+  "last_updated": "2026-08-19T05:36:32.288611",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "43dd33a7da2d",
-      "title": "社区版 Dart macros？一个可以解决 JSON 序列化的Fluter “宏编程”第三方包",
-      "summary": "有点意思，社区最近发布了一个叫 dmx 的第三方包，主要是做 Dart 源码内联的 Code Generator，而且和 Freezed / json_serializable / build_run",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7675265690036273158",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c9956ecf8e9a4c65bbeeff2568d6f66c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787719384&x-signature=mbWsaHxEWOAy%2Bhy8gp4PJQhwkGM%3D",
-      "tags": [],
-      "published_at": "2026-08-19T00:50:52",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
