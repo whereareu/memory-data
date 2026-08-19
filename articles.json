@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-19T09:39:54.946573",
+  "last_updated": "2026-08-19T10:35:14.021978",
   "sources": [
     {
       "name": "掘金",
@@ -15,27 +15,15 @@
   ],
   "articles": [
     {
-      "id": "9da06d67bf28",
-      "title": "写了一个某音自动刷视频，通过大模型分析视频主题的Android应用",
-      "summary": "开源地址 https://gitee.com/jeffcat/douyin 主要功能就是 在推荐模块，刷到符合条件的视频 就进行点赞或者收藏~ 目前我还想加的功能是：将浏览记录和点在、收藏记录存sql",
+      "id": "3db9cd49e0bc",
+      "title": "Flutter 3.47 首坑，analysis_options 问题连环回归",
+      "summary": "Flutter 3.47 刚发布出现 #191056 和 #191131 这两个卧龙凤雏的问题，刚好这个问题还和 Alex 在上海 Google 的 APAC Summit 聊到过，两个问题基本都来自",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7675565949101981722",
-      "cover_image": "",
+      "url": "https://juejin.cn/post/7674878323555385387",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0c77155088da480988291647b122aa4c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787740512&x-signature=d876MuZ5YttOUg0SRrXCnZTTrvQ%3D",
       "tags": [],
-      "published_at": "2026-08-19T09:28:10",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "52603d8be580",
-      "title": "android12 InputManagerService分析之输入事件如何回到应用层",
-      "summary": "InputDispatcher 从 InputReader 接收事件后，并不会立即盲目发送。它内部维护了一个由 WMS",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7675540232993751059",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-08-19T08:49:16",
+      "published_at": "2026-08-18T00:55:37",
       "read_time_minutes": 5
     }
   ]
