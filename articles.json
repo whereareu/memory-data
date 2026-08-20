@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-19T23:28:21.862196",
+  "last_updated": "2026-08-20T01:40:36.602724",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,27 @@
   ],
   "articles": [
     {
-      "id": "3db9cd49e0bc",
-      "title": "Flutter 3.47 首坑，analysis_options 问题连环回归",
-      "summary": "Flutter 3.47 刚发布出现 #191056 和 #191131 这两个卧龙凤雏的问题，刚好这个问题还和 Alex 在上海 Google 的 APAC Summit 聊到过，两个问题基本都来自",
+      "id": "52d3deafab87",
+      "title": "Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产",
+      "summary": "实际上我们聊谷歌和 Flutter 的 A2UI 挺多次了，但是有个问题之前一直被提到：LLM 生成界面的速度太慢了，比如一次 Generative UI 请求，就需要经历： 所以 Flutter 官",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7674878323555385387",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0c77155088da480988291647b122aa4c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787786899&x-signature=qyQ33kP0ZVzYos3tDK%2F2xrYSslk%3D",
+      "url": "https://juejin.cn/post/7675633667490267179",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d78bb09982bb4acc89b8985ad222c3c8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787794834&x-signature=WDMpzUIkAJr7MXnXukfw4ITX7go%3D",
       "tags": [],
-      "published_at": "2026-08-18T00:55:37",
+      "published_at": "2026-08-20T00:51:01",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "6489ef41ffba",
+      "title": "Android 架构进阶：为什么项目越大，越需要把对象创建权拿走",
+      "summary": "刚开始写 Android 项目的时候，我其实不太理解 DI 有什么必要。 一个对象而已： `",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7675615031892394030",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/217e85bc6b984c849a08fabec8cac0de~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&x-expires=1787794834&x-signature=jp1Oa1tZTlajg33hmOPApFSD7CA%3D",
+      "tags": [],
+      "published_at": "2026-08-19T23:46:53",
       "read_time_minutes": 5
     }
   ]
