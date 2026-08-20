@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-20T09:41:09.743765",
+  "last_updated": "2026-08-20T10:37:10.325956",
   "sources": [
     {
       "name": "掘金",
@@ -14,18 +14,6 @@
     }
   ],
   "articles": [
-    {
-      "id": "3eefe570721e",
-      "title": "BroadcastReceiver 静态注册与动态注册-《Android深水区（七）》",
-      "summary": "它真正解决的问题是：系统或应用中发生了某个事件，Android 需要把一个 Intent 分发给符合条件的接收者，并在很短时间内完成回调。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7675923224396070975",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-08-20T08:36:17",
-      "read_time_minutes": 5
-    },
     {
       "id": "099933c77f68",
       "title": "三星安卓系统BUG排查记录：云闪付、铁路12306、个人所得税、中国移动等App，长期闪退的根本原因分析",
@@ -45,7 +33,7 @@
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7675265690036273158",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c9956ecf8e9a4c65bbeeff2568d6f66c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787823668&x-signature=rHlu0yCR2MPoeOLEG712P%2FDZsvE%3D",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c9956ecf8e9a4c65bbeeff2568d6f66c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787827028&x-signature=PTgaM0xc7m0uUdv95bcWZ%2BTqaNg%3D",
       "tags": [],
       "published_at": "2026-08-19T00:50:52",
       "read_time_minutes": 5
