@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-20T17:35:48.078275",
+  "last_updated": "2026-08-20T18:49:51.971453",
   "sources": [
     {
       "name": "掘金",
@@ -13,42 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "91bef4d92f90",
-      "title": "深入理解 Java/Kotlin 反射、注解与泛型：从原理到实战",
-      "summary": "本文深入解析Java与Kotlin的反射、注解及泛型机制。结合View注入实战剖析属性裂变原理，并彻底揭秘泛型擦除本质与获取真实泛型类型的底层逻辑。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7676097646553808923",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d6452bdb7be14c7ba0a7f828b6fe16bb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6Zuo55m9:q75.awebp?rk3s=f64ab15b&x-expires=1787852146&x-signature=iP3fj0OCasU1K5z7i0RPegBF4FY%3D",
-      "tags": [],
-      "published_at": "2026-08-20T16:21:15",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "099933c77f68",
-      "title": "三星安卓系统BUG排查记录：云闪付、铁路12306、个人所得税、中国移动等App，长期闪退的根本原因分析",
-      "summary": "这次我在三星OneUI系统发现的BUG，影响范围大，存在时间久，刻意去复现比较难。众多App，包括云闪付、铁路12306、个人所得税、中国移动等App，应用商店的骂声，其实都是因为这个BUG。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7675626442046832694",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-08-19T16:05:46",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "43dd33a7da2d",
-      "title": "社区版 Dart macros？一个可以解决 JSON 序列化的Fluter “宏编程”第三方包",
-      "summary": "有点意思，社区最近发布了一个叫 dmx 的第三方包，主要是做 Dart 源码内联的 Code Generator，而且和 Freezed / json_serializable / build_run",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7675265690036273158",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c9956ecf8e9a4c65bbeeff2568d6f66c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787852146&x-signature=H8ojv9tFETSsrh7mXVXx5gWkmS4%3D",
-      "tags": [],
-      "published_at": "2026-08-19T00:50:52",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
