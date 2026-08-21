@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-21T18:46:38.557529",
+  "last_updated": "2026-08-21T19:29:51.760863",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "52d3deafab87",
-      "title": "Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产",
-      "summary": "实际上我们聊谷歌和 Flutter 的 A2UI 挺多次了，但是有个问题之前一直被提到：LLM 生成界面的速度太慢了，比如一次 Generative UI 请求，就需要经历： 所以 Flutter 官",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7675633667490267179",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d78bb09982bb4acc89b8985ad222c3c8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787942796&x-signature=fR5S5om2xuqcHHULwsjBGNuB7Io%3D",
-      "tags": [],
-      "published_at": "2026-08-20T00:51:01",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
