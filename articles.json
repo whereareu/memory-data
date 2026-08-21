@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-21T13:00:42.864897",
+  "last_updated": "2026-08-21T14:41:34.176643",
   "sources": [
     {
       "name": "掘金",
@@ -15,37 +15,13 @@
   ],
   "articles": [
     {
-      "id": "90b9ec6ff963",
-      "title": "【Compose 系列】第 1 篇：认识 Compose，为什么要学它",
-      "summary": "一、先讲一个故事：装修房间的两种方式 想象你要装修一个房间，有两种干活方式。 方式 A：命令式（imperative） 你拿着清单，一步步指挥工人： 在墙上钉一个挂钩。 如果衣架挂了 3 件衣服，就把",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7676304510919557146",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-08-21T08:16:15",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "810e7ce07018",
-      "title": "Flutter 实战：图片上传前的压缩优化，解决带宽与存储的“大户”问题",
-      "summary": "一、痛点：图片上传太慢，流量也费 在做移动端开发时，图片上传往往是影响应用性能和带宽消耗的“大户”。 开发初期，逻辑看起来非常简单：用户选图 $\\to$ 调用上传 $\\to$ 结束。在测试环境下，哪怕",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7675679286814867462",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/13e7248b02ef4bdeac7dc984a6bc45e8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1787922028&x-signature=7GZO80aBRq%2BciY1DZUT%2BFcP%2F%2ByY%3D",
-      "tags": [],
-      "published_at": "2026-08-20T07:07:58",
-      "read_time_minutes": 5
-    },
-    {
       "id": "52d3deafab87",
       "title": "Flutter A2UI 的正确用法，怎么把 AI 和动态 UI 结合有效生产",
       "summary": "实际上我们聊谷歌和 Flutter 的 A2UI 挺多次了，但是有个问题之前一直被提到：LLM 生成界面的速度太慢了，比如一次 Generative UI 请求，就需要经历： 所以 Flutter 官",
       "author": "掘金作者",
       "source": "掘金",
       "url": "https://juejin.cn/post/7675633667490267179",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d78bb09982bb4acc89b8985ad222c3c8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787922028&x-signature=rrLPoQyw%2BGq8A%2F1OutxC2CXpxnE%3D",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/d78bb09982bb4acc89b8985ad222c3c8~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1787928091&x-signature=kvcoPKjeRu2SZ8iMllM1t1d4%2Fz8%3D",
       "tags": [],
       "published_at": "2026-08-20T00:51:01",
       "read_time_minutes": 5
