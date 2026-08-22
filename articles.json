@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-22T07:36:50.005441",
+  "last_updated": "2026-08-22T08:37:30.438829",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "442cc2e72625",
+      "title": "Flutter (二十) 轮播图",
+      "summary": "轮播图 CarouselView系统自带的,基于CustomScrollView。 CarouselSlider 第三方插件,基于PageView。 CarouselView reverse 默认第一",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7676436966323748864",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-22T05:26:07",
+      "read_time_minutes": 5
+    }
+  ]
 }
