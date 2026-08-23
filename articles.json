@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-23T19:26:56.685682",
+  "last_updated": "2026-08-23T20:30:20.800491",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "513aa90a94ed",
+      "title": "Android12Launcher3实现应用裁剪",
+      "summary": "Android12Launcher3实现应用裁剪 1.移除系统应用的关键代码如下： 在device.mk或device-verdor.mk添加如下配置 2.日历从安装列表中移除 PRODUCT_PAC",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7677218586256326671",
+      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/75b12e71d2824117b6a13469761a9b78~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQW5kcm9pZOWwj-a4o-a4ow==:q75.awebp?rk3s=f64ab15b&x-expires=1788121818&x-signature=qCqWpbAe8s7zVtzudwEZT2IrNvU%3D",
+      "tags": [],
+      "published_at": "2026-08-23T17:22:23",
+      "read_time_minutes": 5
+    }
+  ]
 }
