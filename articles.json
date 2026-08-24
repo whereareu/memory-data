@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-24T15:45:58.956526",
+  "last_updated": "2026-08-24T16:45:59.614117",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "6015b890d351",
+      "title": "Flutter + Unity 混合开发：用 unity_kit 实现高效的双向通信",
+      "summary": "一、痛点：混合开发最怕通信难 大家都知道 Flutter 开发移动端应用非常高效，但如果你想在应用里加入一些高性能的 3D 游戏、AR/VR 交互内容或者复杂的物理模拟，Flutter 本身就显得有些",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7677432175923396648",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/f906b256f86c433b8d5cc14983de36d4~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1788194758&x-signature=75vdimGJD6skvnWw9oQCfYZmZng%3D",
+      "tags": [],
+      "published_at": "2026-08-24T11:23:45",
+      "read_time_minutes": 5
+    }
+  ]
 }
