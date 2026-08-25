@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-25T10:38:59.850986",
+  "last_updated": "2026-08-25T11:34:05.729265",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "eddd8733764d",
+      "title": "【Flutter 性能踩坑小记】相册选个图卡了",
+      "summary": "前言：真的不是系统 Picker 慢 事情是这样的。Demo 上线前我在模拟器上跑「发图给 AI」的流程，顺手选了一张照片，结果： 📱 点相册 → 系统弹框出现：正常 🖼️ 选图 → 点「完成」：",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7677803387144388617",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/87d9844758ae4294993f988ed740e6a6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSn6b6E56eD5aS056iL5bqP5ZGY:q75.awebp?rk3s=f64ab15b&x-expires=1788262442&x-signature=9lddq8LnSHrrSKpuOcE62uW8xvc%3D",
+      "tags": [],
+      "published_at": "2026-08-25T09:59:34",
+      "read_time_minutes": 5
+    }
+  ]
 }
