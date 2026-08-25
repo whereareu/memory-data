@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-25T18:48:29.446818",
+  "last_updated": "2026-08-25T19:37:01.419618",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "a374bff6fd98",
-      "title": "Flutter 实战：使用 local_auth 实现生物识别（指纹/Face ID）",
-      "summary": "一、概述 在开发金融类或者涉及隐私的应用时，指纹识别或 Face ID 的身份验证是必不可少的。在 Flutter 中，我们通常会直接使用官方维护的 local_auth 库来解决这个问题。 不过，这",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7677837705736945715",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ff5e0391186b4e19ae36afe0c8eced0c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1788288507&x-signature=9mronEpHTwWfz3D2QQIr33%2BwdwA%3D",
-      "tags": [],
-      "published_at": "2026-08-25T12:14:36",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
