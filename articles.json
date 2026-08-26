@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-25T23:30:20.863454",
+  "last_updated": "2026-08-26T01:46:43.024073",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "a374bff6fd98",
-      "title": "Flutter 实战：使用 local_auth 实现生物识别（指纹/Face ID）",
-      "summary": "一、概述 在开发金融类或者涉及隐私的应用时，指纹识别或 Face ID 的身份验证是必不可少的。在 Flutter 中，我们通常会直接使用官方维护的 local_auth 库来解决这个问题。 不过，这",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7677837705736945715",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ff5e0391186b4e19ae36afe0c8eced0c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgR2l0THFy:q75.awebp?rk3s=f64ab15b&x-expires=1788305419&x-signature=sO6Rgy06tyU8hV6%2BMnn%2FDvy91J4%3D",
-      "tags": [],
-      "published_at": "2026-08-25T12:14:36",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "eddd8733764d",
-      "title": "【Flutter 性能踩坑小记】相册选个图卡了",
-      "summary": "前言：真的不是系统 Picker 慢 事情是这样的。Demo 上线前我在模拟器上跑「发图给 AI」的流程，顺手选了一张照片，结果： 📱 点相册 → 系统弹框出现：正常 🖼️ 选图 → 点「完成」：",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7677803387144388617",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/87d9844758ae4294993f988ed740e6a6~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5aSn6b6E56eD5aS056iL5bqP5ZGY:q75.awebp?rk3s=f64ab15b&x-expires=1788305419&x-signature=rHZMiim%2FO1wshqmRfdSGSB6WAKk%3D",
-      "tags": [],
-      "published_at": "2026-08-25T09:59:34",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
