@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-01T04:44:47.092143",
+  "last_updated": "2026-09-01T09:53:15.500698",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "123a27196021",
+      "title": "Android-日志系统源码解析",
+      "summary": "Android 日志系统源码解析：从 Log.i() 到 logcat 输出，一条日志的完整旅程 1. 全景图：一条日志的一生 先给结论。你在屏幕上看到的一行日志： 背后的完整链路是这样的： 三个核心",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7680416522599088154",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-09-01T08:52:59",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "3d26cfd37d23",
+      "title": "Android 17 +  OkHttp 5.5.0 ，全新 ECH 下你的 HTTPS 域名可以请求时被安全隐藏",
+      "summary": "在 Android 17 上目前官方主要增加了几个网络安全能力：Encrypted Client Hello、局域网权限隔离、默认证书透明度检查，这里面我感觉最有意思的是 Android 17 与 O",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7680110774044475398",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/184f9c6e5e44431bbb125286c6a9d0de~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1788861193&x-signature=hLnjuJE%2FkEQk01kwZyB2X8JucBo%3D",
+      "tags": [],
+      "published_at": "2026-09-01T08:32:36",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "82f7d27ebe2f",
+      "title": "不只是让 AI 写代码：ViewCompose 把 Android UI 做成了可编译、可渲染的闭环",
+      "summary": "ViewCompose 将版本化 AI 知识、MCP、Agent Skill 与编译/Preview 验证打包发布，让常见 AI Agent 两条命令接入新旧 Android 项目。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7679666563793338404",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-08-31T04:05:43",
+      "read_time_minutes": 5
+    }
+  ]
 }
