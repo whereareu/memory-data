@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-03T04:13:37.999573",
+  "last_updated": "2026-09-03T09:34:44.957034",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "1638037a3c10",
-      "title": "[Android 从零到一] APK 体积优化实战：从 50MB 到 15MB 的瘦身之旅",
-      "summary": "在移动应用开发中，APK 体积直接影响用户下载意愿和留存率。据 Google 统计，APK 每增加 6MB，安装转化率下降 1%。本文将系统讲解 APK 瘦身的完整方案，从资源优化到代码混淆，帮助你将",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7680850719454642217",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-09-03T03:17:51",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "5d7acc1e67f1",
-      "title": "AI 时代，也许你的 Flutter 需要一套 Dartastic OpenTelemetry 监控",
-      "summary": "先简单说说 OpenTelemetry，大家应该不陌生，它是一个供应商无关的开源可观测性框架，可以用于检测、生成、收集和导出遥测数据，比如 traces、metrics和 logs 等，因为 OTel",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7680757400489738276",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b2a154dc867646929a6643033f4301b0~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1789013616&x-signature=GaZEKVEaUrFEJAhAOKcjs13L83E%3D",
-      "tags": [],
-      "published_at": "2026-09-03T01:15:48",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
