@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-05T04:04:42.280473",
+  "last_updated": "2026-09-05T08:54:49.352785",
   "sources": [
     {
       "name": "掘金",
@@ -13,54 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "55d4235e8fc3",
-      "title": "Android 系统启动机制（六）：Zygote 创建 App 为什么走 Socket？哪些是源码事实，哪些是架构解释？",
-      "summary": "追踪普通 App 从 ProcessList 经 Zygote socket 到 fork、specialize 的路径，并区分可直接证明的实现事实与关于“为何不用 Binder”的架构解释。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7681511201547255842",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/316067d7926b422481eb8fb3da284a1b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5piO55qE6L-Q6KGM5pe2:q75.awebp?rk3s=f64ab15b&x-expires=1789185878&x-signature=U0cEzpdA27lN9FdeiuGU%2FqZZuLQ%3D",
-      "tags": [],
-      "published_at": "2026-09-05T02:58:46",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "d90f08381b01",
-      "title": "Android Studio 运行 Flutter iOS 真机白屏，但 Xcode 和命令行正常的排查记录",
-      "summary": "Android Studio 运行 Flutter iOS 真机白屏，但 Xcode 和命令行正常的排查记录 最近在调试一个 Flutter 项目时遇到一个比较迷惑的问题： 同一台 iOS 26 真机",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7681839831924703251",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-09-05T02:57:01",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "456f2b2a3427",
-      "title": "Flutter 进阶 | 组件封装：用 CustomPainter 实现光环动画组件AnimatedHalo",
-      "summary": "一、需求来源 「开发呼吸灯/雷达样式组件时遇到一个痛点：设计稿给的是 Aninix/Lottie 动画（72×72、60fps、89 帧），直接引 Lottie 资源包体大、还依赖第三方运行时。」 常",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7681560399858794546",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-09-05T01:01:34",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "1bc6a3d77c99",
-      "title": "聊个比较有意思的 Flutter Web 问题",
-      "summary": "首先是，前段时间 Flutter 和 Dart 的官网都选择离开 medium ，然后迁到了自己的域名下，你觉得是为什么？ 其实理由很简单，之前的 Flutter Web 不支持 SEO ，所以 Fl",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7681411791876177983",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/49b0c9d1f30e4e36b00e654a43645fbf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1789185878&x-signature=g1nkHPHMj9JWgSGbBMn%2B%2FgqCUgA%3D",
-      "tags": [],
-      "published_at": "2026-09-04T01:05:17",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
