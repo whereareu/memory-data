@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-05T18:04:26.649069",
+  "last_updated": "2026-09-05T21:04:16.399559",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "1bc6a3d77c99",
-      "title": "聊个比较有意思的 Flutter Web 问题",
-      "summary": "首先是，前段时间 Flutter 和 Dart 的官网都选择离开 medium ，然后迁到了自己的域名下，你觉得是为什么？ 其实理由很简单，之前的 Flutter Web 不支持 SEO ，所以 Fl",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7681411791876177983",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/49b0c9d1f30e4e36b00e654a43645fbf~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1789236264&x-signature=G3fSweOgvMjI%2F%2F72jl9dyCRY4Y8%3D",
-      "tags": [],
-      "published_at": "2026-09-04T01:05:17",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
