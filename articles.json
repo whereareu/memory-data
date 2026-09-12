@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-11T22:24:23.470353",
+  "last_updated": "2026-09-12T01:00:00.442384",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "5626e96466da",
+      "title": "Shopify 从 React Native 回到 Swift/Kotlin，但是你以为有手就行？？",
+      "summary": "最近 Shopify 宣布公司已经把旗下 App 从 React Native 转回 Swift 和 Kotlin ，就像六年前 Shopify 那时候也高调宣布 “React Native is t",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7683816340574617663",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/a674e659601e43ce97057a926a314a2e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1789779597&x-signature=DaIB2cqQrgZSWfA8%2BPks5M3vnXg%3D",
+      "tags": [],
+      "published_at": "2026-09-11T02:50:32",
+      "read_time_minutes": 5
+    }
+  ]
 }
