@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-13T00:46:26.066978",
+  "last_updated": "2026-09-13T05:53:28.485717",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "9c60d5ebad41",
+      "title": "Android WebRTC + H.265 适配记录",
+      "summary": "记录早期 Android WebRTC 接入 H.265 的完整方案，包括 OWT 编译、依赖替换、RTP 链路与硬件编码检查，并说明该方案现已过时。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7684163263413829651",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-09-12T13:29:25",
+      "read_time_minutes": 5
+    }
+  ]
 }
