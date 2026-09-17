@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-17T01:15:08.067902",
+  "last_updated": "2026-09-17T07:29:24.869636",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "49ab2e389c8d",
+      "title": "Flutter iOS UISceneDelegate 迁移指南：理清新的 Scene 生命周期",
+      "summary": "引言 如果你最近升级了 Flutter 项目或 Xcode，可能已经遇到了与 UISceneDelegate 相关的警告或构建问题。 Apple 在 iOS 13 中引入了基于 Scene 的生命周期",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7686066928100900879",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3c2732a7a8734401946529723dde49fb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgSG91V2Fu:q75.awebp?rk3s=f64ab15b&x-expires=1790234961&x-signature=hANJJ%2BuNA4sr1Yd2PXnQpT4P1ag%3D",
+      "tags": [],
+      "published_at": "2026-09-17T04:06:39",
+      "read_time_minutes": 5
+    }
+  ]
 }
