@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-16T22:00:54.714618",
+  "last_updated": "2026-09-17T01:15:08.067902",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "cb104fc6f9a9",
-      "title": "docker compose V2版本新属性",
-      "summary": "前言 Docker Compose V2 是目前 Docker 生态中默认且推荐的编排工具版本。它不再是独立的 Python 程序，而是作为 Docker CLI 的原生插件（Go 语言编写）直接集成",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7686040694947332105",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-09-16T16:13:19",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
