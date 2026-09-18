@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-18T01:10:37.629340",
+  "last_updated": "2026-09-18T07:17:57.997678",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "fb5835e1b563",
-      "title": "使用 Docker-compose 搭建SRS直播中转服务端",
-      "summary": "前言 我们知道, 直播的完整闭环核心链条是由推流端→中转端→播放端三个部分组成的: 推流端（采集+编码+上传）：负责把现场音视频或者录制好的文件“打包装箱”，推到服务器。工具如 OBS、Kplayer",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7686401413473304582",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-09-18T00:26:59",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
