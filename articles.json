@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-19T04:16:47.718374",
+  "last_updated": "2026-09-19T09:19:55.558177",
   "sources": [
     {
       "name": "掘金",
@@ -15,27 +15,27 @@
   ],
   "articles": [
     {
-      "id": "7deeb52ebaa6",
-      "title": "Android 系统启动机制（八）：系统服务怎样从创建走到可用？SystemServiceManager 和 Boot Phase 各管什么？",
-      "summary": "拆开构造、发布、Boot Phase 与业务 ready，说明 SystemServer 显式顺序、SystemServiceManager 和服务专用回调各管什么。",
+      "id": "b7f6c9bd9d04",
+      "title": "Android-休眠唤醒后onLocationChanged没有数据问题排查",
+      "summary": "车机休眠唤醒后 28 分钟onLocationChanged没有 数据上报?——记一次 Android GNSS 电源恢复缺陷的完整排查 一、问题现象 测试反馈的现象非常\"诡异\": 底层团队的反馈是\"",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7686766424309071914",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/64e3266c92644c51bc5cb374e4d89d61~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5bCP5piO55qE6L-Q6KGM5pe2:q75.awebp?rk3s=f64ab15b&x-expires=1790396205&x-signature=q8gk%2BwcKRQM1c4HzpepKPSguJ8w%3D",
+      "url": "https://juejin.cn/post/7686803938521022474",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-09-18T14:33:56",
+      "published_at": "2026-09-19T08:19:58",
       "read_time_minutes": 5
     },
     {
-      "id": "c139d06df02d",
-      "title": "Android 组件化开发实践",
-      "summary": "核心思路一句话：业务模块互不依赖、可独立运行，壳工程负责集成打包。下面全部围绕直播业务场景下的关键代码展开。",
+      "id": "0e0c4fd6f0be",
+      "title": "Flutter 折叠组件 ExpansionTile ExpansionPanelList",
+      "summary": "在 Flutter 中，ExpansionTile 是一个非常常用的组件，用于创建可折叠/展开的列表项。它通常用于实现 FAQ、设置面板或分组列表等功能。 1. 基本使用 最基础的用法是提供一个标题（",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7686745928792653862",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/db1b9225cd564ae095d67b6500a33281~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgaGFpX2FuZHJvaWQ=:q75.awebp?rk3s=f64ab15b&x-expires=1790396205&x-signature=PsGA2keaKaanFM3gs2kjFv2XV9w%3D",
+      "url": "https://juejin.cn/post/7686780705862795270",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-09-18T13:37:58",
+      "published_at": "2026-09-19T06:40:15",
       "read_time_minutes": 5
     }
   ]
