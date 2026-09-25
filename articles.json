@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-25T13:33:39.418720",
+  "last_updated": "2026-09-25T18:26:20.311651",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,42 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "dc6f12a6e80b",
+      "title": "Flutter 获取 iPhone Duo 预留区位置",
+      "summary": "摘要 tw_iphone_duo_reserved_region 将 iOS 当前激活的遮挡区域转换为 Flutter 窗口逻辑坐标中的 Rect。需要为自定义界面避开摄像头等局部遮挡时，可以读取这些",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7688917667420717091",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/12414638533b4aebac7a33df0308a49a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgemVxaW5qaWU=:q75.awebp?rk3s=f64ab15b&x-expires=1790965578&x-signature=uzVEcmvyB7z%2B0z1VGaZsdAcqnF0%3D",
+      "tags": [],
+      "published_at": "2026-09-24T10:34:05",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "e87abceb37a3",
+      "title": "Android HWC退化与防治方法",
+      "summary": "前言 Android 技术目前已经非常成熟了，无论是硬件还是软件，当前大环境下，为数不多的创新主要还集中在AI应用层面，当前比较尴尬的是AI应用也非常依赖后端算力，On-Device AI总体来说没有",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7688689006075756580",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0f7b77c774fa499c9f3ee41bfc7bfc58~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5pe25YWJ5bCR5bm0:q75.awebp?rk3s=f64ab15b&x-expires=1790965578&x-signature=D45hA3nfm49mvBZrbifHqwPyvY4%3D",
+      "tags": [],
+      "published_at": "2026-09-24T06:59:14",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "2eb9594c09d4",
+      "title": "Flutter Golden Tests：给 AI Agent 的 UI 测试系统",
+      "summary": "最近 ASO.dev 发了一个 Flutter Golden Test ，开源了两个工具： ff_golden 负责场景执行、变体矩阵、截图与比较 ff_golden_presenter 负责Diff",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7688611918492008490",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/cb7f41c99274466fbcd4a5aa09f31639~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1790965578&x-signature=fstjNcimS8bXTj4eQRQff7SJFRU%3D",
+      "tags": [],
+      "published_at": "2026-09-24T00:54:38",
+      "read_time_minutes": 5
+    }
+  ]
 }
