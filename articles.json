@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-30T20:42:43.607890",
+  "last_updated": "2026-10-01T00:28:10.410572",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "5f9f639fdb08",
+      "title": "Android 原生的 Compose A2UI 也来了，你还抱着 XML 养老吗？",
+      "summary": "Andorid Compose 的 A2UI 终于正式落地 AndroidX 了，这个我们在 Flutter 已经聊过很多次了，这次还是官方第一次通过 Compose Renderer 的形态落地到",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7691030977347207231",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0349c6b2201049b09d80498c9140881e~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1791419279&x-signature=xc6WLZg7neqMFfEbBR%2B5MlRv3fQ%3D",
+      "tags": [],
+      "published_at": "2026-09-30T07:30:39",
+      "read_time_minutes": 5
+    }
+  ]
 }
