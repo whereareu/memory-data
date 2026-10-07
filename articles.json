@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-07T00:33:02.778897",
+  "last_updated": "2026-10-07T07:04:34.254629",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "7028490b7596",
-      "title": "AI 时代，我们都将成为通才型开发者：只懂 Android，已经不够了",
-      "summary": "AI 时代，我们都将成为通才 大家好，今天分享的主题是： We Will All Be Generalists 这是 Philipp Lackner 最近分享的一个观点。 他长期专注于 Android",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7693358476032049162",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4c8f37c6f47a4238826c339a9aa7a2d2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&x-expires=1791937980&x-signature=1ev0Z0JRJyk1UGs%2FQAJYdZyY8ic%3D",
-      "tags": [],
-      "published_at": "2026-10-06T11:50:40",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "586bb88c7781",
-      "title": "Flutter 列表图片内存优化：CachedNetworkImage 与 ClipRRect 的取舍",
-      "summary": "Flutter 列表图片滚动后内存攀升。作者对比 imageBuilder 与 ClipRRect，最终以少量 GPU 开销换取更稳定的内存表现。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7693018382871691302",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-10-06T10:01:55",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
