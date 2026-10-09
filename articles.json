@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-09T01:59:33.203379",
+  "last_updated": "2026-10-09T08:54:10.263208",
   "sources": [
     {
       "name": "掘金",
@@ -15,15 +15,15 @@
   ],
   "articles": [
     {
-      "id": "26d40128fd42",
-      "title": "Flutter + EmbeddingGemma 2，谷歌发布完全端侧的 AI Edge Foresight",
-      "summary": "最近谷歌发布的 EmbeddingGemma 2 ，终于是把端侧的文本向量模型扩成了一套端侧多模态检索 backbone，支持 740M 参数、 100+ 语言，文本、代码、图片、视频和音频进入同一个",
+      "id": "6d35e9904be0",
+      "title": "Kotlin 新特性抢先看：伴生扩展与伴生块",
+      "summary": "没有 Companion 的类也能写伴生扩展了？再少写一个 object，新的伴生特性能带来什么？来尝尝 Kotlin 2.5 的新特性。",
       "author": "掘金作者",
       "source": "掘金",
-      "url": "https://juejin.cn/post/7694205589761343503",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/145dea6f49ee4cab83f1f81e1a57634b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1792115971&x-signature=WpOcJeNpsye2Eu4WS2r9ubexoLY%3D",
+      "url": "https://juejin.cn/post/7694485613907001390",
+      "cover_image": "",
       "tags": [],
-      "published_at": "2026-10-09T01:51:07",
+      "published_at": "2026-10-09T07:16:00",
       "read_time_minutes": 5
     }
   ]
