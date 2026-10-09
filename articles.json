@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-09T08:54:10.263208",
+  "last_updated": "2026-10-09T16:03:25.688366",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "6d35e9904be0",
-      "title": "Kotlin 新特性抢先看：伴生扩展与伴生块",
-      "summary": "没有 Companion 的类也能写伴生扩展了？再少写一个 object，新的伴生特性能带来什么？来尝尝 Kotlin 2.5 的新特性。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7694485613907001390",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-10-09T07:16:00",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
