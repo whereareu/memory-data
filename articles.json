@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-10T08:20:55.060629",
+  "last_updated": "2026-10-10T15:11:50.717140",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "82285f63403b",
-      "title": "MasterGo + Claude Code 生成 Android 布局：完整实践指南",
-      "summary": "MasterGo + Claude Code 生成 Android 布局：完整实践指南 用 Claude Code 把 MasterGo 设计稿转成 Android 布局，我前几次得到的结果都不太能看",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7694632392433500186",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7aebf69a496b4144993816edd7386ba3~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgeGlhb3pvbmd0MTk4OQ==:q75.awebp?rk3s=f64ab15b&x-expires=1792225250&x-signature=Tcw7eXK4ngzd8dgCKcVFJEPtAfY%3D",
-      "tags": [],
-      "published_at": "2026-10-10T05:15:32",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
