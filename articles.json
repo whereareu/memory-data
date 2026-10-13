@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-12T18:55:40.954131",
+  "last_updated": "2026-10-13T01:13:49.093330",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "c61b29a16e2f",
+      "title": "Flitz ，一个把 Flutter 玩成热插拔 Preview 的有趣项目，不错的思路",
+      "summary": "Flitz 是 LeanCode 的一个新产品，他家的项目我们之前介绍过类似 Patrol 、Marionette 之类的，这次的这个 Flitz 也挺有意思的，类似 Android 和 iOS 版的",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7695613822451384370",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/3ccfbe133b6d4fe2aac130c0f6e8903c~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1792458826&x-signature=oNLLaHrcixn0fcTrHpUklq3YUUQ%3D",
+      "tags": [],
+      "published_at": "2026-10-13T00:58:11",
+      "read_time_minutes": 5
+    }
+  ]
 }
