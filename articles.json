@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-13T17:29:56.153653",
+  "last_updated": "2026-10-13T22:32:26.471452",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "0e43b4c37a8d",
+      "title": "Flutter你看看人家RN",
+      "summary": "RN生态的Callstack推出了专属微调模型Apex，而Flutter作为AI编程里更需要后训练的框架，却迟迟等不来谷歌的定制优化。等不来的情况下，我们自己能做什么？",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7695940923273478154",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/c305aa8c51ca4acba1102532d36279f2~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56iL5bqP5ZGY6ICB5YiY:q75.awebp?rk3s=f64ab15b&x-expires=1792535544&x-signature=jVPa6vrxu9wxAR3bQZa44FHC%2F6Y%3D",
+      "tags": [],
+      "published_at": "2026-10-13T09:24:38",
+      "read_time_minutes": 5
+    }
+  ]
 }
