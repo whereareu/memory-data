@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-20T00:13:16.836213",
+  "last_updated": "2026-10-20T05:50:00.131020",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "04e028d2d354",
-      "title": "扫码枪响了，应用却没收到：一次 Android USB 线材问题排查",
-      "summary": "外接 USB 扫码枪偶尔“滴滴”两声，应用没有任何反应。刚插入时容易出现，休眠后再次使用时也容易出现。 这种现象很容易让开发者怀疑监听没启动、首条数据被丢弃，或者休眠恢复后需要重新初始化 SDK。这次",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7698294342289358858",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-10-19T23:58:23",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
