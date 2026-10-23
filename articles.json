@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-22T23:09:48.568723",
+  "last_updated": "2026-10-23T04:24:13.202237",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "3322a83ce348",
+      "title": "你在 XML 时代学的渲染优化，进了 Compose 大多不再是重点——Recomposition 才是新的战场",
+      "summary": "XML 时代的过度绘制、层级压平，到了 Compose 大多不再是重点——新战场是重组。本文用 Layout Inspector 定位问题，讲清触发与稳定性规则，四步修复搜索列表页，真机数据验证。",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7699368463357755443",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-10-22T12:51:39",
+      "read_time_minutes": 5
+    }
+  ]
 }
