@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-26T12:45:15.876102",
+  "last_updated": "2026-10-26T19:07:25.121385",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "62bbd21ce77b",
+      "title": "一天一个开源项目（第248篇）：CleanYourTV —— 让 AI 编程助手通过 Wi-Fi 给安卓电视去广告、换上 Apple TV 风格主屏",
+      "summary": "CleanYourTV 是一个把 Android TV / Google TV 去臃肿的开源工具集：电视打开 USB 调试后，由 Claude Code这类工具帮你去掉电视广告",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7700873592036294656",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/76c64505406f4d1dbe55ac60b515e3ab~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1793646442&x-signature=VT0iTJPE9FK2576lJRvdd1In7jE%3D",
+      "tags": [],
+      "published_at": "2026-10-26T14:15:31",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "cd8401f078d6",
+      "title": "Flutter 紧急发布 3.47.8 安全升级版本，建议都升级",
+      "summary": "Flutter 周末紧急发布了 Flutter 3.47.8 和 Dart 3.13.7 版本，因为最近印度老哥的骚操作被人扫出来， eMudhra 的 CA 证书密钥泄露，而泄漏的原因是因为它的证书",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7700380674944204810",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/ee5508705e7e4fceabce2a5e266262d9~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1793646442&x-signature=OtgD7gB3mPmpfGOeLcMnyulJBa0%3D",
+      "tags": [],
+      "published_at": "2026-10-26T00:57:04",
+      "read_time_minutes": 5
+    }
+  ]
 }
