@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-27T04:40:36.876517",
+  "last_updated": "2026-10-27T10:19:34.670033",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "4e7bb24d320f",
+      "title": "【Jetpack 内核实战 08 】：组件整合——DataStore + Room 构建离线优先架构",
+      "summary": "Room 与 DataStore 深度整合，构建 Android 离线优先架构，详解四层数据分层设计、Flow combine 多源合并、AppContainer 手动依赖注入三大核心，结合记事本项目",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7700887889736056875",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-10-27T01:49:17",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "11f9bb49c957",
+      "title": "Compose 中何时该用 padding，何时该用 offset",
+      "summary": "Compose 中何时该用 padding，何时该用 offset 在 Jetpack Compose 中，padding 和 offset 都能让控件看起来“不在原来的位置”。但它们处理的是两类不同",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7700857041943887898",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/7f67ef7ac96847ce897315c455e7eb51~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAgQW5kcm9pZOaJk-W3peS7lA==:q75.awebp?rk3s=f64ab15b&x-expires=1793701172&x-signature=8efhQVdTdTj%2FN3trCB%2BU1X9p7d4%3D",
+      "tags": [],
+      "published_at": "2026-10-26T23:32:39",
+      "read_time_minutes": 5
+    }
+  ]
 }
