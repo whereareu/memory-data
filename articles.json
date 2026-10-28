@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-28T08:12:33.222631",
+  "last_updated": "2026-10-28T15:52:33.535191",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "ffb3c664d0e1",
+      "title": "现代 Android 架构指南：不要再主动设计 Callback 接口",
+      "summary": "项目已经完全协程化，`Flow` 也用了三年。 有一天，讨论一个持续接收数据的接口时，一位工作",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7701545991036862491",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/8f4412ec4df747dda51b4f5758a12ea4~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5r2c6b6Z5Yu_55So5LmL5YyW6aqo6b6Z:q75.awebp?rk3s=f64ab15b&x-expires=1793807550&x-signature=8zYwHfOuEZHYPcSj7oRrEhwFsto%3D",
+      "tags": [],
+      "published_at": "2026-10-28T12:37:23",
+      "read_time_minutes": 5
+    }
+  ]
 }
