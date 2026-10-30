@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-30T06:57:12.046761",
+  "last_updated": "2026-10-30T13:59:04.442830",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "c4a5dcc04208",
-      "title": "点击图标到内容出现，你的 App 在这几秒里做了什么：Android 冷启动全链路优化实战",
-      "summary": "从点击图标到第一帧，拆解 Android 冷启动全链路：三级工具定位耗时，四刀优化 SDK 初始化、ContentProvider、主线程任务与 Baseline Profile，双真机验收。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7702013601234436132",
-      "cover_image": "https://p3-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b9d703af823b407bb24de1c1442fd313~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg56Kz5Z-6QWdlbnQ=:q75.awebp?rk3s=f64ab15b&x-expires=1793948227&x-signature=ypcy8sK%2BkKtoQ78r%2FbRzmXeKpuQ%3D",
-      "tags": [],
-      "published_at": "2026-10-30T03:12:43",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
