@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-30T13:59:04.442830",
+  "last_updated": "2026-10-30T19:13:04.918202",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,30 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "5d5b41d01667",
+      "title": "一套自己部署的 IM，客户端是同一份 Flutter",
+      "summary": "CaoIM 是我做的一套即时通讯，给想自己部署聊天的人用。服务端是 Java，客户端是 Flutter。Android、iOS、Windows、macOS 和 Web 共用一份客户端代码。 客户端长什",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7702434799856369698",
+      "cover_image": "",
+      "tags": [],
+      "published_at": "2026-10-30T17:43:16",
+      "read_time_minutes": 5
+    },
+    {
+      "id": "aa0ccc5ec1e8",
+      "title": "最近 Android 有什么更新：Android Dev Summit 2026 技术解读",
+      "summary": "Android Studio 正式开放 Agent，ACP 让 IDE 能力也跟着过去 这个其实之前聊过了，最直接的变化是 Bring Your Own Agent（BYOA）在 Rabbit 2 进",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7701991107366731785",
+      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/0fe8e3c009654e19950fedac800c6fa4~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1793992383&x-signature=kWss7RP5hur9FN3UTTV8fc65uWA%3D",
+      "tags": [],
+      "published_at": "2026-10-30T01:07:32",
+      "read_time_minutes": 5
+    }
+  ]
 }
