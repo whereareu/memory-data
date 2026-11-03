@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-02T23:23:21.025385",
+  "last_updated": "2026-11-03T06:18:30.980103",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "639175af4918",
-      "title": "感人，Flutter 居然有了一个超实用提案，期待落地",
-      "summary": "Dart language #4827：First version of conditional part feature specification PR 就很赞，特别是对 Flutter 跨平台插",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7703289640062713907",
-      "cover_image": "https://p9-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/2586b84e00884d74a77281a92994270b~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1794266598&x-signature=6WeUsNZOZM1maYcGVM8AAdwDm9A%3D",
-      "tags": [],
-      "published_at": "2026-11-02T01:17:44",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
