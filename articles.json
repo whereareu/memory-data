@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-06T17:19:48.381756",
+  "last_updated": "2026-11-06T22:56:55.074429",
   "sources": [
     {
       "name": "掘金",
@@ -13,30 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "8f0cabff6353",
-      "title": "一天一个开源项目（第255篇）：Mika —— 装在安卓手机里的 AI 代理，在后台虚拟屏上替你操作 App 和网页",
-      "summary": "Mika 是一个 Android 端的开源 AI 助手：你说一句话，它在隐藏的后台屏幕上像人一样看屏幕、点按钮、输入文字，跨 App 和网页完成任务，不占用你的主屏",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7704935347230408755",
-      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b0ba83dd53824dcbb196158c86c0c60f~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5Yas5aWHTGFi:q75.awebp?rk3s=f64ab15b&x-expires=1794590386&x-signature=xqKxh1XLYBhrFfxHTwRLfbl9U8o%3D",
-      "tags": [],
-      "published_at": "2026-11-06T12:48:40",
-      "read_time_minutes": 5
-    },
-    {
-      "id": "a4cc61a8d45f",
-      "title": "Flutter 双端热更新新方案：基于 Dart 官方动态模块的 flutter_patcher 1.0.0",
-      "summary": "一、为什么还要再造一个热更新？ 做 Flutter 的同学大概都经历过：线上出了个小 Bug，改动只有一行，却得重新打包、提审、等审核、等用户升级。快的要一两天，慢的得拖上一周。 热更新本来是解决这类",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7704594117821693988",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-11-06T02:18:59",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
