@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-08T23:34:08.129172",
+  "last_updated": "2026-11-09T05:51:05.793378",
   "sources": [
     {
       "name": "掘金",
@@ -13,5 +13,18 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "id": "308e956c52da",
+      "title": "Flutter 下 AOT 一个你怎么都想不出来的 Bug ，JIT 正常的计算，在 AOT 居然算错了",
+      "summary": "最近有个 dart-lang/sdk#64878 的 Bug ，太抽象了，和我最近遇到的问题一样抽象，同一段合法的 Dart 数值计算代码，Debug 运行正常，AOT 编译后居然可能直接崩溃，或者不",
+      "author": "掘金作者",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7705608480665337882",
+      "cover_image": "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/339d722959cd4b57b08977af8c91f2eb~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg5oGL54yrZGXlsI_pg60=:q75.awebp?rk3s=f64ab15b&x-expires=1794808264&x-signature=Ij5D430XqCd7r1Be0eplkGxYVt4%3D",
+      "tags": [],
+      "published_at": "2026-11-09T01:04:01",
+      "read_time_minutes": 5
+    }
+  ]
 }
