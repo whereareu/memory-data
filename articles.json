@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-10T16:56:35.478785",
+  "last_updated": "2026-11-10T22:15:19.473325",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "d9fecdd67033",
-      "title": "鸿蒙 ArkTS 独立开发者的项目结构 model / dao / viewmodel / page / common 的分层",
-      "summary": "做了一堆鸿蒙 app 之后发现，项目第一天的目录结构 决定后 90 天开发顺不顺。走通几种结构后，总结出适合独立开发者的分层：model",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7705995320547278888",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-11-09T11:11:37",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
