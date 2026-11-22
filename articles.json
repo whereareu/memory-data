@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-22T11:07:12.680136",
+  "last_updated": "2026-11-22T19:23:38.147907",
   "sources": [
     {
       "name": "掘金",
@@ -13,18 +13,5 @@
       "url": "https://blog.csdn.net"
     }
   ],
-  "articles": [
-    {
-      "id": "d7ffed0bc8b1",
-      "title": "Dart 之元数据与注解",
-      "summary": "从生活中的标签理解 Dart 元数据，讲清 @override、弃用迁移、meta 约定、自定义注解与工具处理的关系，结合代码和图解辨别常见误区。",
-      "author": "掘金作者",
-      "source": "掘金",
-      "url": "https://juejin.cn/post/7710520047035219995",
-      "cover_image": "",
-      "tags": [],
-      "published_at": "2026-11-22T09:16:47",
-      "read_time_minutes": 5
-    }
-  ]
+  "articles": []
 }
